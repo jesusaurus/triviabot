@@ -498,8 +498,6 @@ Music : 70's Chart Toppers: Name The Artist: Found A Cure`ashford & simpson
 Music : 70's Chart Toppers: Name The Artist: Fox On The Run`sweet
 Music : 70's Chart Toppers: Name The Artist: Frankenstein`edgar winter group
 Music : 70's Chart Toppers: Name The Artist: Freddie's Dead`curtis mayfield
-Music : 70's Chart Toppers: Name The Artist: Free Bird`lynyrd skynyrd
-Music : 70's Chart Toppers: Name The Artist: Free Bird`lynyrd skynyrd
 Music : 70's Chart Toppers: Name The Artist: Free Man In Paris`joni mitchell
 Music : 70's Chart Toppers: Name The Artist: Free Ride`edgar winter group
 Music : 70's Chart Toppers: Name The Artist: Free`chicago
@@ -1615,8 +1613,6 @@ Music : 70's Chart Toppers: Name The Artist: Seasons In The Sun`terry jacks
 Music : 70's Chart Toppers: Name The Artist: Second Avenue`art garfunkel
 Music : 70's Chart Toppers: Name The Artist: Secret Love`freddy fender
 Music : 70's Chart Toppers: Name The Artist: See Me, Feel Me`who
-Music : 70's Chart Toppers: Name The Artist: Send In The Clowns`judy collins
-Music : 70's Chart Toppers: Name The Artist: Send In The Clowns`judy collins
 Music : 70's Chart Toppers: Name The Artist: Send One Your Love`stevie wonder
 Music : 70's Chart Toppers: Name The Artist: Sentimental Lady`bob welch
 Music : 70's Chart Toppers: Name The Artist: Separate Ways`elvis presley
@@ -3316,7 +3312,6 @@ Music : 90's Chart Toppers: Name The Artist: Run To You`whitney houston
 Music : 90's Chart Toppers: Name The Artist: Runaway Train`soul asylum
 Music : 90's Chart Toppers: Name The Artist: Saving Forever For You`shanice
 Music : 90's Chart Toppers: Name The Artist: Shoop`salt-n-pepa
-Music : 90's Chart Toppers: Name The Artist: Show Me Love`robyn
 Music : 90's Chart Toppers: Name The Artist: Simple Life`elton john
 Music : 90's Chart Toppers: Name The Artist: Six Feet Deep`the geto boys
 Music : 90's Chart Toppers: Name The Artist: Slam`onyx
@@ -3469,7 +3464,6 @@ Music : 90's Chart Toppers: Name The Artist: Sweet Potatoe Pie`domino
 Music : 90's Chart Toppers: Name The Artist: Thinkin' Problem`david ball
 Music : 90's Chart Toppers: Name The Artist: This D.J.`warren g
 Music : 90's Chart Toppers: Name The Artist: Thuggish-Ruggish-Bone`bone thugs-n-harmony
-Music : 90's Chart Toppers: Name The Artist: Tootsee Roll`69 boyz
 Music : 90's Chart Toppers: Name The Artist: Tremor Christ`pearl jam
 Music : 90's Chart Toppers: Name The Artist: Turn The Beat Around`gloria estefan
 Music : 90's Chart Toppers: Name The Artist: U.N.I.T.Y.`queen latifah
@@ -3500,7 +3494,6 @@ Music : 90's Chart Toppers: Name The Artist: Back For Good`take that
 Music : 90's Chart Toppers: Name The Artist: Bang And Blame`r.e.m.
 Music : 90's Chart Toppers: Name The Artist: Beautiful Life`ace of base
 Music : 90's Chart Toppers: Name The Artist: Before I Let You Go`blackstreet
-Music : 90's Chart Toppers: Name The Artist: Before You Walk Out Of My Life`monica
 Music : 90's Chart Toppers: Name The Artist: Believe`elton john
 Music : 90's Chart Toppers: Name The Artist: Best Friend`brandy
 Music : 90's Chart Toppers: Name The Artist: Big Poppa`the notorious b.i.g.
@@ -3617,7 +3610,6 @@ Music : 90's Chart Toppers: Name The Artist: This Ain't A Love Song`bon jovi
 Music : 90's Chart Toppers: Name The Artist: This Is How We Do It`montell jordan
 Music : 90's Chart Toppers: Name The Artist: This Lil' Game We Play`subway featuring 702
 Music : 90's Chart Toppers: Name The Artist: 'Til You Do Me Right`after 7
-Music : 90's Chart Toppers: Name The Artist: Tootsee Roll`69 boyz
 Music : 90's Chart Toppers: Name The Artist: Total Eclipse Of The Heart`nicki french
 Music : 90's Chart Toppers: Name The Artist: Warning`the notorious b.i.g.
 Music : 90's Chart Toppers: Name The Artist: Water Runs Dry`boyz ii men
@@ -3639,7 +3631,6 @@ Music : 90's Chart Toppers: Name The Artist: Always Be My Baby`mariah carey
 Music : 90's Chart Toppers: Name The Artist: Anything`3t
 Music : 90's Chart Toppers: Name The Artist: Be My Lover`la bouche
 Music : 90's Chart Toppers: Name The Artist: Because You Loved Me`celine dion
-Music : 90's Chart Toppers: Name The Artist: Before You Walk Out Of My Life`monica
 Music : 90's Chart Toppers: Name The Artist: Breakfast At Tiffany's`deep blue something
 Music : 90's Chart Toppers: Name The Artist: Bullet With Butterfly Wings`smashing pumpkins
 Music : 90's Chart Toppers: Name The Artist: Change The World`eric clapton
@@ -3662,7 +3653,6 @@ Music : 90's Chart Toppers: Name The Artist: Hey Lover`l.l.cool j
 Music : 90's Chart Toppers: Name The Artist: Hit Me Off`new edition
 Music : 90's Chart Toppers: Name The Artist: Hook Blues`traveler
 Music : 90's Chart Toppers: Name The Artist: I Can't Sleep Baby(If I)`r.kelly
-Music : 90's Chart Toppers: Name The Artist: I Love You Always Forever`donna lewis
 Music : 90's Chart Toppers: Name The Artist: I Want To Come Over`melissa etheridge
 Music : 90's Chart Toppers: Name The Artist: If Your Girl Only Knew`aaliyah
 Music : 90's Chart Toppers: Name The Artist: Insensitive`jann arden
@@ -3732,7 +3722,6 @@ Music : 90's Chart Toppers: Name The Artist: G.H.E.T.T.O.U.T.`changing faces
 Music : 90's Chart Toppers: Name The Artist: Get It Together`702
 Music : 90's Chart Toppers: Name The Artist: Gotham City`r. kelly
 Music : 90's Chart Toppers: Name The Artist: Honey`mariah carey
-Music : 90's Chart Toppers: Name The Artist: How Do I Live`leann rimes
 Music : 90's Chart Toppers: Name The Artist: Hypnotize`the notorious b.i.g.
 Music : 90's Chart Toppers: Name The Artist: I Believe I Can Fly`r. kelly
 Music : 90's Chart Toppers: Name The Artist: I Believe In You And Me`whitney houston
@@ -3740,7 +3729,6 @@ Music : 90's Chart Toppers: Name The Artist: I Belong To You (Every Time I See Y
 Music : 90's Chart Toppers: Name The Artist: I Don't Want To`toni braxton
 Music : 90's Chart Toppers: Name The Artist: I Finally Found Someone`barbra streisand & bryan adams
 Music : 90's Chart Toppers: Name The Artist: I Like It`the blackout allstars
-Music : 90's Chart Toppers: Name The Artist: I Love You Always Forever`donna lewis
 Music : 90's Chart Toppers: Name The Artist: I Shot The Sheriff`warren g
 Music : 90's Chart Toppers: Name The Artist: I Want You`savage garden
 Music : 90's Chart Toppers: Name The Artist: If It Makes You Happy`sheryl crow
@@ -3764,14 +3752,12 @@ Music : 90's Chart Toppers: Name The Artist: Say You'll Be There`spice girls
 Music : 90's Chart Toppers: Name The Artist: Secret Garden`bruce springsteen
 Music : 90's Chart Toppers: Name The Artist: Semi-Charmed Life`third eye blind
 Music : 90's Chart Toppers: Name The Artist: Sunny Came Home`shawn colvin
-Music : 90's Chart Toppers: Name The Artist: Tubthumping`chumbawamba
 Music : 90's Chart Toppers: Name The Artist: Wannabe`spice girls
 Music : 90's Chart Toppers: Name The Artist: What About Us`total
 Music : 90's Chart Toppers: Name The Artist: What's On Tonight`montell jordan
 Music : 90's Chart Toppers: Name The Artist: When You Love A Woman`journey
 Music : 90's Chart Toppers: Name The Artist: When You're Gone T`he cranberries
 Music : 90's Chart Toppers: Name The Artist: Where Have All The Cowboys Gone?`paula cole
-Music : 90's Chart Toppers: Name The Artist: You Make Me Wanna...`usher
 Music : 90's Chart Toppers: Name The Artist: You Must Love Me`madonna
 Music : 90's Chart Toppers: Name The Artist: You Were Meant For Me/Foolish Games`jewel
 Music : 90's Chart Toppers: Name The Artist: Your Woman`white town
@@ -3795,7 +3781,6 @@ Music : 90's Chart Toppers: Name The Artist: Gettin' Jiggy Wit It`will smith
 Music : 90's Chart Toppers: Name The Artist: Gone Til November`wyclef jean
 Music : 90's Chart Toppers: Name The Artist: Goodbye`spice girls
 Music : 90's Chart Toppers: Name The Artist: Hard Knock Life (Ghetto Anthem)`jay-z
-Music : 90's Chart Toppers: Name The Artist: How Do I Live`leann rimes
 Music : 90's Chart Toppers: Name The Artist: How's It Going To Be`third eye blind
 Music : 90's Chart Toppers: Name The Artist: Husbands And Wives`brooks & dunn
 Music : 90's Chart Toppers: Name The Artist: I Don't Ever Want To See You Again`uncle sam
@@ -3826,7 +3811,6 @@ Music : 90's Chart Toppers: Name The Artist: Ray Of Light`madonna
 Music : 90's Chart Toppers: Name The Artist: Real World`matchbox 20
 Music : 90's Chart Toppers: Name The Artist: Say It`voices of theory
 Music : 90's Chart Toppers: Name The Artist: Sex And Candy`marcy playground
-Music : 90's Chart Toppers: Name The Artist: Show Me Love`robyn
 Music : 90's Chart Toppers: Name The Artist: Someone You Used To Know`collin raye
 Music : 90's Chart Toppers: Name The Artist: A Song For Mama`boyz ii men
 Music : 90's Chart Toppers: Name The Artist: Swing My Way`k.p. & envyi
@@ -3839,10 +3823,8 @@ Music : 90's Chart Toppers: Name The Artist: Too Close`next
 Music : 90's Chart Toppers: Name The Artist: Too Much`spice girls
 Music : 90's Chart Toppers: Name The Artist: Touch It`monifah
 Music : 90's Chart Toppers: Name The Artist: Truly Madly Deeply`savage garden
-Music : 90's Chart Toppers: Name The Artist: Tubthumping`chumbawamba
 Music : 90's Chart Toppers: Name The Artist: Westside`tq
 Music : 90's Chart Toppers: Name The Artist: When The Lights Go Out`five
-Music : 90's Chart Toppers: Name The Artist: You Make Me Wanna...`usher
 Music : 90's Chart Toppers: Name The Artist: You're Beginning To Get To Me`clay walker
 Music : 90's Chart Toppers: Name The Artist: You're Easy On The Eyes`terri clark
 Music : 90's Chart Toppers: Name The Artist: You're Still The One`shania twain

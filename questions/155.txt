@@ -28,7 +28,6 @@ Music : what is madonna's daughter's name`lourdes
 Music : what is madonna's last name`ciccone
 Music : what is michael jackson's real name`michael jackson
 Music : What is Mick Jagger's favourite sport`cricket
-Music : What is P.J.Harvey's first album`dry
 Music : what is singer vincent furnier's stage name`alice cooper
 Music : what is stevie wonder's real name`steveland morris
 Music : what is the best selling single artist ever`garth brooks
@@ -771,8 +770,6 @@ Music : Year: "Joy To The World," "Brown Sugar," & " Its Too Late" all hit #1 th
 Music : You can't go where the others go`the way it is
 Music : You said you had to get your laundry cleaned`break my stride
 Music : Young boy runs through the street rolling a tire.`hungry like the wolf
-Music : Young Creatures (Australian)`baby animals
-Music : Young Creatures (Australian)`baby animals
 Music : Zappa song : "Billy was a mountain/Ethel was a tree sitting on his shoulder"`billy the mountain
 Music :1972: "Black & White" was a hit for who`3 dog night
 Music :1972: Helen Reddy pronounced this to the world.`i am woman
@@ -780,9 +777,6 @@ Music :1972: Name 1 of the 2 artists who shared the title of 1972 #1 sigles arti
 Music :1972: She was named the #1 album artist of 1972.`roberta flack
 Music :1972: The Chi-Lites hit #1 with this song.`oh girl
 Music :1992: what album did neil young release as a sequel to his 1972 lp harvest`harvest moon
-Music :in what disney film did conductor leopold stokowski appear`fantasia
-Music :what was "the american tribal love rock musical"`hair
-Music :what was the theme song of paul whiteman`rhapsody in blue
 Music :who recorded "don't fear the reaper" in 1976`blue oyster cult
 Music :who recorded "it's too late"`carole king
 Music : Complete This Elvis Song Title: A big hunk ------ `o' love
@@ -1767,7 +1761,6 @@ Music : Song: Name The Artist: Aqua Marine`santana
 Music : Song: Name The Artist: Vera Cruz`santana
 Music : In the 90s, who had a #1 with "Stay Another Day" `east 17
 Music : Which standard begins, "They asked me how I knew, my true love was true" `smoke gets in your eyes
-Music : Well known deaf and syphilitic Teutonic composer.`beethoven
 Music : Category: Colorado: Denver was the only place this group did not sell out touring the US in 1966.`beatles
 Music : Category: Colorado: U2's "Under A Blood Red Sky" was filmed here`red rocks ampitheatre
 Music : Category: Famous Gills: Country singer who, according to some people, actually looks like derge.`vince gill
@@ -1783,20 +1776,6 @@ Music : Category: Name Origins: This singer's name is a take-off of Fats Domino.
 Music : Category: Name Origins: "Heart & Soul" group named itself after a Vulcan princess on "Star Trek"`tpau
 Music : Category: Name Their Job: Kate Smith`singer
 Music : Category: It Was 1972: This Roberta Flack song was the #1 single of 1972.`first time ever i saw your face
-Music : 80's Chart Toppers: Name The Artist: Sunglasses At Night`corey hart
-Music : 80's Chart Toppers: Name The Artist: Sunset Grill`don henley
-Music : 80's Chart Toppers: Name The Artist: Sunshine`dino
-Music : 80's Chart Toppers: Name The Artist: Super Freak`rick james
-Music : 80's Chart Toppers: Name The Artist: Supersonic`j.j. fad
-Music : 80's Chart Toppers: Name The Artist: Superstitious`europe
-Music : 80's Chart Toppers: Name The Artist: Superwoman`karyn white
-Music : 80's Chart Toppers: Name The Artist: Surrender To Me`ann wilson
-Music : 80's Chart Toppers: Name The Artist: Sussudio`phil collins
-Music : 80's Chart Toppers: Name The Artist: Suzanne`journey
-Music : 80's Chart Toppers: Name The Artist: Sweet Baby`stanley clarke & george duke
-Music : 80's Chart Toppers: Name The Artist: Sweet Child O' Mine`guns n' roses
-Music : 80's Chart Toppers: Name The Artist: Sweet Dreams (Are Made Of This)`eurythmics
-Music : 80's Chart Toppers: Name The Artist: Sweet Dreams`air supply
 Music : 80's Chart Toppers: Name The Artist: Lovin' Every Minute Of It`loverboy
 Music : 80's Chart Toppers: Name The Artist: Lucky In Love`mick jagger
 Music : 80's Chart Toppers: Name The Artist: Lucky Star`madonna
@@ -2027,8 +2006,6 @@ Music : 80's Chart Toppers: Name The Artist: Read Em' And Weep`barry manilow
 Music : 80's Chart Toppers: Name The Artist: Real Love`doobie brothers
 Music : 80's Chart Toppers: Name The Artist: Real Love`jody watley
 Music : 80's Chart Toppers: Name The Artist: Really Wanna Know You`gary wright
-Music : 80's Chart Toppers: Name The Artist: Red Red Wine`ub40
-Music : 80's Chart Toppers: Name The Artist: Red Red Wine`ub40
 Music : 80's Chart Toppers: Name The Artist: Refugee`tom petty & the heartbreakers
 Music : 80's Chart Toppers: Name The Artist: Relax`frankie goes to hollywood
 Music : 80's Chart Toppers: Name The Artist: Remember The Nights`motels
@@ -2205,20 +2182,6 @@ Music : 80's Chart Toppers: Name The Artist: Smuggler's Blues`glenn frey
 Music : 80's Chart Toppers: Name The Artist: So Alive`love and rockets
 Music : 80's Chart Toppers: Name The Artist: So Bad`paul mccartney
 Music : 80's Chart Toppers: Name The Artist: So Close`diana ross
-Music : 80's Chart Toppers: Name The Artist: Sunglasses At Night`corey hart
-Music : 80's Chart Toppers: Name The Artist: Sunset Grill`don henley
-Music : 80's Chart Toppers: Name The Artist: Sunshine`dino
-Music : 80's Chart Toppers: Name The Artist: Super Freak`rick james
-Music : 80's Chart Toppers: Name The Artist: Supersonic`j.j. fad
-Music : 80's Chart Toppers: Name The Artist: Superstitious`europe
-Music : 80's Chart Toppers: Name The Artist: Superwoman`karyn white
-Music : 80's Chart Toppers: Name The Artist: Surrender To Me`ann wilson
-Music : 80's Chart Toppers: Name The Artist: Sussudio`phil collins
-Music : 80's Chart Toppers: Name The Artist: Suzanne`journey
-Music : 80's Chart Toppers: Name The Artist: Sweet Baby`stanley clarke & george duke
-Music : 80's Chart Toppers: Name The Artist: Sweet Child O' Mine`guns n' roses
-Music : 80's Chart Toppers: Name The Artist: Sweet Dreams (Are Made Of This)`eurythmics
-Music : 80's Chart Toppers: Name The Artist: Sweet Dreams`air supply
 Music : 60's Chart Toppers: Name The Artist: Blue Winter`connie francis
 Music : 60's Chart Toppers: Name The Artist: Bread and Butter`the newbeats
 Music : 60's Chart Toppers: Name The Artist: C'mon and Swim`bobby freeman
@@ -3119,7 +3082,6 @@ Music : 60's Chart Toppers: Name The Artist: Whispers (Gettin' Louder)`jackie wi
 Music : 60's Chart Toppers: Name The Artist: Who Am I`petula clark
 Music : 60's Chart Toppers: Name The Artist: Wild Thing`the troggs
 Music : 60's Chart Toppers: Name The Artist: Winchester Cathedral`the new vaudeville band
-Music : 60's Chart Toppers: Name The Artist: Wipe Out`the surfaris
 Music : 60's Chart Toppers: Name The Artist: With A Girl Like You`the troggs
 Music : 60's Chart Toppers: Name The Artist: Woman`peter & gordon
 Music : 60's Chart Toppers: Name The Artist: Words of Love`the mamas & the papas
@@ -3534,7 +3496,6 @@ Music Term: - A musical ornament turning around a note starting with the note bo
 Music Term:  (It.) - Indication to pianist to release the left-hand pedal.`tutte le corde
 Music Term:  (It.) -  Generally this term means 'all the players' (e.g. in a concerto). The expression is used when the orchestra is playing without the soloist. In  choral works tutti means chorus as opposed to soloists, or full chorus as  opposed to semi-chorus.`tutti
 Music Term: - See serial music.`twelve note
-Music Term: - American term for serial music`twelve tone
 Music Term:  (Ger.) - Over, above.`uber
 Music Term:  (Ger.) - Exercise.`ubung
 Music Term:  (Ger.) - Inversion, reversal.`umkehrung

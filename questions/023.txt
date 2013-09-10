@@ -1987,20 +1987,6 @@ In 1671 Giovanni Cassini discovers Iapetus, satellite of---------- . `saturn
 In 1760 ---------- ascends the British throne. `george iii
 In 1825 ---------- Strauss the Younger, composer, Waltz King `johann
 In 1825 Johann ---------- the Younger, composer, Waltz King `strauss
-In 1877 ---------- Norris Russell, astronomer (Hertzsprung-Russell diagram) born`henry
-In 1877 Henry ---------- Russell, astronomer (Hertzsprung-Russell diagram) born`norris
-In 1877 Henry Norris---------- , astronomer (Hertzsprung-Russell diagram) born`russell
-In 1881 ---------- Picasso, doodler (Guernica) (or 10-05) born`pablo
-In 1881 Pablo---------- , doodler (Guernica) (or 10-05) born`picasso
-In 1884 ---------- Barrios, Chilean novelist (The Love-Crazed Boy) born`eduardo
-In 1884 Eduardo---------- , Chilean novelist (The Love-Crazed Boy) born`barrios
-In 1888 ---------- E. Byrd, polar explorer born`richard
-In 1888 Richard E.---------- , polar explorer born`byrd
-In 1928 ---------- Ross (in Minnesota), actor (Played Mrs. Cunningham in Happy Days) born`marion
-In 1928 Marion ---------- (in Minnesota), actor (Played Mrs. Cunningham in Happy Days) born`ross
-In 1928 Marion Ross (in Minnesota), actor (Played Mrs. Cunningham in---------- ) born`happy days
-In 1935 ---------- L. (Rusty) Schweickart, astronaut (Apollo 9) born`russell
-In 1935 Russell L. (Rusty)---------- , astronaut (Apollo 9) born`schweickart
 In 1939 ---------- go on sale in the U.S. for the first time. `nylon stockings
 In 1941 ---------- Reddy (in Melbourne, Australia), singer (I am Woman) born `helen
 In 1941 Helen ---------- (in Melbourne, Australia), singer (I am Woman) born `reddy
@@ -2068,7 +2054,6 @@ In 1585 Cornelius Otto ---------- of France, Roman Catholic reform leader `janse
 In 1636 ---------- College, first US college founded. `harvard
 In 1793 ---------- Whitney applies for patent for the cotton gin. `eli
 In 1793 Eli ---------- applies for patent for the cotton gin. `whitney
-In 1914 Dr. ---------- Salk, who made polio a fear of the past born`jonas
 In 1914 Dr. Jonas---------- , who made polio a fear of the past born `salk
 In 1914 Dr. Jonas Salk, who made ---------- a fear of the past born `polio
 In 1918 ---------- declares independence from Austria. `czechoslovakia
@@ -2101,30 +2086,6 @@ In 1948 ---------- Jackson (in Alabama), actor (Charley's Angels, Making Love), 
 In 1948 Kate ---------- (in Alabama), actor (Charley's Angels, Making Love), born. `jackson
 In 1964 ---------- and other jewels are stolen in NY. `star of india
 In 1270 ---------- and last crusade is launched. `8th
-AUTHORS: Who wrote Atlas Shrugged`ayn rand
-AUTHORS: Who wrote The Fountainhead`ayn rand
-AUTHORS: Who wrote We the Living`ayn rand
-AUTHORS: Who wrote Wild Sargasso Sea`jean rhys
-AUTHORS: Who wrote Interview with a Vampire`anne rice
-AUTHORS: Who wrote Portnoy's Complaint`philip roth
-AUTHORS: Who wrote The Ground Beneath Her Feet`salman rushdie
-AUTHORS: Who wrote Midnight Children`salman rushdie
-AUTHORS: Who wrote Satanic Verses`salman rushdie
-AUTHORS: Who wrote A Bridge to Far`cornelius ryan
-AUTHORS: Who wrote Brocas Brain`carl sagan
-AUTHORS: Who wrote Dragons of Eden`carl sagan
-AUTHORS: Who wrote Catcher in the Rye`j d salinger
-AUTHORS: Who wrote Ivanhoe`sir walter scott
-AUTHORS: Who wrote Nightwork`irwin shaw
-AUTHORS: Who wrote Nothing Lasts Forever`sidney sheldon
-AUTHORS: Who wrote Other Side of Midnight`sidney sheldon
-AUTHORS: Who wrote Frankenstein`mary shelley
-AUTHORS: Who wrote Lodore`mary shelley
-AUTHORS: Who wrote On the Beach`Neville shute
-AUTHORS: Who wrote Town like Alice`neville shute
-AUTHORS: Who wrote Trustee in the Toolroom`neville shute
-AUTHORS: Who wrote The Jungle`upton Sinclair
-AUTHORS: Who wrote Sailing Alone Around the World`joshua slocum
 What is the fear of voids known as`kenophobia
 What is the fear of thunder known as`keraunophobia
 What is the fear of movement or motion known as`kinetophobia
@@ -2213,18 +2174,6 @@ What is the fear of the figure 8 known as`octophobia
 What is the fear of teeth or dental surgery known as`odontophobia
 What is the fear of pain known as`odynephobia
 What is the fear of wines known as`oenophobia
-What is the fear of home surroundings or house known as`oikophobia
-What is the fear of smells known as`olfactophobia
-What is the fear of rain known as`ombrophobia
-What is the fear of eyes known as`ommetaphobia
-What is the fear of wet dreams known as`oneirogmophobia
-What is the fear of dreams known as`oneirophobia
-What is the fear of home surroundings or house known as`oikophobia
-What is the fear of smells known as`olfactophobia
-What is the fear of rain known as`ombrophobia
-What is the fear of eyes known as`ommetaphobia
-What is the fear of wet dreams known as`oneirogmophobia
-What is the fear of dreams known as`oneirophobia
 What is the fear of hearing a certain word known as`onomatophobia
 What is the fear of snakes known as`ophidiophobia
 What is the fear of being stared at known as`ophthalmophobia

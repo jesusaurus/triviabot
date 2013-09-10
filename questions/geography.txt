@@ -1,5 +1,4 @@
 Geography: Which continent is part of both the east and west hemispheres?`Antarctica
-Geography: What is the capital of Luxembourg?`Luxembourg
 Geography: What is the capital of Brazil?`Brazilia
 Geography: Where is Angel Falls?`Venezuela
 Geography: What is the capital of Jamaica?`Kingston
@@ -35,7 +34,6 @@ Geography: What is the capital of India?`New Delhi
 Geography: New Delhi is the capital of ______?`India
 Geography: What is the capital of Senegal?`Dakar
 Geography: Dakar is the capital of ______?`Senegal
-Geography: What is the capital of Luxembourg?`Luxembourg
 Geography: What is the capital of Turkey?`Ankara
 Geography: Ankara is the capital of ______?`Turkey
 Geography: What was the capital of East Germany?`East Berlin

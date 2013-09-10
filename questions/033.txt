@@ -347,12 +347,6 @@ Name The Year: David Faustino, actor (Married With Children's Bud Bundy), born`1
 Name The Year: TV Show "Moonlighting" premieres`1985
 Name The Year: Alessandro Manzoni, poet, born`1785
 Name The Year: Maurice Ravel, composer (Bolero), born`1875
-Name The Year: Alexander Graham Bell received a patent for his telephone`1876
-Name The Year: Transatlantic phone service begins between New York and London`1926
-Name The Year: Lord Snowdon, photographer, born`1930
-Name The Year: The game "Monopoly" is invented`1933
-Name The Year: Willard Scott, weatherman, original Ronald McDonald, born`1934
-Name The Year: Hitler breaks Treaty of Versailles by sending troops to Rhineland`1936
 Name The Year: Ivan Lendl, tennis player, born`1960
 Name The Year: Louis I (the Great), king of Hungary (1342-82), Poland (1370-82)`1326
 Name The Year: Gerhardus Mercator, geographer & map maker`1512
@@ -384,13 +378,7 @@ Name The Year: Soyuz 39 returns to Earth`1981
 Name The Year: Thomas Aquinas Day`1583
 Name The Year: In Hawaii, the Great Mahele (division of lands) is signed`1848
 Name The Year: Maurice Ravel (in Cibourne, France), composer (Bollero), born`1875
-Name The Year: Alexander Graham Bell received a patent for his telephone`1876
 Name The Year: U.S. sent 20,000 troops to the Mexican border`1911
-Name The Year: Transatlantic phone service begins between New York and London`1926
-Name The Year: Lord Snowdon, photographer, born`1930
-Name The Year: The game "Monopoly" is invented`1933
-Name The Year: Willard Scott, weatherman, original Ronald McDonald, born`1934
-Name The Year: Hitler breaks Treaty of Versailles by sending troops to Rhineland`1936
 Name The Year: Daniel J. Travanti, actor (Hill Street Blues)`1940
 Name The Year: John Heard, actor, born`1945
 Name The Year: During World War II, US forces crossed the Rhine River`1945
@@ -695,34 +683,10 @@ Name The Year: Coca-Cola is created (it had cocaine at the time)`1886
 Name The Year: First Lt. William L. Calley, Jr. found guilty in the MyLai massacre`1971
 Name The Year: Last US troops leave Vietnam, 9 yrs after the Tonkin Resolution`1973
 Name The Year: Mariner 10, Mercury flyby`1974
-Name The Year: Sir John Hawkins, wrote first history of music in English, born`1719
-Name The Year: Francisco Jose de Goya, artist, born`1746
-Name The Year: Dr C. Long first used ether as an anesthetic during a minor operation`1842
-Name The Year: Vincent Van Gogh, artist who always lent an ear, born`1853
-Name The Year: Hyman L. Lipman of Philadelphia patented a pencil with an attached eraser`1858
-Name The Year: U.S. 15th Amendment passes, guarantees right to vote regardless of race`1870
-Name The Year: Frankie Laine, singer, born`1913
-Name The Year: John Astin, actor (Gomez in TV Addams Family), born`1930
-Name The Year: Amelia Earhart is first woman to make solo crossing of the Atlantic`1932
-Name The Year: Warren Beatty, actor, ladies man, born`1937
-Name The Year: The Soviet Union invaded Austria during World War II`1945
-Name The Year: Eric Clapton, guitarist, singer, born`1945
 Name The Year: Pres. Reagan shot and wounded by John W. Hinckley Jr`1981
 Name The Year: Third Space Shuttle Mission - Columbia 3 returns to Earth`1982
 Name The Year: U.S. ends participation in multinational peace force in Lebanon`1984
 Name The Year: James Cagney died at his farm in Stanfordville, NY, at age 86`1986
-Name The Year: Sir John Hawkins, wrote first history of music in English, born`1719
-Name The Year: Francisco Jose de Goya, artist, born`1746
-Name The Year: Dr C. Long first used ether as an anesthetic during a minor operation`1842
-Name The Year: Vincent Van Gogh, artist who always lent an ear, born`1853
-Name The Year: Hyman L. Lipman of Philadelphia patented a pencil with an attached eraser`1858
-Name The Year: U.S. 15th Amendment passes, guarantees right to vote regardless of race`1870
-Name The Year: Frankie Laine, singer, born`1913
-Name The Year: John Astin, actor (Gomez in TV Addams Family), born`1930
-Name The Year: Amelia Earhart is first woman to make solo crossing of the Atlantic`1932
-Name The Year: Warren Beatty, actor, ladies man, born`1937
-Name The Year: The Soviet Union invaded Austria during World War II`1945
-Name The Year: Eric Clapton, guitarist, singer, born`1945
 What did Lorraine Chase famously advertise on TV`campari
 Whose portrait appeared on the reverse of the last £1 note`isaac newton
 What is the name of the princess in Sleeping Beauty`aurora

@@ -19,7 +19,6 @@ Music : 50's Chart Toppers: Name The Artist: Rag Mop`the ames brothers
 Music : 50's Chart Toppers: Name The Artist: Sentimental Me`the ames brothers
 Music : 50's Chart Toppers: Name The Artist: The Tennessee Waltz`patti page
 Music : 50's Chart Toppers: Name The Artist: The Thing`phil harris
-Music : 50's Chart Toppers: Name The Artist: White Christmas`bing crosby
 Music : 50's Chart Toppers: Name The Artist: With My Eyes Wide Open I'm Dreaming`patti page
 Music : 50's Chart Toppers: Name The Artist: You're Just In Love`perry como
 Music : 50's Chart Toppers: Name The Artist: Be My Love`mario lanza
@@ -48,7 +47,6 @@ Music : 50's Chart Toppers: Name The Artist: Mister And Mississippi`patti page
 Music : 50's Chart Toppers: Name The Artist: Mixed Emotions`rosemary clooney
 Music : 50's Chart Toppers: Name The Artist: Mockin' Bird Hill`patti page
 Music : 50's Chart Toppers: Name The Artist: Moonlight Bay`bing & gary crosby
-Music : 50's Chart Toppers: Name The Artist: The Morning Side Of the Mountain`tommy edwards
 Music : 50's Chart Toppers: Name The Artist: My Heart Cries for You`guy mitchell
 Music : 50's Chart Toppers: Name The Artist: My Truly, Truly Fair`guy mitchell
 Music : 50's Chart Toppers: Name The Artist: Rollin' Stone`perry como with the fontane sisters
@@ -87,7 +85,6 @@ Music : 50's Chart Toppers: Name The Artist: It's In the Book (Parts 1 & `johnny
 Music : 50's Chart Toppers: Name The Artist: Kiss Of Fire`georgia gibbs
 Music : 50's Chart Toppers: Name The Artist: Lies`perry como
 Music : 50's Chart Toppers: Name The Artist: Maybe`perry como and eddie fisher
-Music : 50's Chart Toppers: Name The Artist: The Mocking Bird`the four lads
 Music : 50's Chart Toppers: Name The Artist: The Most Beautiful Girl In The World`frank sinatra
 Music : 50's Chart Toppers: Name The Artist: My Love and Devotion`perry como
 Music : 50's Chart Toppers: Name The Artist: The Night Before Christmas`rosemary clooney
@@ -469,7 +466,6 @@ Music : 50's Chart Toppers: Name The Artist: Wanting You`roger williams
 Music : 50's Chart Toppers: Name The Artist: Whatever Lola Wants`sarah vaughan
 Music : 50's Chart Toppers: Name The Artist: Whatever Lola Wants (Lola Gets)`dinah shore
 Music : 50's Chart Toppers: Name The Artist: When You Dance`the turbans
-Music : 50's Chart Toppers: Name The Artist: White Christmas`bing crosby
 Music : 50's Chart Toppers: Name The Artist: A Woman in Love`the four aces featuring al alberts
 Music : 50's Chart Toppers: Name The Artist: You Are My Love`joni james
 Music : 50's Chart Toppers: Name The Artist: Young Abe Lincoln`don cornell
@@ -748,7 +744,6 @@ Music : 50's Chart Toppers: Name The Artist: Jailhouse Rock`elvis presley
 Music : 50's Chart Toppers: Name The Artist: Jamaica Farewell`harry belafonte
 Music : 50's Chart Toppers: Name The Artist: Jenny, Jenny`little richard
 Music : 50's Chart Toppers: Name The Artist: Jim Dandy`lavern baker & the gliders
-Music : 50's Chart Toppers: Name The Artist: Jingle Bell Rock`bobby helms
 Music : 50's Chart Toppers: Name The Artist: The Joker (That's What They Call Me)`the hilltoppers
 Music : 50's Chart Toppers: Name The Artist: June Night`jimmy dorsey orchestra
 Music : 50's Chart Toppers: Name The Artist: Just Because`lloyd price
@@ -850,7 +845,6 @@ Music : 50's Chart Toppers: Name The Artist: Wake Up Little Susie`the everly bro
 Music : 50's Chart Toppers: Name The Artist: Walkin' After Midnight`patsy cline
 Music : 50's Chart Toppers: Name The Artist: When I See You`fats domino
 Music : 50's Chart Toppers: Name The Artist: Whispering Bells`the dell-vikings
-Music : 50's Chart Toppers: Name The Artist: White Christmas`bing crosby
 Music : 50's Chart Toppers: Name The Artist: White Silver Sands`don rondo
 Music : 50's Chart Toppers: Name The Artist: A White Sport Coat (and a Pink Carnation)`marty robbins
 Music : 50's Chart Toppers: Name The Artist: Who Needs You`the four lads
@@ -990,7 +984,6 @@ Music : 50's Chart Toppers: Name The Artist: It's Only Make Believe`conway twitt
 Music : 50's Chart Toppers: Name The Artist: It's Too Soon To Know`pat boone
 Music : 50's Chart Toppers: Name The Artist: Itchy Twitchy Feeling`bobby hendricks
 Music : 50's Chart Toppers: Name The Artist: Jennie Lee`jan & arnie (jan & dean)
-Music : 50's Chart Toppers: Name The Artist: Jingle Bell Rock`bobby helms
 Music : 50's Chart Toppers: Name The Artist: Jo-Ann`the playmates
 Music : 50's Chart Toppers: Name The Artist: Johnny B. Goode`chuck berry
 Music : 50's Chart Toppers: Name The Artist: Judy`frankie vaughan
@@ -1009,7 +1002,6 @@ Music : 50's Chart Toppers: Name The Artist: Leroy`jack scott
 Music : 50's Chart Toppers: Name The Artist: Let the Bells Keep Ringing`paul anka
 Music : 50's Chart Toppers: Name The Artist: A Letter to an Angel`jimmy clanton
 Music : 50's Chart Toppers: Name The Artist: The Little Blue Man`betty johnson
-Music : 50's Chart Toppers: Name The Artist: The Little Drummer Boy`harry simeone chorale
 Music : 50's Chart Toppers: Name The Artist: Little Star`the elegants
 Music : 50's Chart Toppers: Name The Artist: Lollipop`the chordettes
 Music : 50's Chart Toppers: Name The Artist: Lonely Island`sam cooke
@@ -1026,7 +1018,6 @@ Music : 50's Chart Toppers: Name The Artist: Manhattan Spiritual`reg owen & his 
 Music : 50's Chart Toppers: Name The Artist: Maybe`the chantels
 Music : 50's Chart Toppers: Name The Artist: Maybe Baby`buddy holly & the crickets
 Music : 50's Chart Toppers: Name The Artist: Mexican Hat Rock`the applejacks
-Music : 50's Chart Toppers: Name The Artist: The Mocking Bird`the four lads
 Music : 50's Chart Toppers: Name The Artist: Moon Talk`perry como
 Music : 50's Chart Toppers: Name The Artist: My Bucket's Got a Hole in It`ricky nelson
 Music : 50's Chart Toppers: Name The Artist: My True Love`jack scott
@@ -1252,7 +1243,6 @@ Music : 50's Chart Toppers: Name The Artist: Kissin' Time`bobby rydell
 Music : 50's Chart Toppers: Name The Artist: Kookie, Kookie (Lend Me Your Comb)`edward byrnes with connie stevens
 Music : 50's Chart Toppers: Name The Artist: Lavender-Blue`sammy turner
 Music : 50's Chart Toppers: Name The Artist: Lipstick On Your Collar`connie francis
-Music : 50's Chart Toppers: Name The Artist: The Little Drummer Boy`harry simeone chorale
 Music : 50's Chart Toppers: Name The Artist: Little Space Girl`jesse lee turner
 Music : 50's Chart Toppers: Name The Artist: Little Things Mean a Lot`joni james
 Music : 50's Chart Toppers: Name The Artist: Living Doll`cliff richard & the drifters
@@ -1277,7 +1267,6 @@ Music : 50's Chart Toppers: Name The Artist: Misty`johnny mathis
 Music : 50's Chart Toppers: Name The Artist: Mona Lisa`carl mann
 Music : 50's Chart Toppers: Name The Artist: Mona Lisa`conway twitty
 Music : 50's Chart Toppers: Name The Artist: Morgen`ivo robic & the songmasters
-Music : 50's Chart Toppers: Name The Artist: The Morning Side Of the Mountain`tommy edwards
 Music : 50's Chart Toppers: Name The Artist: Mr. Blue`the fleetwoods
 Music : 50's Chart Toppers: Name The Artist: The Mummy`bob mcfadden & dor
 Music : 50's Chart Toppers: Name The Artist: My Happiness`connie francis

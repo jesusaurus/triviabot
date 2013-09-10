@@ -309,11 +309,7 @@ Music : 80s Tune: "Tom bo li di say de moi ya ya jambo jumbo"`all night long
 Music : 80s Tune: "Why can't you set your monkey free"`monkey
 Music : 80s Tune: All your life is channel 13`pressure
 Music : 80s Tune: Boy versus girl in the world series of love`u got the look
-Music : 80s Tune: Can't you see, you belong to me`every breath you take
-Music : 80s Tune: Can't you see, you belong to me`every breath you take
 Music : 80s Tune: I feel her breath in my face`shes like the wind
-Music : 80s Tune: I just get more attached to you`when i think of you
-Music : 80s Tune: I just get more attached to you`when i think of you
 Music : 80s Tune: I'd sacrifice tomorrow just to have you here today`seasons change
 Music : 80s Tune: Let's go make a family`always
 Music : 80s Tune: We're saving our own lives`we are the world
@@ -353,8 +349,6 @@ Music : Aerosmith: When Joe Perry briefly left the group. who was his replacemen
 Music : Aerosmith: Who sings background vocals on Aerosmith's song "Amazing"`don henley
 Music : Aerosmith's song about lust in a place you find in a department store`love in an elevator
 Music : Aimee Mann's hit single off "Whatever"`i shouldve known
-Music : Air Supply song: "I'm lying alone with my head on the phone"`all out of love
-Music : Air Supply song: "I'm lying alone with my head on the phone"`all out of love
 Music : Alan Parsons Project: "If I was high class/I wouldn't need a buck to pass"`i wouldnt want to be like you
 Music : Alan Parsons Project: "With no warning. no last goodbye/In the dawn of the morning sky/..."`the eagle will rise again
 Music : Alan Parsons Project: David Paton plays this instrument for the Alan Parsons Project`bass
@@ -387,8 +381,6 @@ Music : Album: New York new York, What Now My Love, Ive Got the World On A Strin
 Music : Album: Posession, Mary, Circle, Ice Cream`fumbling toward ecstasy
 Music : Album: Sledgehammer, Big Time, Dont Give Up`so
 Music : Album: Stayin Alive, How Deep Is Your Love, If I Cant Have You`saturday night fever
-Music : Album: When Doves Cry, I Would Die 4 U`purple rain
-Music : Album: When Doves Cry, I Would Die 4 U`purple rain
 Music : Album: You, I Sho Do, Circle Dance, Love Sneaking Up On You`longing in their hearts
 Music : Albums: "Leaving On A Jet Plane" was recorded by Peter Paul & Mary, but written by him`john denver
 Music : Albums: Keith Richards' solo debut`talk is cheap
@@ -569,7 +561,6 @@ Music : Beatles Lyrics: "Her name was Magill, & she called herself Lill,..."`but
 Music : Beatles Lyrics: "If the rain comes, they run & hide their heads, they..."`might as well be dead
 Music : Beatles Lyrics: "If the sun don't come you get a tan from..."`standing in the english rain
 Music : Beatles Lyrics: "She's well acquainted with the touch of a velvet hand, like..."`a lizard on a window pane
-Music : Beatles Lyrics: "Well here's another clue for you all..."`the walrus was paul
 Music : Beatles Lyrics: "Well on the way, head in a cloud, the man of a thousand voices..."`talking perfectly loud
 Music : Beatles Lyrics: "When I'm in the middle of a dream, stay in bed..."`float upstream
 Music : Beatles Lyrics: "You keep all your money in a big brown bag inside a zoo..."`what a thing to do
@@ -584,7 +575,6 @@ Music : Beatles Lyrics: Oh, I get high with a little...`help from my friends
 Music : Beatles Lyrics: So how could I dance with another (ooh), when I saw her...`standing there
 Music : Beatles Lyrics: Tell me that you want those kinds of things, that money...`just cant buy
 Music : Beatles Lyrics: You're such a lovely audience, we'd like to take you...`home with us
-Music : Beatles Lyrics: "Well here's another clue for you all..."`the walrus was paul
 Music : Beatles People: Dead Person from Abbey Road`paul mccartney
 Music : Beatles People: Lady Madonna`paul mccartney
 Music : Beatles People: Maxwell Edison`paul mccartney
@@ -698,11 +688,9 @@ Music : Blue Nile's album that includes "Let's Go Out Tonight" and "Downtown Lig
 Music : Bob Carlisle 'Thanks god for all the joy in his life, but most of all for ______`butterfly kisses
 Music : Bob Dylan foils bootleggers by releasing his own 58 song`bootleg series
 Music : Bob Dylan, Jeff Lynne, Roy Orbison, Tom Petty & George Harrison formed this group briefly`traveling wilburys
-Music : Bob Dylan: 1992 Album of traditional folk songs`good as i been to you
 Music : Bob Dylan: Finish song title: "Don't Think Twice It's`all right
 Music : Bob Dylan: Producer of _Oh Mercy_, also has produced U2`daniel lanois
 Music : Bob Dylan: Who played keyboards on "Like a Rolling Stone"`al kooper
-Music : Bob Dylan: 1992 Album of traditional folk songs`good as i been to you
 Music : Bob Dylan: Dylan song covered by U2, Jimi Hendrix, Neil Young`all along the watchtower
 Music : Bob Dylan: Dylans name on the first Travelling Wilbury's album`lucky wilbury
 Music : Bob Dylan: Fraternity Dylan pledged in college but never finished pledgeship`sigma alpha mu
@@ -857,8 +845,6 @@ Music : Category: Album To Artist: Stand Up`jethro tull
 Music : Category: Album To Artist: Tarkus`emerson lake and palmer
 Music : Category: Album To Artist: To Our Childrens Childrens Children`the moody blues
 Music : Category: Album To Artist: Twelve Dreams of Dr. Sardonicus`spirit
-Music : Category: Album To Artist: Wheels of Fire`cream
-Music : Category: Album To Artist: Wheels of Fire`cream
 Music : Category: Album To Artist: Yesterday and Today`the beatles
 Music : Category: Album: Balls to the Wall, London Leatherboys, Head Over Heels`balls to the wall
 Music : Category: Album: Im Your Man, careless Whisper, freedom`make it big

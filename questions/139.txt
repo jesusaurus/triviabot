@@ -53,14 +53,12 @@ Music : This ex Van Halen member did the song "The Girl Gets Around".`sammy haga
 Music : This female musician wants you to "sing her a happy song"`melissa ferrick
 Music : This former ac/dc member died on february 19, 1980`bon scott
 Music : This group has recorded covers of The Beatles classics "come together", "i am the walrus", "helter skelter", "help" & "day tripper"`oasis
-Music : This group mocked the time of arrival of the police system in _911_`public enemy
 Music : This group name suggests an unpleasant February 14th.`my bloody valentine
 Music : This group, not Joni Mitchell, recorded the song "One Tin Soldier"`coven
 Music : This group's 2nd biggest hit, "Gold", hit the charts in 1984.`spandau ballet
 Music : This important Jazz pianist wrote "Maiden Voyage" and "Watermelon Man"`herbie hancoc
 Music : This is Michael Jackson's signature dance.`moonwalk
 Music : This Is PopRB: A short version of her name rhymes with dress`thessaly
-Music : This is the baseball position that John Fogarty thinks he can play.`centerfield
 Music : This is the first song on the Ultra album.`barrel of a gun
 Music : This Isley brother died of a heart attack in 1986`okelly
 Music : This keyboardist collaborated with Neil Schon & wrote the miami vice theme`jan hammer
@@ -371,7 +369,6 @@ Music : What Eric Clapton song is about his crush on George Harrison's wife`layl
 Music : What family of instruments do flutes, clarinets & oboes belong to`woodwind
 Music : What family of instruments includes the piano & xylophone`percussion
 Music : what famous australian band performed "it's a long way to the top" & "highway to hell"`ac dc*ac/dc
-Music : What famous classical composer continued to compose great music after becoming deaf`beethoven
 Music : What famous duo was first recorded as caesar & cleo`sonny & cher
 Music : what famous group included bryan ferry`roxy music
 Music : what famous group included sting`police*the police
@@ -800,7 +797,6 @@ Music : Videos: Elton John appears as a cartoon.`club at the end of the street
 Music : Videos: Features DaveTV`just a gigolo
 Music : Videos: MTV used subtitles for this reggae-rap video`informer
 Music : "High Voltage" & "Ballbreaker" are just 2 of the albums by this group`ac dc*ac/dc
-Music : Category: Alt Tune: When your chained to the mirror and the razor blade...-oasis`morning glory
 Music : Category: Beatles: Who played the organ part in "In My Life"`george martin
 Music : Musical Advice: A frustrated Taylor Dayne yelled "Don't ____ __" in 1989.`rush me
 Music : Musical Advice: Blue Oyster Cult suggested you "Don't ____ ___ ______"`fear the reaper
@@ -896,105 +892,58 @@ Classical Music: In the music of J.S. Bach, one can find evidence of...`Numerolo
 Classical Music: In 1705, J.S. Bach was exposed to a composer who influenced him greatly. Who was he`Buxtehude
 Classical Music: Leonard Bernstein's last minute conducting debut with the N.Y. Philharmonic in 1943 launched his career. Who was he filling in for `Bruno Walter
 Classical Music: The story behind Wagner's Der Ring Des Nibelungen is drawn from...`Norse mythology
-Classical Music: Which work does not belong in the following list`Das Rheingold
 Classical Music: Who was Wagner's great patron`Ludwig II of Bavaria
 Classical Music: The striking innovation of Beethoven's 9th Symphony is the use of chorus and solo voices. Who's text did Beethoven use`Johann Von Schiller
 Classical Music: How did French pianist and composer Charles Alkan meet his death`Crushed to death by a falling bookcase
 Classical Music: What or who is the Diabolus in  Musica (the devil in music)`Late medieval name for the Tritone interval
 Classical Music: Who composed Finlandia`Sibelius
 Classical Music: Who wrote a rondo over the loss of a penny`Beethoven
-Classical Music: What composer conducted a mammoth performance of 20,000 musicians andsingers during a visit to the United States`Strauss
-Classical Music: What popular song was based on Chopin's Polonaise, Opus 53`Till the End of Time
-Classical Music: The Opera Don Giovanni was based on what character`Don Juan
 Classical Music: In 1723, J .S. Bach left Cothen to take up a new job in which city`Leipzig
 Classical Music: When Gershwin's Rhapsody in Blue was premiered in 1924, whose orchestra accompanied`Paul Whiteman's
-Classical Music: By what first name was the French composer Berlioz known`Hector
-Classical Music: In what country was Mikhail Glinka born in 1804`Russia
 Classical Music: Who wrote the perennial children's opera Hansel und Gretel`Engelbert Humperdinck
-Classical Music: What was Anton Bruckner's principal instrument`Organ
 Classical Music: Who wrote the score for the ballet Coppelia of 1870`Delibes
 Classical Music: Two popular one-act operas are often paired together to form anevening's bill: I Pagliacci by Leoncavallo and Cavalleria Rusticana by whom`Mascagni
-Classical Music: Alexander Glazounov (1865-1936) was which of the following`A composer
 Classical Music: To whom was Rossini referring in the phrase "The Mozart of theChamps-Elysees"`Offenbach
 Classical Music: For which British monarch's water party did Handel write his WaterMusic`George I
 Classical Music: Who wrote the famous string quartet known as Death and theMaiden`Schubert
-Classical Music: What was the family relationship between Richard and JohannStrauss`None of the above
 Classical Music: Who was called "Il Prete Russo" (The Red Priest)`Vivaldi
-Classical Music: In what city did the barcarolle originate`Venice
 Classical Music: For whom was an arrest warrant issued in Dresden in 1849`Verdi
 Classical Music: Who wrote the operetta Orpheus in the Underworld`Lehar
-Classical Music: In 1923, Arthur Honegger wrote Pacific 231. What inspired it`A train engine
-Classical Music: For which of his operas did Rimsky-Korsakov write The Flight ofthe Bumblebee`Tsar Saltan
-Classical Music: After what river did Robert Schumann entitle a symphony`The Rhine
-Classical Music: What characterizes John Cage's piano piece Four Minutes andThirty- Three Seconds`The pianist doesn't pIay
 Classical Music: When Liszt played his Piano Sonata to Brahms in 1853, what didBrahms do`Fell asleep
-Classical Music: In what city did Chopin die in 1849`Paris
-Classical Music: On what opera was Puccini working when he died in 1924`Turandot
-Classical Music: Vivaldi's Four Seasons concertos feature which solo instrument`Violin
-Classical Music: The work of which artist inspired Mussorssky's Pictures at anExhibition`Victor Hartmann
-Classical Music: What is the nickname of Beethoven's Piano Concerto No. 5`Emperor
 Classical Music: What was Sir George Grove's contribution to music`A musical dictionary
-Classical Music: In what work did Tchaikovsky employ a celesta`The Nutcracker
 Classical Music: Who celebrated a birthday every four years`Gioacchino Rossini
 Classical Music: Who of the following was a piano manufacturer`Muzio Clementi
-Classical Music: Arturo Toscanini (1867-1957) was best known as what`A conductor
 Classical Music: Who wrote piano pieces entitled Dessicated Embryos, and ThreePieces in the Shape of a Pear`Satie
-Classical Music: Tchaikovsky's Sleeping Beauty,Op. 66, is which of the following`Ballet
 Classical Music: For whom did Mozart write the Requiem in D minor, K.626`Walsegg-Stuppach
-Classical Music: How many symphonies did Tchaikovsky write`6
-Classical Music: In what key is Grieg's only piano concerto, Op. 16`A minor
 Classical Music: Who was Gerard Hoffnung`British musical humorist
 Classical Music: Which pianist-composer was the first to publish Nocturnes for solopiano`John Field
 Classical Music: What's a Fermata`A long pause
 Classical Music: Who wrote the Hammerklavier Piano Sonata in B-flat, Op. 106`Beethoven
-Classical Music: Which author inspired Liszt's Mephisto Waltz No. 1`Nikolaus Lenau
 Classical Music: Who was the violinist when Beethoven's Kreutzer Sonata for Violinand Piano had its first public performance`Georse Bridgetower
-Classical Music: What role did Michael Puchberg play in Mozart's life`Creditor
 Classical Music: Who was Louis Moreau Gottschalk`American-born Pianist
-Classical Music: In what city was Tchaikovsky's Piano Concerto No. 1 in B-flat minorgiven its world premiere`Boston
 Classical Music: Who wrote the 1829 opera William Tell`Rossini
 Classical Music: A feature of Franz Schubert's life was the Schubertiad. What was it`Musical party
-Classical Music: For what two solo instruments did Brahms write his DoubleConcerto in A minor Op. 102`Violin and cello
-Classical Music: Which pianist served as Prime Minister of Poland`Paderewski
-Classical Music: Which monarch performed, composed and published flute concertosand sonatas`Frederick the Great of Prussia
 Classical Music: Who helped inaugurate New York's Carnegie Hall in 1891`Tchaikovsky
 Classical Music: Conductor Sir Thomas Beecham once said: "Thereare two golden rules for an orchestra: start together and.... (what)"`Finish together
 Classical Music: Eduard Hanslick (1825-1904) was famous in what capacity`Music critic
 Classical Music: Who wrote Porgy and Bess`George Gershwin
-Classical Music: The music of which composer was banned in Nazi Germany`Mendelssohn
 Classical Music: Who was rumoured to have poisoned Mozart`Salieri
 Classical Music: What noted author wrote: "George died on July 11, 1937, but I don'thave to believe that if I don't want to"`John O'Hara
 Classical Music: Whose Ninth Symphony is universally known as the New World`Dvorak's
-Classical Music: Which Beethoven symphony bears the opus number 125`No. 9 in D minor
 Classical Music: Who penned this line in a 1956 song: "Roll over Beethoven, and tellTchaikovsky the news"`Chuck Berry
 Classical Music: Who wrote the most violin concertos`Viotti
-Classical Music: Upon what instrument was Pablo Casals a virtuoso`Cello
-Classical Music: For which trio of solo instruments did Beethoven write his TripleConcerto in C maior`Piano, violin and cello
-Classical Music: What does the indication Da CaPo mean`Repeat
-Classical Music: Beethoven's Sonata in F major for Violin and Piano, Op. 24 bearswhich seasonal nickname`Spring
 Classical Music: Two composers who concentrated on writing opera were both bornin 1813. Who were they`Verdi and Wagner
 Classical Music: Who wrote the Rage Over a Lost Penny`Schumann
-Classical Music: What does piano really mean in Italian`Soft
 Classical Music: Who wrote the most piano sonatas`Haydn
 Classical Music: Who came up with the nickname "Moonlight" for Beethoven's pianoSonata No. 14 in C-sharp minor Op. 27 No. 2`Ludwig Rellstab
 Classical Music: Who first wrote music for "prepared" piano`Olivier Messiaen
-Classical Music: Which composer died at the age of 91`Sibelius
 Classical Music: Who did Liszt's daughter Cosima marry`Both
 Classical Music: After whom was Grieg's "Holberg" Suite named`Polish organist
 Classical Music: Whose father was a professional musician`Brahms'
-Classical Music: What was Jean Sibelius' real first name`Johan
 Classical Music: Who wrote a set of piano pieces, each named for a month of theyear`Tchaikovsky
-Classical Music: Which was an alumnus of the Vienna Boys' Choir`Franz Schubert
 Classical Music: Whose father was not a professional musician`Haydn's
-Classical Music: In what German city was Handel born`Halle
-Classical Music: Why is the celebrated Chopin waltz nicknamed "Minute"`It's very small
-Classical Music: Which composer wrote a concerto for three pianos and orchestra`Mozart
-Classical Music: In listings of Mozart's works, the title is often followed bY a "K."and a number. What's the "K" stand for`Koechel
 Classical Music: Who first published the admonition "please do not shoot the pianist.He is doing his best"`Oscar Wilde
-Classical Music: What was the first name of Joplin, composer of "The Entertainer"and other rags`Scott
 Classical Music: What was Albert Ketelbey's real name`Albert Ketelbey
-Classical Music: Of these four great pianist-composers, which was the only one towrite operas`Mozart
-Classical Music: Which composer was Norwegian`Grieg
 Classical Music: Who employed Josef Haydn`Prince Esterhazy
 Classical Music: Who coined the phrase "The Three Great B's" in reference to Bach,Beethoven and Brahms`Hans von Bulow
 Classical Music: Who transcribed all nine of Beethoven's sYmphonies for solo piano`Liszt

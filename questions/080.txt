@@ -711,8 +711,6 @@ Name The Artist: I'm Happy That Love Has Found You`jimmy hall
 Name The Artist: I'm In Love`evelyn "champagne" king
 Name The Artist: I'm Not The One`cars
 Name The Artist: I'm On Fire`bruce springsteen
-Name The Artist: I'm So Excited`pointer sisters
-Name The Artist: I'm So Excited`pointer sisters
 Name The Artist: I'm Still Searching`glass tiger
 Name The Artist: I'm Still Standing`elton john
 Name The Artist: I'm That Type Of Guy`l.l. cool j

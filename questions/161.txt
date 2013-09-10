@@ -149,8 +149,6 @@ Category:Biology - What does the body release that dilates small blood vessels a
 Category:Biology - What does the lack of iodine in the diet cause`goitre
 Category:Biology - What does the pancreas produce`insulin
 Category:Biology - What element is lacking in a diet when goitre occurs`iodine
-Category:Biology - What falls out with phalacrosis`hair
-Category:Biology - What falls out with phalacrosis`hair
 Category:Biology - What fleshy muscular organ is joined to the hyoid bone`tongue
 Category:Biology - What gland secretes fluid that washes the eyes`tear gland
 Category:Biology - What is activated for freckles to appear`melanocytes
@@ -457,8 +455,6 @@ Category:Geography - How many Great Lakes are there`five
 Category:Geography - How many countries border the black sea`six
 Category:Geography - If you flew due West from Portugal, what is the first continent you would reach`North America
 Category:Geography - In what state is Silicon Valley`California
-Category:Geography - In which city is Westminster Abbey`London
-Category:Geography - In which city is Westminster Abbey`London
 Category:Geography - In which city is the Arch of Hadrian`Athens
 Category:Geography - In which city is the famous Bond Street`London
 Category:Geography - In which country is Tobruk`Libya
@@ -565,8 +561,6 @@ Category:Geography - What is the capital of Italy`Rome
 Category:Geography - What is the capital of Jamaica`Kingston
 Category:Geography - What is the capital of Kuwait`Kuwait
 Category:Geography - What is the capital of Liechtenstein`Vaduz
-Category:Geography - What is the capital of Luxembourg`Luxembourg
-Category:Geography - What is the capital of Luxembourg`Luxembourg
 Category:Geography - What is the capital of Malawi`Lilongwe
 Category:Geography - What is the capital of Mali`Bamako
 Category:Geography - What is the capital of Mauritius`Port Louis
@@ -980,8 +974,6 @@ Category:Literature - Who was the author of 'Dracula'`Bram Stoker
 Category:Literature - Who was the human companion of Willow`Mad Mardigan
 Category:Literature - Who wrote '1984'`George Orwell
 Category:Literature - Who wrote 'A Christmas Carol'`Charles Dickens
-Category:Literature - Who wrote 'A Tale Of Two Cities'`Charles Dickens
-Category:Literature - Who wrote 'A Tale Of Two Cities'`Charles Dickens
 Category:Literature - Who wrote 'Alice In Wonderland'`Lewis Carroll
 Category:Literature - Who wrote 'Gone With The Wind'`Margaret Mitchell
 Category:Literature - Who wrote 'The Female Eunuch'`Germaine Greer

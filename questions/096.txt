@@ -351,90 +351,50 @@ US PRESIDENTS: Who was Nixon's first vice president`agnew
 US PRESIDENTS: Who was Eisenhowers' vice president`nixon
 US PRESIDENTS: Who was the only Federalist party president`adams
 US PRESIDENTS: Who was vice president under J.Q.Adams and A.Jackson`calhoun
-007: what james bond film used the space shuttle`moonraker
-007: who most often played james bond's chief, m`bernard lee
-10' of what equals 1' of rain in water content`snow
 1701 who wrote the classic thriller 'the birds'`alfred hitchcock
 1776 what is the hardest bone in the human body`jawbone
-1961 movies: name one of the major stars in "the errand boy"`jerry lewis
 1991 Gulf War: What missiles did the Allies use to intercept Iraqi SCUDS`patriots
 1992 - a baseball owner and wife fell asleep in the stands at the world series`ted turner jane fonda*ted turner and jane fonda
 1992 - a former east german leader found refuge at moscow's chilean embassy`erich honecker
-1992 - what album did neil young release as a sequel to his 1972 lp harvest`harvest moon
-1992 - what british actor penned the autobiography what's it all about`michael caine
-1992 - what continent had the greatest explosion of aids cases`africa
-1992 - what credit card company recorded 205 million dollars in 3rd quarter losses`american express
-1992 - what democrat won the new hampshire primary`paul tsongas
-1992 - what did the church of england allow women to become`priests
-1992 - what gymnastics coach announced retirement at the barcelona olympic`bela karolyi
 1992 - What Ice-T opus offers the line: "Die, pig, die"`cop killer
 1992 - what line of children's books celebrated its 50th anniversary`little
-1992 - what mtv veejay co-starred in encino man`pauly shore
-1992 - What office is The Penguin running for in Batman Returns`mayor
-1992 - What pop star chose to name one of her companies Slutco`madonna
 1992 - what san francisco 49ers star was listed as the highest paid`joe
-1992 - what spanish cyclist won his second tour de france`miguel indurain
 Music: who recorded "disraeli gears" in 1967`cream
 Music: who recorded "girl watcher"`okaysions
-Music: who recorded "i want you to want me" on epic records in 1979`cheap
 Music: who recorded "just one look"`linda ronstadt
 Music: who recorded "my true story" in 1961`jive five
 Music: who recorded "rubber soul" in 1965`beatles
-Music: Who recorded "Save the Last Dance for Me" in 1960`drifters
 Music: who recorded "that's my desire"`frankie laine
 Music: who recorded "the cat's in the cradle" in 1974`harry chapin
 Music: Who recorded "The Last Kiss"`j frank wilson and the cavaliers
 Music: who recorded "too much"`elvis presley
 Music: who recorded "you're so vain"`carly simon
-Music: Who recorded 'Be True to your School' in 1963`The Beach Boys
-Music: Who recorded 'Blue Morning Blue Day' in 1978`Foreigner
-Music: Who recorded 'Cuts Like a Knife' in 1983`Bryan Adams
-Music: Who recorded 'I Can't Explain' in 1965`The Who
-Music: Who recorded 'In the Air Tonight' in 1981`Phil Collins
-Music: Who recorded 'Long Tall Sally' in 1956`Little Richard
-Music: Who recorded 'Shadows of the Night' in 1982`Pat Benatar
 Music: Who recorded I Want You, I Need You, I Love You in 1956`elvis
 Music: who recorded it's now or never in 1960`elvis presley
-Music: Who recorded the 1945 hit song "Till The End of Time"`perry como
 Music: who recorded the 1950 hit song "there's no tomorrow"`tony martin
 Music: who recorded the 1951 hit song "jezebel"`frankie lane
 Music: who recorded the 1951 hit song "shanghai"`doris day
 Music: who recorded the 1951 hit song "too young"`nat king cole
 Music: who recorded the 1952 hit song "half as much"`rosemary clooney
-Music: Who recorded the 1955 hit song "I'll Never Stop Loving You"`doris day
-Music: Who recorded the 1955 hit song "Whatever Lola Wants"`sarah vaughn
-Music: Who recorded the 1956 hit song "Treasure of Love"`clyde mcphatter
 Music: who recorded the 1957 hit song "could this be magic"`dubs
 Music: who recorded the 1957 hit song "jim dandy"`lavern baker
 Music: who recorded the 1958 hit song "tequila"`champs
 Music: Who recorded the 1959 hit song "Sea Cruise"`frankie ford
-Music: Who recorded the 1959 hit song "What'd I Say"`ray charles
 Music: who recorded the 1960 hit song "alley-oop"`hollywood argyles
 Music: who recorded the 1961 hit song "peppermint twist"`joey dee and the
-Music: Who recorded the 1961 hit song "Quarter to Three"`gary us bonds
 Music: who recorded the 1961 hit song "raindrops"`dee clark
 Music: who recorded the 1962 hit song "baby it's you"`shirelles
 Music: who recorded the 1962 hit song "duke of earl"`gene chandler
 Music: who recorded the 1962 hit song "only love can break a heart"`gene
 Music: who recorded the 1962 hit song "party lights"`claudine clark
-Music: Who recorded the 1963 hit song "Pipeline"`chantays
 Music: who recorded the 1963 hit song "walking the dog"`rufus thomas
-Music: who recorded the 1966 hit song "barbara ann"`beach boys
 Music: who recorded the 1966 hit song "psychotic reaction"`count five
-Music: Who recorded the 1967 hit song "Groovin"`young rascals
-Music: Who recorded the 1967 hit song "I Had Too Much To Dream Last Night"`electric prunes
-Music: Who recorded the 1968 hit song "On The Road Again"`canned heat
 Music: who recorded the 1968 hit song "the dock of the bay"`otis redding
-Music: Who recorded the 1968 hit song "Valleri"`monkees
-Music: Who recorded the 1969 hit song "Let's Work Together"`wilbert harrison
-Music: Who recorded the 1969 hit song "Oh, What A Night"`dells
 Music: who recorded the 1983 hit song "china girl"`david bowie
 Who recorded "16 candles" in 1959`crest
 Who recorded "after the gold rush" in 1970`neil young
 Who recorded "Back in Black" in 1980`ac/dc
-Who recorded "Barbara Ann" in 1961`regents
 Who recorded "blueberry hill" in 1956`fats domino
-Who recorded "burning bridges" in 1960`jack scott
 Who recorded "Ferry 'Cross the Mersey" in 1965`gerry and the
 Who recorded "Join Together" in 1972`the who
 Who recorded "king of the road" in 1965`roger miller
@@ -442,11 +402,9 @@ Who recorded "love is all around" in 1968`troggs
 Who recorded "Mama Don't Lie" in 1963`jan bradley
 Who recorded "maybellene" in 1955`chuck berry
 Who recorded "my love is like a tyre iron" in 1981`ted nugent
-Who recorded "Sixteen Candles" in 1958`crests
 Who recorded "tragedy" in 1960`thomas wayne
 Who recorded "why" in 1960`frankie avalon
 Who recorded "yakkety yak" in 1958`coasters
-Who recorded 'a boy named sue'`johnny cash
 Who recorded 'hejira' in 1976`joni mitchell
 Who recorded 'hey jealousy'`gin blossoms
 Who recorded blue morning blue day in 1978`foreigner
@@ -454,22 +412,16 @@ Who recorded such popular songs as 'policy of truth' and 'personal jesus'`depech
 Who recorded such songs as 'toys in the attic' and 'angel', and also did the music for the film 'armageddon'`aerosmith
 Who recorded the album "business as usual" in 1983`men at work
 Who recorded the album "diver down" in 1980`van halen
-Who recorded the album "Freak Out"`frank zappa
 Who recorded the album "free for all" in 1976`ted nugent
-Who recorded the album "Freedom of Choice" in 1980`devo
-Who recorded the album "Get Lucky" in 1982`loverboy
 Who recorded the album "London Calling" in 1975`clash
 Who recorded the album "moving finger" in 1971`hollies
 Who recorded the album "nebraska" in 1982`bruce springsteen
 Who recorded the album "never a dull moment" in 1972`rod stewart
 Who recorded the album "nine tonite"`bob segar
-Who recorded the album "Rio" in 1983`duran duran
-Who recorded the album "Ssssh" in 1969`ten years after
 Who recorded the album "the cry of love" in 1970`jimi hendrix
 Who recorded the album "the point" in 1970`harry nilsson
 Who recorded the album "the smoker you drink, the player you get"`joe walsh
 Who recorded the album "there and back" in 1980`jeff beck
-Who recorded the album "Troubadour" in 1976`jj cale
 Who recorded the album "wings over america" in 1976`paul mccartney
 Who recorded the album "wish you were here" in 1975`pink floyd
 Who recorded the album "zoot allures" in 1976`frank zappa
@@ -480,15 +432,12 @@ Who recorded the tune 'dream weaver'`gary wright
 Who rehashes her triumphs and tragedies in the book Who's Sorry Now`connie
 Who released "carrie anne" in 1967`hollies
 Who released 'love roller coaster' in 1984`ohio players
-Who released 'pretty hate machine' in 1989`nine inch nails
 Who released 'she's so unusual' in 1984, and won a grammy for best new artist`cyndi lauper
 Who released 'tell him' in november 1962`the exciters
-Who released 'time, love and tenderness' in 1981`michael bolton
 Who released 'tuesday night music club' in 1993`sheryl crow
 Who released a chart-busting album in 1976 which featured 'the lido shuffle'`boz scaggs
 Who released the double album 'yellow brick road' in 1973`elton john
 Who released the smash hit 'she drives me crazy'`fine young cannibals
-Who replaced moses as the prophet of the israelites`joshua
 GEOGRAPHY:USA,What is the state capital of Montana`Helena
 GEOGRAPHY:USA,What is the state capital of Nebraska`Lincoln
 GEOGRAPHY:USA,What is the state capital of Nevada`Carson City
@@ -759,7 +708,6 @@ On This Day In January 1975 - U.S. District Court Judge Richard ______ ruled in 
 This Day In January 1975 - The Allman ______ Band were named "Outstanding Community Organization" by the Georgia Department of Corrections.`Brothers
 On This Day In January 1979 - The trial of ex-Sex______ , Sid Vicious for the October 1978 murder of his girlfriend Nancy Spungen, opened in New York City. Vicious died of a heroin overdose, thereby not living to hear the verdict.`Pistol
 On This Day In January 1980 - Larry Williams was found dead in his home in Los Angeles, CA. The gunshot wound to the head was never confirmed as the result of a murder or______ .`suicide
-On This Day In January 1983 - The ______ "Annie" closed on Broadway at the Uris Theatre after 2,377 performances.`musical
 On This Day In January 1993 - The musical "Gypsy Passion" closed after 55______ .`performances
 On This Day In January 1492 - The leader of the last ______ stronghold in Spain surrendered to Spanish forces loyal to King Ferdinand II and Queen Isabella I.`Arab
 On This Day In January 1788 - ______ became the 4th state to ratify the U.S. Constitution.`Georgia
@@ -789,7 +737,6 @@ On This Day In January 1968 - ______ Castro announced petroleum and sugar ration
 On This Day In January 1971 - In the U.S., a federally imposed ban on ______ cigarette advertisements went into effect.`television
 On This Day In January 1974 - U.S. President Richard M. Nixon signed a bill requiring all states to lower the maximum speed limit to ______ MPH. The law was intended to conserve gasoline supplies during an embargo imposed by Arab oil-producing countries. Federal speed limits were abolished in 1995.`55
 On This Day In January 1983 - The final edition of Garry Trudeau’s comic strip, ______ , appeared in 726 newspapers. "Doonesbury" began runnning again in September 1984.`Doonesbury
-On This Day In January 1983 - The ______ "Annie" closed on Broadway at the Uris Theatre after 2,377 performances.`musical
 On This Day In January 1985 - The Rebels of UNLV beat Utah State in three overtime periods. The final score of 142-140 set a new new NCAA record for total points in a ______ game (282). The game took over three hours to play.`basketball
 On This Day In January 1991 - Sharon Pratt Dixon was sworn in as mayor of______ , DC. She was the first black woman to head a city of that size and prominence.`Washington
 On This Day In January 1996 - AT&T announced that it would eliminate 40,000 ______ over three years.`jobs

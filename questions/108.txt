@@ -95,8 +95,6 @@ Music : Category: Female Vocalists: This woman had a solo single that spent 9 we
 Music : Category: Female Vocalists: This woman had a tumultuous marriage to the creator of "The Wall Of Sound."`ronnie spector
 Music : Category: Female Vocalists: This woman refused to see the movie based on her life.`tina turner
 Music : Category: Finish The Song Line: And she's buying a stairway _ _.`to heaven
-Music : Category: Finish The Song Line: Go on, take the money and _.`run
-Music : Category: Finish The Song Line: Go on, take the money and _.`run
 Music : Category: Finish The Song Line: Gonna get out of bed and get a _ _ _ _.`hammer and a nail
 Music : Category: Finish The Song Line: Have I told you lately that _ _ _.`i love you
 Music : Category: Finish The Song Line: I hate myself for _ _.`loving you
@@ -106,8 +104,6 @@ Music : Category: Finish The Song Line: Let's give 'em something to _ _.`talk ab
 Music : Category: Finish The Song Line: Longer boats are coming to _ _.`win us
 Music : Category: Finish The Song Line: No hell below us, above us _ _.`only sky
 Music : Category: Finish The Song Line: Really don't know how it feels to be _ _ _ _.`cannibalism
-Music : Category: Finish The Song Line: Say what you will, but I'm a _.`stinker
-Music : Category: Finish The Song Line: Say what you will, but I'm a _.`stinker
 Music : Category: Finish The Song Line: She came in through the _ _.`bathroom window
 Music : Category: Finish The Song Line: The first cut is the _.`deepest
 Music : Category: Finish The Song Line: There's a whistle up above 'n people _ _ _.`pushing people shoving
@@ -137,8 +133,6 @@ Music : Category: Frank Sinatra: Sinatra was the bobbysoxer's idol in this tromb
 Music : Category: Frank Sinatra: What film did Sinatra pull from release after Kennedy's assassination`manchurian candidate
 Music : Category: Frank Sinatra: What is Frank Sinatra's middle name`albert
 Music : Category: Frank Sinatra: What is the name given to Sinatra, Dean Martin, Sammy Davis and all the rest`rat pack
-Music : Category: Frank Sinatra: What is the name of the record label Sinatra founded`reprise
-Music : Category: Frank Sinatra: What is the name of the record label Sinatra founded`reprise
 Music : Category: Frank Sinatra: What song, from a Minelli/de Niro movie, was a huge hit for Frank`new york new york
 Music : Category: G Music : She told us "I will survive" (where is she now)`gloria gaynor
 Music : Category: Gay Issues: What group's motto is, "We're Here, We're Queer, We Have E-Mail"`digital queers
@@ -150,8 +144,6 @@ Music : Category: Gee Music : For some reason, this singer seemed to want my sex
 Music : Category: Gee Music : He sings about the Mona Lisa's sister`graham parker
 Music : Category: Gee Music : In this musical, the teen angel sings "beauty school dropout"`grease
 Music : Category: Gee Music : John Travolta sings this homage to a fast car`greased lightning
-Music : Category: Gee Music : Long-tongued member of Kiss`gene simmons
-Music : Category: Gee Music : Long-tongued member of Kiss`gene simmons
 Music : Category: Gee Music : Major guitar manufacturer (SG, 120, Les Paul, etc.)`gibson
 Music : Category: Gee Music : Ramones motto "_____ _____ hey!"`gabba gabba
 Music : Category: Gee Music : Rolling Stones petition with questionable grammar`gimme shelter
@@ -161,8 +153,6 @@ Music : Category: Gee Music : The "Rico Suave" man`gerardo
 Music : Category: Gee Music : The song where John Lennon announes "I don't believe in Beatles"`god
 Music : Category: Gee Music : This geographic ballad is associate with Ray Charles`georgia
 Music : Category: Grab Bag: Backup singer on Dark side of the Moon; she also sang with Nick Drake`doris troy
-Music : Category: Grab Bag: Broadway Musical about the life of Jelly Roll Morton`jellys last jam
-Music : Category: Grab Bag: Broadway Musical about the life of Jelly Roll Morton`jellys last jam
 Music : Category: Grab Bag: Brought us such hits as "I put a Spell on You" and "Africa Gone Funky"`screamin jay hawkins
 Music : Category: Grab Bag: Cuban style of music that lead to the rhumba craze of the 30's`son
 Music : Category: Grab Bag: Declan Patrick Aloyisious MacManus is the real name of ______ ______`elvis costello
@@ -244,7 +234,6 @@ Music : Category: Lead Singers: Moody Blues`justin hayward
 Music : Category: Lead Singers: Procol Harum`gary brooker
 Music : Category: Lead Singers: Simple Minds`jim kerr
 Music : Category: Lead Singers: The Cure`robert smith
-Music : Category: Rap Trivia: Name the band: "Killers", "Ides of March", "Clairvoyant", "Flight of Icarus"`iron maiden
 Music : Category: Rap Trivia: Name the industrial band: "Godlike", "Money", "Angst"`kmfdm
 Music : Category: Rap Trivia: Name the two live albums The Cure released simultaneously. (_ and _)`show and paris
 Music : Category: Rap Trivia: This composer has done albums called 'Torture Garden', 'Leng T'che', etc...`john zorn
@@ -253,7 +242,6 @@ Music : Category: Rap Trivia: This jazz musician teamed up with Charlie Parker o
 Music : Category: Rap Trivia: This youthful duo had hits with "Jump" and "Warm It Up"`kris kross
 Music : Category: Rap Trivia: Which cartoon family can 'sing the blues'`the simpsons
 Music : Category: Rap Trivia: Who is the ex-lead singer for Iron Maiden`bruce dickinson
-Music : Category: Rap Trivia: Who sings "The Sky is Cryin'"`stevie ray vaughan
 Music : Category: Literate Rock: "Romeo and Juliet are together in eternity", according to this band:`blue oyster cult
 Music : Category: Literate Rock: _For Whom The Bell Tolls_ is a novel by Hemingway and a song by this band:`metallica
 Music : Category: Literate Rock: _Starship Troopers_ is a novel by Heinlein and song by this band:`yes
@@ -298,9 +286,7 @@ Music : Category: Misheard Lyrics: Stone Temple Pilots: "Where you going with th
 Music : Category: Misheard Lyrics: Traditional: "One ton tomato"`guantanamera
 Music : Category: Modern Rock: Sugarcubes would like to sing us a "Happy ________" song...`birthday
 Music : Category: Modern Rock: What DJ's/Group mixed UB40's "One In Ten"`808 state
-Music : Category: Modern Rock: What Erasure album was "Love to Hate You, "Breath of Life" & "Am I Right" on`chorus
 Music : Category: Modern Rock: Who sang "Head On" "Sometimes Always" and "Sugar Ray"`jesus and mary chain
-Music : Category: Modern Rock: Who sang "Pure", "Sense", and "Life of Riley"`lightning seeds
 Music : Category: Modern Rock: Band that did a remake of Rod Stewart's "Do Ya Think I'm Sexy."`revolting cocks
 Music : Category: Modern Rock: Bauhaus did a remake of Ziggy Stardust from this singer.`david bowie
 Music : Category: Modern Rock: Name the artist: "I wish I was special, so f--king special...."`radiohead
@@ -313,7 +299,6 @@ Music : Category: Modern Rock: This band did a remake of Buffalo Springfields "F
 Music : Category: Modern Rock: What 9' Nails album could you find "Head Like a Hole" "Sin" & "Down In It" on`pretty hate machine
 Music : Category: Modern Rock: What DJ's/Group mixed UB40's "One In Ten"`808 state
 Music : Category: Modern Rock: What DJ's/Group mixed UB40's "One In Ten"`808 state
-Music : Category: Modern Rock: What Erasure album was "Love to Hate You, "Breath of Life" & "Am I Right" on`chorus
 Music : Category: Modern Rock: What is the 1993 album title of the Cocteau Twins`four-calendar cafe
 Music : Category: Modern Rock: What kind of high school did the Ramones sing of`rock and roll
 Music : Category: Modern Rock: What kind of love did Soft Cell have`tainted
@@ -322,7 +307,6 @@ Music : Category: Modern Rock: What OMD album was "Call My Name" "Pandora's Box"
 Music : Category: Modern Rock: What was the album title of the Pet Shop Boys orange Lego-like album`very
 Music : Category: Modern Rock: Who sang "Dear God" and "The Ballad of Peter Pumpkinhead"`xtc
 Music : Category: Modern Rock: Who sang "Fun To Be Had" and "I Give To You"`nitzer ebb
-Music : Category: Modern Rock: Who sang "Pure", "Sense", and "Life of Riley"`lightning seeds
 Music : Category: Modern Rock: Who sang "Valerie Loves Me"`material issue
 Music : Category: Monty Python Lyric: And Rene Descartes was a drunken fart, "I drink therefore I am."`bruces philosophers song
 Music : Category: Monty Python Lyric: But many times we're given rhymes that are quite unsingable..`knights of the round table
@@ -410,8 +394,6 @@ Music : Category: Musical L: An R&B song which catalogues many dance moves of th
 Music : Category: Musical L: Heavy airplay 80s rockers with cocky name: "workin for the weekend"`loverboy
 Music : Category: Musical L: Kinks hit song about a crossdresser`lola
 Music : Category: Musical L: Of late he's done some Taco Bell commercials: Good Golly!`little richard
-Music : Category: Musical L: She had a hit in the 50s with "Fever"`peggy lee
-Music : Category: Musical L: She had a hit in the 50s with "Fever"`peggy lee
 Music : Category: Musical L: The only Beatle who fits in this category`john lennon
 Music : Category: Musical L: This 50s vocal trio did "twisted" and "four brothers"`lambert hendricks and ross
 Music : Category: Musical L: This man wrote George Benson' hit "This masquerade"`leon russell
@@ -453,16 +435,12 @@ Music : Category: Musical W: One of the two most important members of Steely Dan
 Music : Category: Musical W: Please come to ______ ___ ___ ______ (ramblin boy)`boston for the winter
 Music : Category: Musical W: This musical festival recently had a sequel`woodstock
 Music : Category: Musical Wheel: Adrian Belew: L_n_ R__n_c_r_s`lone rhinoceros
-Music : Category: Musical Wheel: Adrian Belew: Tw_n_ B_r K_n_`twang bar king
-Music : Category: Musical Wheel: Adrian Belew: Tw_n_ B_r K_n_`twang bar king
 Music : Category: Musical Wheel: Bob Dylan: _ll _l__g _h_ w__ch__wer`all along the watchtower
 Music : Category: Musical Wheel: Minutemen: D__bl_ N_ck_ls _n th_ D_m_`double nickels on the dime
 Music : Category: Musical Wheel: Minutement: Th_ r__r _f th_ m_ss_s c__ld b_ f_rts`the roar of the masses could be farts
 Music : Category: Musical Wheel: Prince: R_nn__ t_lk t_ R_ss__`ronnie talk to russia
 Music : Category: Musical Wheel: Rolling Stones: _ j_st w_nn_ s__ h_s f_c_`i just wanna see his face
 Music : Category: Musical Wheel: Rolling Stones: _s t__rs g_ b_`as tears go by
-Music : Category: Musical Wheel: Rolling Stones: _x_l_ _n ___n _t___t`exile on main street
-Music : Category: Musical Wheel: Rolling Stones: _x_l_ _n ___n _t___t`exile on main street
 Music : Category: Musical Wheel: Sex Pistols: _n_rc_y _n th_ _K`anarchy in the uk
 Music : Category: Musical Wheel: Sex Pistols: G_d s_v_ _h_ q___n`god save the queen
 Music : Category: Musical Wheel: Sex Pistols: Wh_ k_ll_d B_mb_`who killed bambi
@@ -609,7 +587,6 @@ Music : Category: On the Edge: Nirvana: "What else could I be"`all apologies
 Music : Category: On the Edge: Sponge: "It's something that is automatic"`wax ecstatic
 Music : Category: On the Edge: Tool: "I feel this coming over like a storm again"`h
 Music : Category: One Hit Wonders: Steve Martin hit with "King Tut" in '78, but this was the name on the label`steve martin and the toot uncommons
-Music : Category: One Hit Wonders: Pump Up the Volume`marrs
 Music : Category: One Hit Wonders: Rico Suave`gerardo
 Music : Category: One Hit Wonders: She's Like The Wind`patrick swayze
 Music : Category: One Hit Wonders: The Book of Love`monotones
@@ -631,9 +608,6 @@ Music : Category: One Hit Wonders: Nazareth's rock anthem "Love Hurts" came from
 Music : Category: One Hit Wonders: Neal Hefti's one hit wonder from 1966; a TV theme which had only two words`the batman theme
 Music : Category: One Hit Wonders: Originally formed as a SKA band, these guys hit in 1983 with "Our House"`madness
 Music : Category: One Hit Wonders: Pittsburgh rocker who hit in 1981 with "Ah! Leah!"`donnie iris
-Music : Category: One Hit Wonders: Pump Up the Volume`marrs
-Music : Category: One Hit Wonders: She Blinded Me With Science`dolby
-Music : Category: One Hit Wonders: She Blinded Me With Science`dolby
 Music : Category: One Hit Wonders: She's Like The Wind`swayze
 Music : Category: One Hit Wonders: Somkin' in the Boy's Room (1974)`brownsville station
 Music : Category: One Hit Wonders: The First BIG winner of Star Search he hit in 1984 with "Sugar Don't Bite"`sam harris
@@ -794,7 +768,6 @@ Music : Bands: Performs classic song, La Grange`zztop
 Music : Bands: Performs: Bad habit, Genocide, Killboy Powerhead`offspring
 Music : Bands: Performs: Flame trees, Cheap Wine, Breakfast at Sweethearts (Australian)`cold chisel
 Music : Bands: Performs: Mayonaise, Soma, Luna, Silverfck`smashing pumpkins
-Music : Bands: Who has the edge over other bands`u2
 Music : Smashing Pumpkins song: "Bored by the chore/of saving face"`today
 Music : Some stores would not stock his Lovesexy LP as he appears nude on the cover`prince
 Music : Song - "Ain't nothing for us in Belfast, the pound is so old its a pity"`alternative ulster

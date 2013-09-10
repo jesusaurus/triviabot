@@ -1,71 +1,10 @@
 Geography : Bridgetown is the capital of ________.`barbados
-Geography : Brussels is the capital of which country`belgium
-Geography : Frankfort is the capital of which state`kentucky
-Geography : Guayaquil is the largest city in what country`ecuador
-Geography : Halifax is the capital of which Canadian province`nova scotia
-Geography : Havana is the capital of which country`cuba
 Geography : He invented the most common projection for world maps.`mercator
 Geography : He visited Australia and New Zealand, then surveyed the Pacific Coast of North America.`vancouver
-Geography : How many stars are on the flag of New Zealand`four
-Geography : If its 4:00pm in Seattle Washington, what time is it in Portland Oregon`4
-Geography : In what city are the famous Tivoli Gardens`copenhagen
-Geography : In what city is the Leaning Tower`pisa
-Geography : In what city is the Smithsonian Institute`washington
-Geography : In what country is Banff National Park`canada
-Geography : In what country is Lahore`pakistan
-Geography : In what country is Mandalay`burma
 Geography : In what country is Taipei`taiwan
-Geography : In what country is Thunder Bay`canada
-Geography : In what country is the Jutland peninsula`denmark
-Geography : In what country is the Mekong River Delta`vietnam
-Geography : In what country is the Waterloo battlefield`belgium
-Geography : In what country is the highest point in South America`argentina
-Geography : In what country is the lowest point in South America`argentina
-Geography : In what country is the source of the Blue Nile`ethiopia
-Geography : In what island group is Corregidor`philippine
-Geography : In what mountain range is Kicking Horse Pass`rockies
-Geography : In what state is Concord`new hampshire
-Geography : In which city is Red Square`moscow
-Geography : In which city is Saint Paul's Cathedral`london
-Geography : In which city is Wembley Stadium`london
-Geography : In which city is the Bridge of Sighs`venice
-Geography : In which city is the C.N. Tower`toronto
-Geography : In which city is the Canale Grande`venice
-Geography : In which city is the Coliseum located`rome
-Geography : In which city is the Wailing Wall`jerusalem
-Geography : In which country is Angel Falls`venezuela
 Geography : In which country is Brest (NOT Breast;-)`france
 Geography : In which country is Cusco`peru
-Geography : In which country is Loch Ness`scotland
-Geography : In which country is Madras`india
-Geography : In which country is Normandy`france
-Geography : In which country is Sapporo`japan
-Geography : In which country is the Calabria region`italy
-Geography : In which country is the Dalai Lama's palace`tibet
-Geography : In which country is the Great Victoria Desert`australia
-Geography : In which country is the Machu Picchu`peru
-Geography : In which country would you find the Yucatan Peninsula`mexico
-Geography : In which ocean or sea are the Seychelles`indian
-Geography : In which state are Gettysburg and the Liberty Bell`pennsylvania
-Geography : In which state are the Finger Lakes`new york
-Geography : In which state is Appomattax`virginia
-Geography : In which state is Hoover Dam`arizona
-Geography : In which state is Mount McKinley`alaska
-Geography : In which state is Mount St. Helens`washington
-Geography : In which state is Mount Vernon`virginia
-Geography : In which state is Stone Mountain`georgia
-Geography : In which state is Walla Walla`washington
-Geography : In which state is the Kennedy Space Center`florida
-Geography : In which state is the Mayo Clinic`minnesota
-Geography : In which state is the Painted Desert`arizona
-Geography : Into what bay does the Ganges River flow`bengal
-Geography : Into what body of water does the Danube River flow`black sea
 Geography : Into what body of water does the Yukon River flow`bering sea
-Geography : Into what sea does the Elbe River flow`north
-Geography : Into what sea does the Mackenzie River flow`beaufort
-Geography : Khartoum is the capital of which country`sudan
-Geography : Kingston is the capital of which country`jamaica
-Geography : Linz, Austria is a leading port on which river`danube
 Geography : Madrid and Lisbon are both located near this river.`tagus
 Geography : Meridians converge at the ________.`pole s
 Geography : Mount Victoria is the highest peak of this island country.`fiji
@@ -81,13 +20,10 @@ Geography : Name the continent that consists of a single country.`australia
 Geography : Name the desrt located in south-east California.`mojave
 Geography : Name the large mountain chain in the eastern U.S.A.`the appalachian s
 Geography : Name the largest cathedral in the world.`st. peter's
-Geography : Name the largest city in Canada`toronto
 Geography : Name the largest island in the world.`greenland
-Geography : Name the largest lake in Australia`eyre
 Geography : Name the largest river forming part of the U.S. - Mexican border.`rio grande
 Geography : Name the last province to become part of Canada.`newfoundland
 Geography : Name the longest river in Asia.`yangtze
-Geography : Name the longest river in Nigeria`niger
 Geography : Name the most north-easterly of the 48 contiguous states.`maine
 Geography : Name the only Central American country without an Atlantic coastline.`el salvador
 Geography : Name the sea between Asia Minor and Greece.`aegean
@@ -101,31 +37,12 @@ Geography : Name the second largest lake in North America.`huron
 Geography : Name the smallest of the Great Lakes.`ontario
 Geography : Name the strait joining the Atlantic Ocean and the Mediterranean Sea.`gibraltar
 Geography : Name the world's most photographed and most climbed mountain.`fuji
-Geography : Nassau is the capital of which country`bahamas
-Geography : On what island is Honolulu`oahu
-Geography : On what island is Pearl Harbour`oahu
-Geography : On what island is the Blue Grotto`capri
-Geography : On what island is the U.S. naval base, Guantanamo`cuba
-Geography : On what mountain are four presidents' faces carved`rushmore
-Geography : On what peninsula are Spain and Portugal located`the iberian peninsula
 Geography : On what river is the capital city of Canada`ottawa
-Geography : On which river is London, England`thames
-Geography : On which river is Rome located`tiber
-Geography : On which river is the Aswan High Dam`nile
 Geography : Over 75% of the Earth's surface is covered by some form of _____.`water
-Geography : Rabat is the capital of which country`morocco
-Geography : San Francisco Bay is located near what city`san francisco
-Geography : Seoul is the capital of which country`south korea
-Geography : St. George's is the capital city of what island country`grenada
 Geography : Surfing is believed to have originated here.`hawaii
-Geography : The Auckland Islands belong to which country`new zealand
 Geography : The Hebrides are part of this country.`scotland
-Geography : The Ionian and Cyclades are island groups of which country`greece
-Geography : The Little Mermaid is found in the harbour of which city`copenhagen
 Geography : The Nationalist Chinese occupy this island.`taiwan
-Geography : The Thatcher Ferry Bridge crosses what canal`the panama canal
 Geography : The United States is made up of __ states.`50
-Geography : The Volta is the largest river in which country`ghana
 Geography : The countries of Belgium, Netherlands, and Luxembourg are together called ________.`benelux
 Geography : The longest river in Western Europe is _________`rhine
 Geography : The sun sets in the ____`west
@@ -142,149 +59,9 @@ Geography : This is the residence of English monarchs.`buckingham palace
 Geography : This island group is off the east coast of southern South America.`falkland islands
 Geography : This re-opened in 1975 after being closed for 8 years.`suez canal
 Geography : This section of Manhattan is noted for its Negro and Latin American residents.`harlem
-Geography : To what country do the Faeroe Islands belong`denmark
-Geography : To what country does the Gaza Strip belong`egypt
-Geography : Under what river does the Holland Tunnel run`hudson
-Geography : Warsaw is the capital of what country`poland
-Geography : What American city is known as Little Havana`miami
-Geography : What Asian city was once called Edo`tokyo
-Geography : What Canadian city is at the west end of Lake Ontario`hamilton
-Geography : What English city does the Prime Meridian pass through`greenwich
-Geography : What European country administers the island of Martinique`france
 Geography : What European country has "Vaduz" as its capital city`liechtenstein
-Geography : What U.S. city is known as Insurance City`hartford
-Geography : What U.S. city is named after Saint Francis of Assisi`san francisco
-Geography : What U.S. state is known as The Land of 10,000 Lakes`minnesota
-Geography : What US state is completely surrounded by the Pacific Ocean`hawaii
-Geography : What are drumlins and eskers formed by`glacier
-Geography : What are the worlds four oceans - alphabetically`arctic, atlantic, indian and pacific
-Geography : What body of water borders Saudi Arabia to the east`persian gulf
-Geography : What canal connects Lake Ontario and Lake Erie`welland
-Geography : What city boasts the Copacabana Beach and Impanema`rio
-Geography : What city is associated with Alcatraz`san francisco
-Geography : What city is on Lake Erie at the mouth of the Cuyahoga River`cleveland
-Geography : What city is the Christian Science Monitor based in`boston
-Geography : What city is the Kremlin located`moscow
-Geography : What city was the setting for "Gone With the Wind"`atlanta
-Geography : What color does the bride wear in China`red
-Geography : What continent is Cyprus considered to be part of`asia
-Geography : What continent is the home to the greatest number of countries`africa
-Geography : What country are the Islands of Quemoy and Matsu part of`taiwan
-Geography : What country borders Egypt on the west`libya
-Geography : What country borders Egypt to the south`sudan
-Geography : What country does the island of Mykonos belong to`greece
-Geography : What country formed the union of Tanganyika and Zanzibar`tanzania
-Geography : What country has the world's most southerly city`chile
-Geography : What country is Phnom Penh the capital of`cambodia
-Geography : What country is Santo Domingo the capital of`dominican republic
-Geography : What country is directly north of Israel`lebanon
-Geography : What country is directly north of the continental United States`canada
-Geography : What country is directly west of Spain`portugal
-Geography : What country is known as the Hellenic Republic`greece
-Geography : What country is located between Panama and Nicaragua`costa rica
-Geography : What country owns the island of Corfu`greece
-Geography : What country was once known as Gaul`france
-Geography : What country was the setting for "Casablanca"`morocco
-Geography : What country was the setting for "Doctor Zhivago"`russia
-Geography : What famous geyser erupts regularly at the Yellowstone National Park`old faithful
-Geography : What is the capital of Alaska`juneau
-Geography : What is the capital of Bangladesh`dacca
-Geography : What is the capital of Burma`rangoon
-Geography : What is the capital of Chile`santiago
-Geography : What is the capital of Colorado`denver
-Geography : What is the capital of Florida`tallahassee
-Geography : What is the capital of India`new delhi
-Geography : What is the capital of Indonesia`jakarta
-Geography : What is the capital of Kansas`topeka
-Geography : What is the capital of Maine`augusta
 Geography : What is the capital of Nebraska`lincoln
-Geography : What is the capital of New Zealand`wellington
-Geography : What is the capital of Washington state`olympia
-Geography : What is the capital of West Virginia`charleston
-Geography : What is the capital of Wisconsin`madison
-Geography : What is the capital of the United Arab Emirates`abu dhabi
-Geography : What is the current name for south-west Africa`namibia
-Geography : What is the highest mountain in Canada`mt. logan
-Geography : What is the largest city in Australia, in terms of population`sydney
-Geography : What is the largest city in China`shanghai
-Geography : What is the largest of the countries in Central America`nicaragua
-Geography : What is the monetary unit of India`rupee
-Geography : What is the most sacred river in India`ganges
-Geography : What is the official language of Egypt`arabic
-Geography : What is the principal river of Ireland`shannon
-Geography : What is the second largest of the United States`texas
-Geography : What is the smallest Canadian province`prince edward island
-Geography : What is the smallest independent state in the world`vatican
-Geography : What is the smallest of the Central American countries`el salvador
-Geography : What is the world's highest city`lhasa
-Geography : What island has Hamilton as its capital`bermuda
-Geography : What island is known as the Spice Island`zanzibar
-Geography : What mountain range separates Europe from Asia`urals
-Geography : What prison island was off the coast of French Guiana`devil
-Geography : What river has the largest drainage basin`amazon
-Geography : What river is Liverpool on`mersey
-Geography : What river is called "Old Man River"`mississippi
-Geography : What river is known as China's Sorrow`yellow
-Geography : What river is the Temple of Karnak near`nile
-Geography : What sea is between Italy and Yugoslavia`adriatic
-Geography : What south American country has both a Pacific and Atlantic coastline`colombia
-Geography : What state borders Alabama to the north`tennessee
-Geography : What state is the Golden State`california
-Geography : What state was the home to Mayberry`north carolina
-Geography : What symbol is on the flag of Vietnam`star
-Geography : What unit of currency will buy you dinner in Iraq, Jordan, Tunisia and Yugoslavia`dinar
-Geography : What volcano showers ash on Sicily`etna
-Geography : What's the former name of Istanbul`constantinople
-Geography : What's the highest mountain in the 48 contiguous U.S. states`whitney
-Geography : Where are the Nazca Lines`peru
-Geography : Where are the pyramids located`egypt
-Geography : Where is Beacon Street`boston
-Geography : Where is Euston Station`london
-Geography : Where is George Washington buried`mt. vernon, virginia
-Geography : Where is Queen Maud Land located`antarctica
-Geography : Where is Westminster Abbey located`london
-Geography : Where is the Admirality Arch`london
-Geography : Where is the Holy Kaaba`mecca
-Geography : Where is the Parthenon located`athens
-Geography : Where is the city of Brotherly Love`philadelphia
-Geography : Where were the Pillars of Hercules located`gibraltar
 Geography : Which Canadian province extends farthest north`quebec
-Geography : Which Central American country extends furthest north`belize
-Geography : Which European country has the highest population density`monaco
-Geography : Which European country has the lowest population density`iceland
-Geography : Which Irish city is famous for its crystal`waterford
-Geography : Which U.S. city is known as Beantown`boston
-Geography : Which U.S. city is known as the Biggest Little City in the World`reno
-Geography : Which U.S. state borders a Canadian territory`alaska
-Geography : Which U.S. state has the least rainfall`nevada
-Geography : Which U.S. state receives the most rainfall`hawaii
-Geography : Which capital is known as the Glass Capital of the World`toledo
-Geography : Which city has the largest rodeo in the world`calgary
-Geography : Which city is known as Motown`detroit
-Geography : Which city is known as the Windy City`chicago
-Geography : Which city is on the east side of San Francisco Bay`oakland
-Geography : Which country administers Christmas Island`australia
-Geography : Which country are the Galapagos Islands part of`ecuador
-Geography : Which country developed "Tae-Kwan-Do"`korea
-Geography : Which country has Ankara as its capital`turkey
-Geography : Which country has Budapest as its capital`hungary
-Geography : Which country has the longest land border`china
-Geography : Which country hosted the 1982 World Cup of soccer`spain
-Geography : Which country uses the "yen" for currency`japan
-Geography : Which country would come first in an alphabetical list of countries`afghanistan
-Geography : Which islands were named after Prince Philip of Spain`the philippine s
-Geography : Which mainland Latin American country is in neither South America nor Central America`mexico
-Geography : Which of the 48 contiguous states extends farthest north`minnesota
-Geography : Which of the U.S. states borders only one other state`maine
-Geography : Which river contains the most fresh water`amazon
-Geography : Which state has Cape Hatteras`north carolina
-Geography : Which state has the most hospitals`california
-Geography : Which state is divided into two parts by a large lake`michigan
-Geography : Which state is the Evergreen State`washington
-Geography : Which state is the Garden State`new jersey
-Geography : Which state is the Wolverine State`michigan
-Geography : With what country is Fidel Castro associated`cuba
-Geography : With which country is Prince Rainier III identified`monaco
 Geogrpahy : Name the capital city of Utah.`salt lake city
 Geology : Earth's outer layer of surface soil or crust is called the _______.`lithosphere
 Geology : Peat, lignite and bituminous are types of _________.`coal
@@ -296,7 +73,6 @@ Geology : The violet variety of quartz is called ________.`amethyst
 Geology : There are three types of rocks: metamorphic, sedimentary, and _________.`igneous
 Geology : These limestone deposits rise from the floor of caves.`stalagmites
 Geology : This is the hardest naturally occurring substance.`diamond
-Geology : What name is used to describe permanently-frozen subsoil`permafrost
 Television: Which TV Series stars Georgie Parker as the head nurse`All Saints
 Television: All Saints is centred around which ward of All Saints Hospital`17
 Television: In All Saints, what was Nurse Terri Sullivan before becoming a nurse`a nun
@@ -496,7 +272,6 @@ Name The Artist: Two Of Hearts`stacey q
 Name The Artist: Two People`tina turner
 Name The Artist: Two Places At The Same Time`ray parker jr. & raydio
 Name The Artist: Two Sides Of Love`sammy hagar
-Name The Artist: Two To Make It Right`seduction
 Name The Artist: Typical Male`tina turner
 Name The Artist: U Got The Look`prince & the revolution
 Name The Artist: Under Pressure`queen
@@ -607,7 +382,6 @@ Name The Artist: When Smokey Sings`abc
 Name The Artist: When The Children Cry`white lion
 Name The Artist: When The Going Gets Tough`billy ocean
 Name The Artist: When The Lights Go Out`naked eyes
-Name The Artist: When The Night Comes`joe cocker
 Name The Artist: When We Kiss`bardeux
 Name The Artist: When We Was Fab`george harrison
 Name The Artist: When You Close Your Eyes`night ranger

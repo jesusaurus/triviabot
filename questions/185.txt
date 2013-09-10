@@ -1,10 +1,6 @@
 How many days are there in February in a leap year`twenty nine
 How many days did Lazarus lie dead before Jesus "raised" him back to life`four
-How many days were the American hostages held in Iran`444
-How many days where there in 1976`366
 How many degrees are there between north & east on a compass`ninety
-How many degrees are there in a right angle`ninety
-How many degrees does the earth rotate each hour`fifteen
 How many different color mandm's are there`seven
 How many different muscles are in a birds wing`forty
 How many different numbers are there on a dartboard`twenty
@@ -12,9 +8,7 @@ How many different swimming strokes are used in medley race`four
 How many different types of chess pieces are there in a game of chess`six
 How many different zodiac signs are there`twelve
 How many dots are on a twister mat`thirty
-How many dots are there on a pair of dice`forty two
 How many eggs do identical twins develop from`one
-How many employees does IBM have`600 thousand
 How many engines does a B-52 bomber have`eight
 How many engines does a DC-10 have`three
 How many engines does a Lancaster bomber have`four
@@ -25,15 +19,10 @@ How many events make up the decathlon`ten
 How many eyelids do birds have on each eye`three
 How many eyes are there on a U S one-dollar bill`four
 How many feet can a hippo's mouth open`four
-How many feet high is a basketball net`ten
 How many feet is it from the service line to the net in tennis`twenty one
-How many feet of blood vessels are in the human skin`19
 How many folds does a Monopoly board have`one
 How many games are scheduled in one season for each major league team`one hundred & sixty two
-How many games must you win to win a normal set in tennis`six
 How many gears do most modern cars have`five
-How many gifts are there by the time you finish singing "twelve days of christmas"`364
-How many golf balls are there on the moon`three
 How many grams are there in two & a half kilograms`2,500
 How many great lakes border Ontario, Canada`four
 How many hands are there on a digital watch`zero
@@ -47,17 +36,14 @@ How many inches are there in a foot`twelve
 How many kilograms are there in a metric ton`*one thousand*1,000
 How many lanes are there in an olympic swimming pool`eight
 How many laps does it take to complete the Indianapolis 500`two hundred
-How many large holes are in your head`seven
 How many lashes did Jesus receive`thirty nine
 How many layers are inside the chocolate of a snickers bar`two
 How many legs do 'decapods' have`ten
 How many legs do scorpions run about on`eight
-How many legs does a crab have`ten
 How many legs does a ladybird have`six
 How many legs does Odin's horse have`eight
 How many letters are there in the English alphabet`twenty six
 How many limbs does a squid have`ten
-How many lines are there in a sonnet`fourteen
 How many litres are there in a cubic metre`one thousand
 How many lives is a cat said to have`nine
 How many loaves of bread are there in a baker's dozen`thirteen
@@ -71,18 +57,14 @@ How many milk teeth do three-year-olds normally have`twenty
 How many millimetres are there in a kilometre`one million*1,000,000
 How many million cells does the human skin consist of`nineteen
 How many minutes are in a day`1440
-How many minutes are in a week`10080
 How many minutes each half of a professional game of soccer`forty five
-How many minutes is a major penalty in hockey`five
 How many minutes is each period of hockey`twenty
 How many minutes were missing on the infamous Watergate tape`eighteen & a half*18.5
 How many months do baby opossums live in the mothers pouch before climbing out & riding on her back`three
-How many months have 28 days`all
 How many months have 30 days`four
 How many months have an Ides`twelve
 How many moons does the planet Uranus have`five
 How many mountain peaks over 10,000 ft soar over New Zealands south island`seventeen
-How many names did the first telephone book ever issued contain`fifty
 How many nations participated in the first modern olympiad`thirteen
 How many nickles are there in $2.25`forty five
 How many North American countries are south of the equator`none
@@ -103,7 +85,6 @@ How many people were aboard Noah's Ark during the flood`eight
 How many pieces of stone were the Ten Commandments written on`two
 How many pigs' houses does the wolf huff,puff & blow down`two
 How many players are there in a game of chess`two
-How many players are there on a soccer team`eleven
 How many players usually play the card game 'patience'`one
 How many playing points grace a backgammon board`twenty four*twenty-four
 How many pockets are there on a snooker table`six
@@ -117,10 +98,8 @@ How many points is a pink ball worth in snooker`six
 How many points is a red ball worth in snooker`one
 How many points is a yellow ball worth in snooker`two
 How many pounds are there in a stone`fourteen
-How many pounds of pesticides are used annually on lawns in the U S`67 million
 How many queens in a standard deck of cards hold flowers`four
 How many red balls are used in snooker`fifteen
-How many referees work a soccer game`one
 How many Ringling Brothers were there `five
 How many rings are there in the olympic symbol`five
 How many rings does the Phantom wear`two
@@ -128,11 +107,8 @@ How many rounds are there in an olympic boxing match`three
 How many rounds did George Chuvalo go against Cassius Clay in 1966`fifteen
 How many rows are kernels in an average ear of corn arranged in`sixteen
 How many sayings did Jesus say from the cross`seven
-How many seams are there on a football (American)`four
 How many seconds are in a day`86400
-How many seconds are in a week`604,800
 How many seconds must a cowboy stay aboard a rodeo bronc`eight
-How many semihemidemisemiquavers are there in a breve`256
 How many sides does a hexagon have`six
 How many sides does a pentagon have`five
 How many sides does a rhomboid have`four
@@ -155,7 +131,6 @@ How many stumps are there in a cricket wicket`three
 How many summer olympic games were cancelled because of WW II`two
 How many surfaces does a cone have`two
 How many surfaces does a sphere have`one
-How many sweat glands does the human skin have`625
 How many teams compete in the world cup 90 in soccer`twenty four
 How many teats does a cow have `four
 How many territories in Australia`two
@@ -163,17 +138,13 @@ How many thousand sensory glands does the human skin have`nineteen
 How many throwing events are there in a decathlon `three
 How many time zones are there in New Zealand`one
 How many time zones are there on the face of the earth`twenty four
-How many times can a worker bee sting`once
 How many times did Jack Nicklaus win the U S open`four
 How many times did Peter deny Jesus`three
 How many times does the average computer user blink per minute`seven
-How many times is a Roman numerals value increased if it has a line over it`1,000
-How many times thicker than water is blood`six
 How many times was Moses given the ten commandments`two
 How many toe pads does a cat have on each of its back paws`four
 How many toes do most birds have `four
 How many top front teeth do cows have`none
-How many trees does it take to make newsprint for the average sunday New York Times`63000
 How many tricks must you take in 500 if you call a slam`ten
 How many tunnels under the Mersey link Liverpool to the Wirral`two
 How many varieties of penguins are there (outside of zoos) in the northern hemisphere`none
@@ -191,14 +162,11 @@ How many years did the hundred years war last`one hundred & sixteen
 How many years does an annual plant live`one
 How many years make up a vicennial period`twenty
 How much current does a South American eel put out`one amp*1 amp
-How much does Park Lane cost in Monopoly`$450
 How much 'monopoly' money do you collect for finishing second in a beauty contest`ten dollars*$10
-How much would each person get if $100 was shared equally among eight people`$12.50
 How often are the olympic games held`four years*4 years
 How often did Babe Ruth change the cabbage leaf which he wore under his cap`every two innings
 How often do chimpanzees build new sleeping nests`nightly
 How often does February 29 occur`every four years*every 4 years
-How often is a soccer's world cup competition played`every four years
 How old was Charlie Brown in 1990 `forty
 How old was Michelangelo when he died`eighty eight
 How old was Princess Elizabeth when she married`twenty one
@@ -208,232 +176,112 @@ How tall was Thumbelina`one inch*1"
 How thick is an ice hockey puck`one inch*1"
 Human birth control pills also work on what animal`gorilla
 Humans have 46 chromozomes.  How many do goldfish have`ninety four
-Humans shed & regrow almost how many new skins in a lifetime`1,000
-Humans shed roughly how many particles of skin every hour`600,000
-Humans shed roughly how many pounds of skin a year`one & a half pounds
-Hummingbirds are the only animals able to fly in what direction`backwards
-Hydroelectric project in New South Wales, Australia`snowy mountains scheme
 Iceberg, boston, & bibb are types of _________`lettuce
 Ichthyology is a study of ______`fish
-If electrodes are inserted at opposite ends of a ______, & electricity is passed through, it will glow`pickle
 If it were removed from the body, the small intestine would stretch to a length of how many feet`twenty two
-If lovers are said to be "star-crossed", their relationship is`doomed
 If the groundhog sees his shadow on Feb. 2, there will be how many more weeks of bad weather`six
-If the spaceship Earth Ride at Epcot was a golf ball, to be the proportional size to hit it, how tall would you need to be`2 miles tall
 If the sun stopped shining suddenly, it would take how many minutes for people on earth to be aware of the fact`eight
 If you add up the numbers 1-100 consecutively (1+2+3+4+5 etc) the total is ____`5050
 If you flew due east from New York City, what would be the first country you would reach`portugal
 If you go blind in one eye, you'll only lose about how much of your vision (but all your depth perception.)`one fifth
 If you have committed regicide, whom have you killed`a king
 If you have served an ace, you are playing what sport`tennis
-If you lace your shoes from the inside to the outside the fit will be snugger around which toe`big toe
-If you make hats you are a`milliner
 If you order "pollo" at a restaurant in Rome what will you get`chicken
-If you suffer from peridontisis, you have problems with your what`gums
-If you told someone that they were one in a million, youd be saying there were about how many of them in China`1,800
-If you want to do something with strict adherence to the rules, you would do it "according to ..." This expert on the rules of card games`hoyle
-If you were relaxing in the Piazza San Marco, what city would you be in`venice
-If you were to spell out numbers, how far would you have to go until you would find the letter "a"`one thousand
-'Impala' is the name of a southern African antelope. English borrowed it from which language`zulu
-In "Alice & Wonderland", what color hat does the Mad Hatter wear`green
-In "Peanuts", what is the surname of Lucy & Linus`van pelt
 In 1513, Ponce de Leon discovered what is now the state of `florida
-In 1570 his army destroyed Novgorod and he had thousands executed`ivan the terrible
 In 1779, what city was replaced by Richmond as Virginia's capital`williamsburg
 In 1793, _____ reaches the Pacific`alexander mackenzie
 In 1813, Laura Secord walked _____ to warn of an American attack`thirty two kilometers*32 klms
-In 1851, Jacob Fussel became the first to manufacture what treat commercially`ice cream
-In 1859, Thomas Austin introduced what proliferating animal in Australia`rabbits
 In 1860, Godeys ladies book advised us women to cook tomatoes for at least how many hours`3 hours
 In 1888, an estimated 300,000 mummified cats were found at Beni Hassan, Egypt. They were sold at ______ per ton, & shipped to England to be ground up & used for fertilizer`$18.43
 In 1893, what did an American magazine vote 'the national beverage'`ice cream sodas*ice cream soda
-In 1894, there were only how many automobiles in the U S`4
-In 1900 the average age at death in the U S was what`47
 In 1902 this volcano erupted, killing 30,000`mt pelee*mount pelee
 In 1976 who became the first woman to conduct the Metropolitan Opera in New York City`sarah caldwell
-In 1976, what mandm color was discontinued due to health concerns`red
-In 1977 a 13 year old boy had a _____ growing out of his foot`tooth
-In 1979, Skylab came back to earth sooner than expected as a result of`sunspot activity
-In 1980, Secretary of State Michael J Connelly banned the sale of stock in`apple computers
 In 1982 Eric the Red discovered .....`luxembourg
-In 1982, 264,000 bottles of what were recalled after 7 people died`tylenol
 In 1994, a total of 81.5 percent of Canadian households owned a _____`microwave oven
 In a lifetime the average U S resident drinks more than how many gallons of liquid`13,000
-In a recent survey, Americans revealed that this was their favorite smell`banana
-In an alphabetical list of countries in the world, what middle eastern country comes between Portugal & Romania`qatar
 In an average lifetime, the average American charges $120,875 on _____`credit cards
 In an average lifetime, the average American consumes 10,231 gallons of _____`beverages
 In anatomy, organ that stores urine after its formation by the kidneys`bladder
-In ancient rome, it was a sin to eat the flesh of what kind of bird`woodpecker
-In ancient time Bolotia was a region of which country`greece
-In astronomy, the angle in degrees of a heavenly body above the horizon`altitude
 In badminton, how many points win a singles game `fifteen points*15 points
-In biology, fusion of the nuclear materials of two gametes resulting in the formation of a zygote, or embryo`fertilization
-In biology, the complex of processes by which living organisms originated on earth & have been diversified & modified through sustained changes in form & function`evolution
-In cartography, the ratio of the distance between two points on a map & the actual distance between the two points on the earth's surface`scale
-In chemistry, analytical technique used for the chemical separation of mixtures & substances`chromatography
 In chemistry, law stating that many of the physical & chemical properties of the elements tend to recur in a systematic manner with increasing atomic number`periodic law
-In common: brain, watching, bath, house`bird
 In common: George Washington, known as the "father of the country," James Madison, andrew Jackson, James Polk, James Buchanan, & Warren Harding`us presidents who never had children
-In common: Jesus Christ, Albert Einstein, Sigmund Freud, Karl Marx`jewish
-In common: John James Audubon, Alexander Graham Bell, Albert Einstein`foreign born americans
-In common: office, camera, cardboard, spring`box
-In common: screen, sale, water, storm`fire
 In common: shar-pei, pug, shih tzu, pomeranian`breeds of dogs
-In common: tennis, geology, critics`faults
-In computer graphics, the effect produced when display resolution is too coarse to minimize the jagged, or  appearance of certain design elements, such as diagonal lines, curves, & circles`aliasing
 In computer science, a key on ibm pc & similar computer keyboards that when pressed in combination with another key, gives the other key an alternative meaning`alt key
-In computer science, a peripheral or add-on to a computer, such as a mouse or a modem`accessory
-In computer terms, what does ocr stand for`optical character recognition
-In country does nodding the head means "no" & shaking the head means "yes"`albania
 In darts, what does a dart in the inner bull score`fifty
 In darts, what does a dart in the outer bull score`twenty five
-In darts, what is the highest score possible with 3 darts`180
-In developing nations, ______ percent of diseases are water related`eighty
 In electric circuits, condition in a circuit in which the combined impedances of the capacity & induction to alternating currents cancel each other out or reinforce each other to produce a minimum or maximum impedance (electric circuit; electricity)`resonance
-In electricity, property of any object or substance to resist or oppose the flow of an electrical current`resistance
-In electricity, what is the opposite of an insulator`conductor
-In electronics, device used to propagate radio or electromagnetic waves or to capture radio waves`antenna
 In england, the speaker of the house is not allowed to do what`speak
-In english what does arrivederci mean`goodbye
-In every deck of cards the king of hearts is sticking what through his head`sword
-In full commonwealth of Virginia, state in the eastern U S & one of the original 13 colonies`virginia
 In general, the process of caring for, or nurturing, another individual`nursing
-In geography, any of the five divisions of the surface of the earth, characterized by similar temperature & sunshine distribution`zone
-In geology, a major structural feature of the earths crust`geosyncline
 In golf, what would you call a putt short enough to be conceded`gimmie
 In Greek legend, what was eaten on the island of Jerba`lotuses
 In Greek mythology who ferries the dead across the River Styx`charon
 In Greek mythology, which king had the golden touch`midas
-In Greek mythology, which king imprisoned Daedalus & Icarus`minos
 In Greek mythology, who did Oedipus marry`jocasta
 In Greek mythology, who wanted to remain unmarried until she was defeated in a footrace `atlanta
 In Greek mythology, who was Daedalus' son`icarus
 In Greek mythology, who was Icarus' father`daedalus
 In Greek mythology, who was the only mortal Gorgon`medusa
 In Guatemala, christmas day is celebrated when`december 25*25th december
-In Heraldry, a two-legged dragon with wings & a barbed tail`wyvern
 In how many Shakespearean plays did ghosts appear`four
 In Korean, what does Seoul mean `capital
 In literature, who were the 'star-crossed lovers'`romeo & juliet
-In Louisa May Alcott's 'Little Women', which march sister dies`beth
-In maritime history, a type of large, seagoing warship propelled by oars and, more frequently, by sail`galley
-In mathematics, famous theorem which has led to important discoveries in algebra & analysis`fermats last theorem
 In medicine, the determination of the nature of a disease`diagnosis
 In New Zealand, on which island is Lake Taupo`north
-In optics, property of a lens system of bending a beam of white light in such a way that all its component colors are brought to a focus at the same point, thus obtaining a sharp image`achromatism
 In order for a deck of cards to be mixed up enough to play with properly, at least how many times should it be shuffled`seven
-In physics, devices used to accelerate charged elementary particles or ions to high energies`particle accelerators
-In physics, mechanism by what energy is conveyed from one place to another in mechanically propagated waves without the transference of matter`wave motion
-In physics, product of a force applied to a body & the displacement of the body in the direction of the applied force`work
 In poker, what are five cards of the same suit`flush
-In popular usage, name denoting the acute disease known medically as aeroembolism & caused by rapid decrease of the atmospheric pressure`bends
 In pro-football how long does a 'sudden death' period last`fifteen minutes*15 minutes
-In relation to computers, in printing, to line up in relation to a given point of reference, such as the margins of a page or the edges of a piece of paper`align
 In 'Romeo & Juliet', who says 'what must be shall be'`juliet
-In Shakespeare's 'Antony & Cleopatra,' & perhaps in history as well, with what did Cleopatra kill herself`poisonous snake
 In some legends, death (the grim reaper) plays a fiddle with how many strings`one
 In South America it is rude not to ask a man about his _____`family
-In ten-pin bowling what is the hardest split to convert`7 10
 In ten-pin bowling, how many points does a perfect game consist of`three hundred
 In terms of tons of cargo handled, which is Europe's busiest port`rotterdam
-In the 1700s, European women achieved a pale complexion by eating a product called _______________, which were actually made with the poison`arsenic complexion wafers
 In the Bible, who was asked to sacrifice his only son`abraham
 In the Bible, who went out from the presence of the Lord, & dwelt in the land of Nod`cain
 In the Bible, who wore a coat of many colors`joseph
-In the broadest sense, the entire western hemisphere south of the U S`latin america
-In the comic books, what is the name of Superman's super cat`streaky
 In the comic strips, where was Li'l Abner's hometown`dogpatch
 In the fictional tale, who fought with staffs on a log bridge`robin hood & little john
-In the game monopoly, the most money you can lose in one travel around the board (normal game rules, going to jail only once) is how much`$26,040
 In the great fire of london in 1666 half of London was burnt down but how many people were injured`six
 In the great seal of the U S the eagle grasps how many arrows`thirteen
-In the great seal of the U S what kind of branch does the eagle grasp`olive branch
 In the late 19th century, millions of human mummies were used as what in Egypt`fuel for locomotives
-In the northern hemisphere do tornadoes turn clockwise or anti-clockwise`anticlockwise
 In the old cartoon Jiggs, what did Jiggs invariably wear over his shoes`spats
 In the original story, of what were Cinderella's slippers actually made`fur
 In the periodic table of the elements, the group vii elements (ie, f, cl, br, i...) Are also known as the ________.`halogens
 In the province of _____________, Canada there are towns by the name of Elbow & Eyebrow`saskatchewan
 In the rhyme about magpies,'one for sorrow, two for joy', what are 6 magpies for`gold
 In the U S, for how long is a patent good`seventeen years*17 years
-In track & field, what is thrown farthest`javelin
-In verbal radio code during WW II, how did one say "message received, will comply"`roger wilco
 In Victorian pictures Santa was often shown wearing _____`glasses
-In what American city was the first blood bank opened`new york
 In what body of water will you find the Great Barrier Reef`coral sea
 In what book is Jean Valjean `les miserables
 In what book would you find a sorceress named 'The Witch of Endor'`bible
-In what Canadian province would you find Shuswap Lake`british columbia
-In what city are the famous Tivoli Gardens`copenhagen
-In what city did Jesus and his parents call home`nazareth
 In what city is the airport located that is identified as "JFK" `new york city
 In what city is the Alamo`san antonio
-In what city is the leaning tower`pisa
-In what city is the worlds largest library located`washington dc
 In what city will you find a lake named "The Serpentine"`london
-In what city would you find the Prado art museum`madrid
 In what club are all the members liars`ananias
-In what country (not state) is Santa Fe a city`argentina
-In what country are most baseballs made`haiti
-In what country did "Sepoy Mutiny" occur`india
-In what country did the sport of caber-tossing originate`scotland
-In what country is Banff National Park`canada
-In what country is Kruger National Park`south africa
 In what country is Lahore`pakistan
-In what country is Mandalay`burma
-In what country is Taipei`taiwan
-In what country is the highest point in South America`argentina
 In what country is the Jutland Peninsula`denmark
 In what country is the lowest point in South America`argentina
-In what country is the Mekong River Delta`vietnam
 In what country is the source of the blue Nile`ethiopia
 In what country is the waterloo battlefield`belgium
-In what country is Timbuktu`mali
 In what country is Vorder-Grauspitz the highest point`liechtenstein
 In what country is Wemperhardt the highest point`luxembourg
-In what country lies the town "Mora"`sweden
-In what country was aspirin invented`germany
-In what country was volleyball invented`france
-In what country would you find the Zagros Mountains`iran
 In what decade did Peter Paul Halijian develop his first candy bar`1920's*1920s
 In what direction does the Nile river flow`north
-In what game does the player use a cesta to hurl a pelota`jai alai
 In what guise did God first talk to Moses`burning bush
 In what key do American car horns beep`f
-In what Mark Twain novel would one find a feud between the Grangerfords & the Shepherdsons`huckleberry finn
-In what month is Christmas observed`december
-In what mountain area did Rip Van Winkle fall asleep`catskill mountains
 In what mountain range is Kicking Horse Pass`the rockies
 In what novel do we find Winston Smith living in the nation of Oceania & battling doublespeak & the thought police`1984
-In what organ of the body is insulin produced`pancreas
 In what part of the body are rabies injections given`abdomen
-In what sport is the Davis Cup awarded`tennis
 In what sport is the Heisman trophy awarded`football
-In what sport is the term, "hang ten" used`surfing
-In what sport must you duck the boom in`sailing
 In what state is Concord`new hampshire
-In what state is Kennedy Space Center`florida
 In what state is Silicon Valley`california
-In what state is the Alamo`texas
-In what state will you find the Shirley Mountains`wyoming
-In what story would you find the headless horseman`legend of sleepy hollow
-In what track & field sport might you do the following - crouch, shift, thrust, & release`shot put
-In what U S state can you visit Yosemite National Park`california
-In what U S state was the philips head screwdriver invented`oregon
-In what U S state will you find Lake Winnebago`wisconsin
-In what video game are you trying to regain your soul from Malebolgia`spawn the eternal
 In what year did a Russian nuclear plant founded to be the most polluted spot on earth`1991
 In what year did Austria abolish capitol punishment`1787
 In what year did christmas become a U S national holiday`1890 
-In what year did England's lease on Hong Kong expire`1997
 In what year did Pope Urban VIII threaten to excommunicate snuff users`1924
 In what year did Queen Elizabeth II turn 21`1947
 In what year did the Berlin wall come down`1989
 In what year did the Japanese radiation leak occur`1999
 In what year did Willie Mays hit his 600th homerun`1969
-In what year is it now generally believed that Jesus was born`four bc
-In what year of WW II did Russia declare war on Japan`1945
 In what year was Abraham Lincoln assassinated`1865
 In what year was Robert Oppenheimer born`1904
 In what year was the 50th star added to the flag of the U S A`1960
@@ -445,533 +293,207 @@ In what year was the U S transcontinental railway completed`1869
 In what year was the world's first speed limit regulation introduced`1903
 In which African city & country do the white Nile & blue Nile converge`khartoum, sudan
 In which Australian state is Gundagai`new south wales
-In which bay will you find the Belcher Islands`hudson
-In which body of water is Haiti`caribbean sea
-In which Canadian province is the capital named Fredericton`new brunswick
-In which Canadian province is the capital named Halifax`nova scotia
-In which Canadian province is the capital named Regina`saskatchewan
-In which Canadian province is the capital named Toronto`ontario
-In which city is Saint Paul's Cathedral`london
-In which city is the Colisseum located`rome
-In which city is the Cotton Bowl played`dallas
-In which city is the hockey hall of fame located`toronto, canada
-In which city is the street that winds the most`san francisco
-In which city is the Wailing Wall`jerusalem
-In which city were the Hanging Gardens`babylon
-In which city would you find a district called Hells Kitchen`new york
-In which city would you find the "Peace Tower"`ottawa
-In which country are the Transylvanian Alps`romania
 In which country did orienteering originate`sweden
-In which country did the Boxer Rebellion take place`china
-In which country did the industrial revolution start`england
 In which country is Cusco`peru
-In which country is Loch Ness`scotland
-In which country is Sapporo`japan
-In which country is the Calabria region`italy
-In which country is the capital named Ottawa`canada
-In which country is the Great Victoria Desert`australia
 In which country is the Lazio region`italy
-In which country is the Machu Picchu`peru
-In which country was the first military tank invented`england
-In which country was the match invented`france
-In which country was the Rosetta stone found`egypt
 In which country was the yo-yo originally a weapon`philippines
-In which country were fortune cookies invented`united states
-In which country will we find the first "unknown soldier"`denmark
-In which country would you find the Yucatan Peninsula`mexico
-In which European capital is the Kon-Tiki museum`oslo
 In which French province did the allies land on D-day in 1944`normandy
 In which game might a person have a "full house"`poker
-In which game or sport are "staunton" pieces used`chess
-In which game or sport is a "zamboni" used`hockey
-In which language was Bambi originally published in 1929`german
 In which ocean are the Seychelles`indian ocean
 In which organ is a pulmonary disease located`lungs*lung
-In which province would you find Glacier Bay`nova scotia
-In which religion are cows sacred`hinduism
 In which river was Jesus baptised`jordan
-In which sport is a "hole-in-one" possible`golf
-In which sport or game are the terms: 'pin', 'fork', & 'skewer' used`chess
-In which sport to competitors encounter hairpins`motor racing
 In which sport/game is the term 'rook' used`chess
 In which state is Mount St. Helens`washington
-In which state is Mount Vernon`virginia
 In which state is the Mayo clinic`minnesota
-In which state is Walla Walla`washington
 In which theater was Abe Lincoln shot`ford's theater
-In which tongue did Jesus speak`aramaic
 In which town did the first U S congress meet in 1789`new york
-In which town in Europe is "Nowa Huta" situated`krakow
-In which town was the first confederate "white house" located`montgomery
 In which two time zones is Nebraska located `central & mountain*mountain & central
-In which us city is Carnegie Hall`new york
 In which year did Columbus set sail for his famous journey`1492
 In which year were the Arab/Israeli "six days war" fought`1967
-In zoology, what order does a turtle belong to`chelonia
 Indiana is known as ______`hoosier state
 Infantile paralysis is commonly known as ________.`polio
 Infectious disease of horses, cattle, swine, & humans, also called lumpy jaw or big jaw`actinomycosis
-Infectious sexually transmitted disease of humans, spread by sexual contact, what primarily involves the mucous membranes of the urogenital tract`gonorrhea
 Infectious virus disease of the central nervous system, sometimes resulting in paralysis`poliomyelitis*polio
 Inflammatory disorder of the mucous membrane of the nose; nasal catarrh`rhinitis
-Inky & Dinky were the nephews of what comic book cat`felix the cat
-Inland sea, lying between southeastern Europe & Asia minor`black sea
 Inlet of the Atlantic Ocean, southeastern New York, at the mouth of the Hudson River`new york bay
 Institution founded in 1705 by Peter the Great`moscow university
 Instrument that records, on paper or film, wave patterns that are equivalent to the oscillations of an electric voltage, or that converts mechanical oscillations into an equivalent electric current before recording them on paper or film in the form of wave patterns`oscillograph
-Instrument that utilizes the phenomenon of interference of light waves for the ultraprecise measurement of wavelengths of light itself, of small distances, & of certain optical phenomena`interferometer
-Instrument used to measure electric current`ammeter
 Intelligent people have more _____ & copper in their hair.`zinc
-International capitals: Australia`canberra
-International capitals: Belarus`minsk
-International capitals: Burma`rangoon
-International capitals: Costa Rica`san jose
 International capitals: India`new delhi
-International capitals: Venezuela`caracas
-International geophysical program, initiated in 1984, for surveying the deep ocean floor & its resources`ocean drilling program 4
-Internet domains: identify the country: es`spain
 Internet domains: identify the country: il`israel
-Into what bay does the Ganges River flow`bay of bengal
 Into what body of water does the Danube River flow`black sea
 Into what body of water does the Yukon River flow`bering sea
 Into what sea does the Elbe River flow`north sea
 Into what sea does the Mackenzie River flow`beaufort sea
-Investigation of physical, chemical, & biological conditions at the bottom of the ocean, for scientific & commercial purposes`deep sea exploration
-Irregular line drawn on the map of the pacific ocean, near, & in many places coincident with, the 180th meridian`international date line
-Is a benign tumour usually dangerous`no
-Is a coconut a fruit or a nut`a fruit
-Is a computer itself called 'hardware' or 'software'`hardware
-Is a dog's normal temperature higher or lower than a human's`higher
-Is a 'light-year' a  measure of time or distance`distance
-Is a person's mandible above or below the tongue`below
-Is a piccolo larger or smaller than a flute`smaller
-Is a square a parellelogram`yes
-Is a whale a mammal or a fish`mammal
 Is argon in its natural state a liquid, a solid or a gas`gas
 Is it best to prick a blister or cover it & let it heal`cover it & let it heal*cover
 Is parachuting an olympic sport`no
-Is Romania a monarchy or a republic`republic
-Is the 'bell lap' the first or the last lap of a race`last
-Is the seahorse a fish`yes
-Is the universe supposed to be getting bigger or smaller`bigger
-Is the very centre of a hurricane stormy or calm`calm
-Island republic, in the north Atlantic Ocean, about 300 km (about 185 mi) east of Greenland & about 1000 km (about 620 mi) west of Norway`iceland
-Island, British Isles, the westernmost & second largest of the group, in the north Atlantic ocean, & separated from Great Britain by Saint Georges Channel on the southeast, the Irish Sea on the east, & the North Channel on the northeast`ireland
-Island, south western Alaska, largest island of the Kodiak Archipelago, in the gulf of Alaska`kodiak
-Island, southeastern new york, in New York Bay, the site of the Statue of Liberty`liberty island
 -isms: a diseased condition resulting from the use of beverages such as whiskey.`alcoholism
--isms: a severe or unfavourable judgment`criticism
--isms: an economic system characterized by private ownership & competition`capitalism
 -isms: excessive emphasis on financial gain.`commercialism
--isms: painful stiffness of the muscles & joints`rheumatism
 -isms: poisoning caused by a toxin in improperly prepared food.`botulism
--isms: the theory that man cannot prove the existence of a God`agnosticism
-Israel occupied the Golan Heights. Whose territory was it`syria
 Israel occupied the West Bank.it belonged to _______`jordan
-It is physically impossible for pigs to do what`look up into the sky
-It is the region where most of electrons are apt to be found`orbital
-It takes how long to cool hot chocolate into a Hershey's Kiss`28 minutes
 It takes how many muscles to frown`forty three
 Italian: variety of cabbage with a green flower head`broccoli
 It's not over till the _____ sings`fat lady
-It's rumored that sucking on a _____ _____ will cause a breathalyzer to read 0`copper penny
-Jabez stone sold this to the Devil`his soul
-Jack & Jill went up a ____ to fetch a pail of water`hill
 Japan did not have an organized chess federation until ____`1968
 Jergens lotion was created in what year`1880
 Jesus Christ died at what age`thirty three
 Joe Shuster brought this comic-book hero to life.....`superman
 John & Alice Clayton, Tarzan's parents, were better known as _____`lord & lady greystoke
-John Cassidy wrote what book`juggling for the complete klutz
-Joseph & Etienne Montigolfier, inventers of the hot air balloon, first believed that their balloon didnt rise due to hot air but an invisible gas given off by fire. What did they name this gas`montigolfier gas
-Julius Caesar & Napoleon Bonaparte both suffered from what`epilepsy
 June of 1968, Dr Benjamin Spock is arrested for aiding & counseling _____`draft evaders
 Kampala is the capital of ______`uganda
 Kenophobia is a fear of ______`empty spaces
 'Khaki' is hindi for`dusty
 Khartoum is the capital of ______`sudan
-Killing for reasons of mercy is known as`euthanasia
 King Richard the ________`lionheart
 Kingston the capital of ______`jamaica
 Kiwis are the only birds that hunt by the sense of _____`smell
-Knife, clown & pencil are types of`tropical fish
-La Paz, Bolivia, is the highest large city in the world at how many feet above sea-level`11,900
 Label for person whose i.q is 80-90`dull
 Lack of blood is called`anaemia
-Lack of what vitamin causes pellagra`b3
-Lake in southwestern Nicaragua, the largest lake in central America`nicaragua lake
 Lake, central north America, bordered on the north by the Canadian province of Ontario & on the south by the state of New York`lake ontario
-Large group of naturally occurring & synthetic lipids, or fat-soluble chemicals, with a great diversity of physiological activity`steroids
 Largest body of fresh water in the world, in east central north America, bounded on the north & east by Ontario, on the south by Michigan & Wisconsin, & on the northwest by Minnesota`lake superior
 Largest internal organ of vertebrates, weighing 3-4 pounds`liver
-Largest living land mammal, what during the pleistocene epoch roamed every landmass except Australia & Antarctica`elephant
-Last name of the author 'Roots'`haley
-Last name of the author: 'Doctor Zhivago'`pasternak
-Last name of the author: 'Goldfinger'`fleming
-Last name of the author:'Dune'`herbert
-Last name of the author:'The Mirror Cracked'`christie
 Last name of the man that invented the point bidding system in bridge`tet
 Last name of the man who created famous jeweled & enameled eggs`faberge
 Lateral line & dorsal fin are parts of a(n) ________`fish
-Latin for "time" is`hora
 Lazy susans are named after who`thomas edison's daughter
-Leading Arab astronomer & mathematician of his time`al battani
-Leaks can be costly. A leak of only one drop per second wastes about ___ ________ litres of water per year`ten thousand
-Legal terms: a crime more serious than a misdemeanor`felony
 Length: 220 yards = 1 ______`furlong
-Light, colorless fluid obtained from the fractional distillation of petroleum`benzine
-Light-sensitive organ of vision in animals`eye
-Lima is the capital of this country`peru
-Linseed oil is obtained from the seed of which plant`flax
-Linz, Austria is a leading port on which river`the danube
-Liquid substance that dissolves or breaks down another substance into a more elementary form & is usually present in greater quantity than that substance`solvent
-Liquid that circulates in plants, as distinguished from liquid plant products, such as turpentine & perfume oils, that must be extracted from plant tissues`sap
 Liquids that solidify when exposed to air, & are used to cover surfaces for decorative & protective purposes`paint & varnish
-Literally "white mountain" in French, what is the highest peak in France`mont blanc
 Literature: he won a Pulitzer prize for 'profiles in courage'`john f kennedy*kennedy
 Literature: Pulitzer prize winning novelist who authored 'the grapes of wrath'`john steinbeck
-Little round chocolate candies are known as _andms`m
-Located in northern Arizona, established as a national monument in 1908 & as a national park in 1919`grand canyon national park
-Longest reigning empress of Russia`catherine the great
-Longest river of Asia, in China, about 5526 km (about 3434 mi) in length`yangtze
 Lord Byron had a ____ foot`club
 Lunar revolutionary who hated the handle `Why not'`wyoming knott
-Machine that decreases the volume & increases the pressure of a quantity of air by mechanical means`air compressor
 Machine used to separate the fibers of cotton from the seeds`cotton gin
-Madrid & Lisbon are both located near this river`tagus river
 Malaria is traditionally spread by which insect`mosquito
-Malaria is transmitted by the female ____ mosquito`anopheles
 Malcolm Forbes was born in _____`1919
 Mammal characterized by short, strong legs; elongated feet that are more or less plantigrade (heels touch the ground); & straight, strong toes adapted to burrowing`badger
 Many ancient Mayan ruins are located on which peninsula`yucatan peninsula
 Many female children are named 'Friday' after which patron saint of Oxford`st frideswide
 Mardi gras is French for ___________`fat tuesday
-Margaret made a trade with charles to train the nurses. What did she have to do in return`a classical record
-Marijuana is Spanish for what`mary jane
 Mark Twain died at age 75 in _____`1910
 Mark Twain was born on a day in 1835 & he died in 1910, what was in view on both occasions`halleys comet
-Marshall Field was the founder, in 1941, of what Chicago paper`chicago sun
 Mary Magdalene is the patron saint of ______`prostitutes
 Mary Pickford was born in _____`1893
-Masters & Johnson were famous for books on what topic`human sexuality
-Material withheld from civilian use in WW II because it was needed to make parachutes`nylon
-Mature ovary in flowering plants, together with all inseparably connected parts of the flower`fruit
 Maxillary palps, abdomen, & metathorax are parts of a(n) ________`insect
 Measurement: 15 pounds per square inch equal`one atmosphere
-Medical examination of a dead human body, including the internal organs, to determine the cause of death or to study pathological changes`autopsy
-Members of the nazi ss had their blood type tattooed where`on their armpits
-Members of the phylum rhodophyta, a large group of aquatic plants with approximately 6000 species`red algae
 Meridians converge at the ______`poles
-Meursault, the title character in Albert Camus' famous novel The Stranger, had a first name what was mentioned only in Camus' personal journals, what was it`patrice
-Mexico City is sinking at a rate of 6 to 8 inches a year because its built on top of what`an underground reservoir
-Mindbender: if a plane crashes on the border where do they bury the survivors`nowhere
 Mindbender: voiceless it cries, wingless it flutters, toothless it bites, mouthless it mutters`the wind
-Mindbender: what has 3 feet but can not walk`yardstick
-Mindbender: what is big & small`jumbo shrimp
 Moles are able to tunnel through ___ feet of earth in a day`three hundred
-More people are killed by ______ than die in a plane crash annually`donkeys
 Morphine was given its name in what year`1803
 Most boat owners name their boats. What is the most popular boat name requested`obsession
 Most common of all minerals, composed of silicon dioxide, or silica, sio2`quartz
-Most gemstones contain several elements. Except the diamond which is all what`carbon
-Most men have what every hour to hour & a half during sleep`erections
-Most people wear a watch on their ____ wrist.`left
 Most reported cases of poltergeist activity, reveals that one or more _______ is present.`adolescents
-Mount Rushmore state`south dakota
 Mount Victoria is the highest peak of this island country.`fiji
-Mountain peak, south central Asia, in the Himalayas, on the frontier of Nepal & Tibet, the highest peak in the world`mount everest
 Mr Boddy is the murder victim in what board game`clue
 Mr Wizard debuts, making simple scientific phenomena fascinating for kids of`all ages
 Mr. Peanut was invented in what year`1916
 Mustard, ketchup & onions on a hotdog are all ___________`condiments
 Myositis affects the _________`muscles
-Nairobi is the capital of what country`kenya
-Name a flattened, wingless insect that lives on warm-blooded animals`louse
-Name applied originally to naturally occurring esters of fatty acids & monohydric alcohols, but now applied to both natural & manufactured products resembling these esters`wax
 Name applied to a ship to indicate that it is a very fast sailer`clipper
-Name applied to any craft having twin hulls`catamaran
 Name applied to any plant that retains its foliage through two or more consecutive seasons`evergreen
-Name applied to several types of skin eruptions characterized by formation of blisters`herpes
 Name collectively applied to numerous species of a family of waterfowl`duck
-Name Hagar the Horrible's dog`snert
-Name Jacues Cousteau's research ship`calypso
-Name Lil Abner's favorite Indian drink`kickapoo joy juice
 Name of the capital of the Newfoundland province (Canada)`st john's
-Name of the capital of the Nova Scotia province (Canada)`halifax
-Name of the space program designed to place a man on the moon & return him safely to earth`apollo
-Name one of "the most important substance consumed in modern society"`petroleum
-Name one of the three Bronte sisters`anne
-Name one of the two capitals of the republic of South Africa`cape town
-Name Radagast's brother in "Lord of the Rings"`gandalf
-Name Senegals chief port`dakar
-Name the 3-headed dog that guards Hades`cerberus
-Name the capital city of Massachusetts`boston
 Name the capital city of Rhode Island`providence
 Name the capital of Bolivia`la paz
-Name the capital of Brazil`brazilia
-Name the chess playing computer designed by Ken Thompson`belle
-Name the circular plastic media you put in a cd-rom drive`cd
 Name the clown from Stephen King's 'It'.`pennywise the clown
-Name the continent that consists of a single country`australia
-Name the fastest land animal over a prolonged distance (1,000 yd. Plus)`antelope
 Name the fat, rich detective with a passion for beer, food & orchids`nero wolfe
 Name the first automobile racetrack in America`indianapolis motor speedway
-Name the first black nation to gain freedom from european colonial rule`haiti
-Name the first element, alphabetically`actinium
-Name the first king to ever make an official visit to communist china`juan carlos
-Name the first manned mission to orbit the moon`apollo 8
-Name the first president of the american red cross`clara barton
-Name the first state of the U S A`delaware
 Name the giant who had 100 eyes who was made to guard Heifer IO`argus
-Name the large mountain chain in the eastern U S`the appalachians
 Name the largest artery in the human body`aorta
-Name the largest gland in the human body`the liver
-Name the largest living bird`ostrich
-Name the largest river forming part of the U S - Mexican border`rio grande
 Name the last province to become part of Canada.`newfoundland
 Name the loner rebel reindeer with the red shiny nose.`rudolph
-Name the longest river in Nigeria`the niger
 Name the longest venomous snake`king cobra
-Name the main architect behind the chess playing computer named "Belle"`ken thompson
-Name the mammal living at the highest altitude`yak
-Name the mathematician credited with developing an algebra for symbolic logic`george boole
 Name the missing pac-man ghost, Iinky, Pinky, Blinky & _____`clyde
 Name the most north-easterly of the 48 contiguous U S states.`maine
-Name the most popular sport in Britain`darts
 Name the nursery rhyme mother whos last name is that of a bird`goose
-Name the olympic ice sport in which the players do not wear skates`curling
 Name the only woman suspect in the game of "clue" who isnt married`miss scarlett
-Name the only woman to win 2 Nobel prizes`marie curie
-Name the sea north of Murmansk, Russia`barents sea
 Name the sea west of Alaska`bering sea
-Name the second largest country in Africa`algeria
-Name the second largest lake in North America`huron
-Name the second-largest continent after Asia`africa
-Name the second-largest planet in the solar system`saturn
-Name the Shakespeare play from this ultra short plot summary: urged on by his wife, a man murders his king in order to take his place`macbeth
 Name the skipper in `20,000 Leagues Under The Sea'`captain nemo
 Name the strait joining the Atlantic Ocean & the Mediterranean Sea`strait of gibraltar
 Name the Unix network file system developed at CMU`andrew
-Name the Wright brothers 1903 plane`flyer
-Name U S politics four Kennedy brothers`john, robert, ted & joe
-Name used interchangeably for a disease of rye, for the fungus causing the disease, for the sclerotium (compact hardened mycelium, or fruiting surface) of the fungus, & for the dried sclerotium, which contains certain valuable drugs`ergot
-Names for numbers: 1 followed by 48 zeroes =`quindecillion
 Napolean's last battle`waterloo
-Napthalene is commonly found in what household item`mothballs
-Narcolepsy is the uncontrollable need to ______`sleep
-Nassau is the capital of which country`bahamas
-National capitals:__________ is the capital of China (east asia)`bejing
-National capitals:__________ is the capital of Luxembourg (europe)`luxembourg
-National capitals:__________ is the capital of Mexico`mexico city
-National capitals:__________ is the capital of Morocco (africa)`rabat
-National capitals:__________ is the capital of Portugal (europe)`lisbon
-National capitals:__________ is the capital of United States`washington dc
-National capitals:__________ is the capital of Uruguay (south america)`montevideo
 Natives of New Zealand are called what`maoris
-Naturally occurring oily, bituminous liquid composed of various organic chemicals`petroleum
-Navy ranks: stars a 'rear admiral' has`2
-Navy ranks: stars an admiral has`4
-Neck-ties were first worn in what country`croatia
-Nervous as a long-tailed cat in a room full of ______`rocking chairs
 New Delhi is the capital of ______`india
 New Jersey has a spoon featuring over _________spoons from every state & almost every country`five thousand four hundred
 New Orleans first mardi gras celebration was held in what year`1826
-New york's first St. Patrick's day parade was held on what date`march 17, 1762
 New Zealand was discovered by whom`abel tasman
 Niklaus Wirth developed which programming language in 1968`pascal
-Ninth planet from the sun & outermost known member of the solar system`pluto
 Nitrous oxide is better known as __________`laughing gas
-No nfl team which plays its home games in a domed stadium has ever won a ______`super bowl
-No species of wild plant produces a flower or blossom that is absolutely what color`black
 Non-dairy creamer is _________`flammable
-North American deer of the same species as the reindeer of Eurasia`caribou
 North America's first underwater telegraph cables were laid by _____`frederick grisborne
 Northern most & western most state of the U S, & the largest state of the union`alaska
 Northernmost capital in the world`reykjavik
-Number of medals awarded Norway at the 1968 winter olympics`13
-Number of medals awarded the USSR at the 1972 summer olympics`99
-Nungatta National Park is nearest what large Australian city`brisbane
 Of all canadians, ________ percent rely on groundwater for domestic use`twenty six
-Of all the planets - which is the largest`jupiter
 Of the 262 men who have held the title of pope, how many have died by violence`thirty three
-Of the twenty brightest stars in the sky, what one is the furthest north`capella
-Of what battle was a horse named Comanche the only losing survivor`battle of little big horn
 Of what continent is Cyprus a part`asia
 Of what element is the sun mostly composed`hydrogen
-Of what substance are teeth made`enamel
 Of what was Napoleon terrified`cats
 Of what was Snow White's coffin made`glass
 Of what were ancient Egyptian pillows made`stone
-Of which country is the flame flower a native`south africa
 Of which planet is luna the moon`earth
-Offered a new pen to write with, 97% of all people will write what`their own name
 Often drank, this liquid is normally harvested from female cows`milk
-Often eaten for breakfast, bacon is actually the flesh of what barnyard animal`pig
 Ogdensburg, New York is the only city in the U S situated on what river`st lawrence river
-Soloist with small group" in 1970`alone
-On a darts board what number is directly opposite 10`fourteen
-On a standard computer keyboard, this is the letter just to the right of z`x
 On March 29, 1848, Niagara Falls stopped flowing for 30 hours because of what`ice jam
-On what continent is Mt. Everest`asia
 On what date did America become an independant nation`july 4th 1776
 On what island is Pearl Harbor`oahu
 On what island is the U S naval base Guantanamo`cuba
-On what mountain are four presidents' faces carved`mount rushmore
-On what offshore island is Kennedy International Airport located`long island
-On what peninsula are Spain & Portugal located`the iberian peninsula
 On what plain is Stonehenge`salisbury plain
 On what river is Rome built`tiber
 On what river is the capital city of Canada`ottawa
-On what type of surface are the tennis matches at Wimbledon played`grass
 On what was the Declaration of Independence written`hemp paper
-On what was the world's first adhesive used`postage stamp
-On what were the ten commandments written`stone tablets
-On which continent did citrus originate`asia
-On which day are the most collect calls made`father's day
-On which island is it a criminal offence to shout 'ship ahoy' when there is no ship in sight`picarn island
-On which mode of transportation would you find a plimsoll line`a ship
 On which mountain did Noah's Ark run aground`mount ararat
-On which planet, other than earth, did a man made object first land`mars
 On which popular game board would you find 225 squares`scrabble
 On which river is the Aswan High Dam`nile
-On which scale are there 180 degrees between freezing point & boiling point`fahrenheit scale
 On which subject did Richard Strauss write a 'Gay Viennese Ballet'`whipped cream
-One gram of pcbs can make up to ____________ litres of water unsuitable for freshwater aquatic life`one billion
-One need only be 16 to do what (without parental consent) in Georgia`marry
-One of the five main senses, by which sound waves are perceived by the ear in vertebrate animals`hearing
-One of the hard protuberances that grows from the foreheads or snouts of various hoofed mammals, such as rhinoceroses, deer, giraffes, goats, & cattle`horn
-One of the planets in the solar system, the second in distance from the sun`venus
 One of the smallest living mammals in the world is known as a _________`shrew
-One of Willa Cather's most famous works is 'Death Comes For The ____________'`archbishop
-One pound of tea can make how many cups of the beverage`300
-Only one satellite has been ever been destroyed by a meteor -- the European Space Agency's _______ in 1993`olympus
 Optical device, commonly made of glass, with a smooth, polished surface that forms images by the reflection of rays of light (light; optics; reflection)`mirror
-Optical technique commonly used to measure thin film thickness, and RI:`ellipsometry
 Oranges & lemons, the bells of ......`st clements
-Oranges, lemons, watermelons, & tomatoes are all what`berries
-Order of insects containing more than 100,000 species, including ants, bees, wasps, sawflies, chalcids, & ichneumons`hymenoptera
-Organ of the digestive system`stomach
-Organic chemical compounds containing a group of two nitrogen atoms attached to each other`diazo compounds
-Organs for changing food chemically for absorption by body tissues`digestive system
 Tallahassee is the capital of ______`florida
-Oscar Monet painted in this style`impressionism
-Other than humans, black lemurs are the only primates that may have what`blue eyes
-Other than meat, what is also known as a leg of mutton`a kind of sleeve
-Over 30 million people in the U S "suffer" from having a gap between your front teeth. What is this condition called`diastima
 Owls are the only birds that can see what colour `blue
-Owls have eyeballs that are ______ in shape, because of this, they cannot move their eyes`tubular
-Pacing & trotting are the two types of ______ racing`harness
-Part of a plant that serves primarily as the plants food-making organ in a process called photosynthesis`leaf
-Pasteur & ____ proved germs cause diseases`koch
 Peanuts are what`beans
-People from Manchester, England are called what`mancunians
-People in ________ read more books than people anywhere else in the world per capita`iceland
-People with which disease were cared for by Father de Veuster on the Hawaiian island of Molokai`leprosy
-Perhaps Canada's tallest tree, the Sitka spruce is called`carmanah giant
 Period from birth to approximately 18 months of age`infancy
-Periodic movements of animals from one place to another is called (_____)`migration
-Peritonitis, affects the ________`abdomen
 Perspiration is odorless. What causes body odor`bacteria
-Phalanges are bones found in a human what`toes
-Phonophobia is a fear of ______`voices
-'Photosynthesis' is the process by which light converts carbon dioxide & water to sugar (glucose) & what substance`oxygen
-Phylum or superphylum of common but inconspicuous, often microscopic worms`aschelminthes
-Physical or behavioral resemblance of one species to another to benefit itself or, in effect, sometimes both species`mimicry
 Picasso was almost left for dead when he was born. Who saved his life`an uncle
 Pickled herrings were invented in what year`1375
 Pigs, walruses & light-colored horses can get a _________`sunburn
 Pinocchio is Italian meaning what`pine eyes
-Plashing is the term to describe the collecting of what kind of nut`walnut
-Poisonous alkaloid, c21h22n2o2, found in various plants of the genus strychnos, & obtained commercially from the seeds of the saint-ignatius's-bean & from nux vomica`strychnine
-Politics : is Romania a unicameral or a bicameral republic`bicameral
-Popular name for a family of about 19 species of birds allied to the herons & ibises`stork
 Port au Prince is the capital of ______`haiti
 Port Moresby is the capital of ______`papua new guinea
-Portion of vascular plants that commonly bears leaves & buds`stem
-Postage stamp is to philatelist as coin is to`numismatist
 President Lincoln proclaimed the first national thanksgiving day in what year`1863
 President Richard M Nixon called what songstress an "ambassador of love"`pearl baily
-Princess Bride: Domingo Montoya's profession`swordmaker
-Princess Bride: Life is ____, Highness!`pain
-Princess Bride: Montoya's original workplace`greenland
 Princess Bride: Number of years that Inigo has searched for Roga`twenty
 Princess Bride: Roberts' profession`pirate
 Princess Bride: Roga's first name`tyrone
-Princess Bride: Wesley's first profession`farm boy
-Principal artery of the body that carries oxygenated blood to most other arteries in the body`aorta
 Process by which the body uses sugar for energy`sugar metabolism
 Process of printing developed in 1798 by the German map inspector Aloys Senefelder`lithography
-Profession concerned with vision problems & eye health`optometry
 Proverb: two wrongs __________`dont make a right
 Pulp, crown, & root are parts of a(n) _____`tooth
 'Q' is the only letter in the alphabet that does not appear in the name of any of the ______`united states
 Quinine is added to water to make _______`tonic water
 Quotes: who said "i was gratified to be able to answer so promptly"`mark twain
-Rabat is the capital of which country`morocco
 Rachael was the wife of _____`jacob
-'Racoon' is derived from a native American word that means`scratcher
-Radioactive hydrogen isotope of atomic mass 3 & symbol 1h3 or t`tritium
-Ratio of the mass of a body to its volume, usually expressed as its specific gravity`density
 Rehaven, elberta, desert gold & sunhaven are all varieties of _____`peaches
-Rene descartes & Pierre de Fermat are credited with significant development of _______ theory`probability
-Republic in south eastern Africa, formerly the British protectorate of Nyasaland, bounded on the north by Tanzania, on the east by Lake Nyasa (malawi), on the southeast & south by Mozambique, & on the west by Zambia`malawi
-Republic in south western Asia, located on the eastern shore of the Mediterranean Sea`israel
-Residential & business district, Manhattan, New York City`harlem
-Rhode Island's providence atheneum was used by a poet to court his sweetheart`edgar allen poe
-Ribbons, feathers & rosettes on hats are called:`cockaues
-Richard Drew came up with this 'sticky' invention in 1929`scotch tape
 Richard Nixon published a book called __________`six crisis
 Richard Nixon was the 1st U S president to visit China in february of what year`1972
 River in the central U S, the largest & most important river in North America`mississippi
-Roads on which trains of freight & passenger cars, drawn by locomotives, travel on tracks formed by pairs of parallel metal rails (locomotive)`railroads
-Robert Baden-Powell founded this group in 1907`boy scouts
-Rock, the original composition & texture of which has been altered by heat & pressure deep within the earths crust`metamorphic
-Roman numeral lxxii is equivalent to`72
-Roman numerals: what is equivalent of cc`200
-Roman numerals: what is equivalent of clx`160
-Roman numerals: what is equivalent of cm`900
 Roman numerals: what is equivalent of mdcix`1609
-Roman numerals: what is equivalent of xix`19
-Roman numerals: what is equivalent of xl`40
-Roman numerals: what is equivalent of xviii`18
 Romanian music : who performed "Ploaie in Luna Lui Martie"`paula selling
-Rose, single, buttercup, & pea are all type of ____ on chickens`combs
-Roughly how many bananas does the U S consume per year`11 billion
 Rudolph, the red-nosed reindeer, was created in what year`1939
-Rulers of what ancient civilization were buried in rock-cut tombs in the arid valley of the kings near its capitol of Thebes`egypt
-Rum is made from this plant`sugar cane
 Russian emperors were known as czars; what was the czars wife known as`czarina
-Samuel Adams Boston Lager is brewed in this US state`pennsylvania
-San Francisco Bay is located near what city`san francisco
 Santa Claus reportedly lives at the _____ pole.`north
 Santa's reindeer in the order of the song (minus rudolph) are how many`nine
-Santas reindeer in the order of the song (minus rudolph) are what`dasher, dancer, prancer, vixen, comet, cupid, donner, blitzen
 Sapphire is the birthstone for what month`september
 Saying: a penny saved is a penny....`earned
 Saying: the road to hell is paved with....`good intentions
 Saying: too many cooks spoil the....`broth
 Science: what is the symbol for the element oxygen`o
-Scientists measure the distance of the moon by bouncing light off`moon mirror
-Scree is the term for loose what`rocks
 Severe infant disorder of communication & behavior that develops before the age of three`autism
-Shah Jahan of India built what famously beautiful building as a memorial to his favorite wife`taj mahal
 She had the great misfortune of living in Paris during the reign of terror, & she was forced to make death masks of the people who had been guillotined. Later she moved to Britain, & these death masks became the basis of a famous wax museum. She was Madame _________`tussaud
 She overcame her handicaps to become a lecturer & a scholar`helen keller
-She was "sports illustrateds" first female "sportsman of the year"`billie jean king
-She was called "The Maid of Orleans"`joan of arc
-She was queen of Egypt & mistress of Julius Caesar`cleopatra
-She was the daughter of Anne Boleyn & Henry VII`queen elizabeth i
 She was the first first lady to be received privately by the pope`jackie kennedy
 She was the first woman to fly the Atlantic solo`amelia earhart
-She won the 1979 Nobel peace prize for her work among the poor`mother teresa
-She won the judgement of Paris`aphrodite
 She wrote "Valley of the Dolls".`jaqueline susann
-Sherwood park, Alberta, Canada is the largest ______ in the world`hamlet
-Ships designed for the various operations involved in modern naval warfare`vessels
 Short, high-freuency radio waves lying roughly between very-high-freuency (infrared) waves & conventional radio waves (electromagnetic radiation; radio)`microwaves
-Shrimps' hearts are where`in their heads
-Sigmund Freud, founder of psychoanalysis, was born in what country`austria
-Similes as neat as a ______`pin
 Similes: as fit as a(n) __________`fiddle
 Similes: as good as _________`gold
 Similes: as pretty as a(n) ________`picture
@@ -979,213 +501,84 @@ Similes: as quiet as a(n) _________`mouse
 Similes: as sick as a(n) ___________`dog
 Similes: as tough as _____`nails
 Similesas dry as a _____`bone
-Since Hindus don't eat beef, the Mcdonald's in New Delhi makes its burgers with what`mutton
 Since the beginning of the modern olympics, which are the only 2 countries to compete in them all (list alphabetically)`australia & greece
 Since Thomas Jefferson was a widower, who became unofficial first lady during his administration`dolly madison
 Single-celled fungus used to make beer & bread rise`yeast
-Skin is thickest where`back
-Slang: what term was defined as "far away from the ordinary"`far out
 Slate is formed by the metamorphosis of _________`shale
-Slugs have 4 ______`noses
-Snakes are reptiles. What are frogs`amphibians
 Soccer: the New York _________.`cosmos
-Solidified milk fat, especially cows milk, used principally as a food item`butter
 Somnus was the Roman god of ______`sleep
 South of Tucson, Arizona, most of the road signs are in what system`metric
 'Spaghetti' is the diminutive of the Italian word for:`cords
 Speaking of underwear, what does bvd stand for`bradley, vorhees & day
-Speech disorder characterized by involuntary hesitations & rapid repetitions of speech elements (speech & speech disorders)`stuttering
-Speed racer was a "demon on wheels," but what was the name of his car`the mach v
-Spermophobia is a fear of ______`germs
-Spike Lee's _____ is released to critical acclaim`do the right thing
 Spiral staircases in medieval castles are running in what direction`clockwise
 Stage of maturation between childhood & adulthood`adolescence
-Star that, by the gravitational effects of its mass, dominates the planetary system that includes the earth`sun
 Starved Rock State Park, Crab Orchard & Cahokia Mounds are in what state`illinois
-State in the east north central U S`michigan
-State in the north central U S`missouri
-State in the south eastern U S, bordering the Atlantic Ocean`south carolina
-State in the west north central U S`iowa
-Statistically speaking, every day 110 golfers make a what`hole in one
-Stephen King's: " pet ________"`cemetary
 Stephen King's: " the dead ________"`zone
-Stoicism was founded by`zeno
-Strategic defense of a country against a foreign military attack`defense systems
-Study of organisms of microscopic size, including bacteria, protozoans, viruses, and`microbiology
-Study of prehistoric animal & plant life through the analysis of fossil remains`paleontology
-Study of the processes by which living cells use, store, & release energy`bioenergetics
-Study of the substances found in living organisms, & of the chemical reactions underlying life processes`biochemistry
-Suzy Bogguss is 1 of 3  kids. Was she the oldest,middle,youngest`youngest
-Symbol si, semimetallic element that is the second most common element on earth, after oxygen`silicon
 Tanzania is the country that resulted from the union of Tanganyika & ______`zanzibar
 Tarsus, metatarsus, & phalanges are parts of a ______`foot
-Terlingua, Texas is the annual site of what cook off`international chili society
 Term applied loosely to any of a number of chemical compounds in the carbohydrate group that are readily soluble in water; are colorless, odorless, & usually crystallizable; & are more or less sweet in taste`sugar
-Term applied to cultivation of plants in nutrient solutions without use of soil`hydroponics
-Term applied to the edible portions of domestic mammals such as cattle, calves, sheep, lambs, & swine`meat
-Term applied to the profession in which a knowledge of the mathematical & natural sciences, gained by study, experience, & practice, is applied to the efficient use of the materials & forces of nature`engineering
-Term for the role the atmosphere plays in insulating & warming the earth's surface`greenhouse effect
-Term indicating the hydrogen ion concentration of a solution, a measure of the solutions acidity`ph
-Term meaning `rest' which titled a posthumous RAH retrospective`requiem
-Term originally meaning any kind of bird, & later applied chiefly to edible species`fowl
-Term popularly applied to a visible growth of fungi or bacteria on wet clothes, food, or other objects`mildew
-Term used to designate a crew member for manned space flights of the united states space program`astronaut
-Termination of pregnancy before the fetus is capable of independent life`abortion
 That big square thing you're staring at right now is called a _______`monitor
-The beer museum in Cincinnati is associated with this brewery`oldenberg
-The German term Weizen refers to beers made with this ingredient`wheat
 There are this many smurfs`one hundred & one
 There were two Old Testament prophets who did not die, who were they`elijah and enoch
 This Canadian cigarette brand sponsors the Canadian Open (tennis and golf).`du maurier
-This is the name of the ship powered by the Infinite Improbability Drive`heart of gold
-This is the only word in the song that the smurfs sing`la
-This is Wonko the Sane's real name`john watson
-This smurf has a "hiakhiak" laugh an dgives "trapped" presents to his smurfs`jokey
-This smurf is the only smurf with blonde hair`smurfette
 Tobacco drying barns are typically painted this color.`black
 Traditionally, how many colors are considered to be in a rainbow`seven
 Universal donors have what type of blood`o
-Usenet group dedicated to discussion of brewing`rec.crafts.brewing
-What ads stopped being shown on television during the 1970's`cigarette
-What airport lies across the channel from Rikers Island Penitentiary`la guardia
-What animal can communicate using sounds that are below the human hearing range: between 14 & 35 hertz`elephants
-What animal often communicate at sound levels as low as 5hz`elephants
 What are a group of ostriches called`a pride*pride
 What are found in oyster shells`pearls
-What are responsible for a lot of the worlds pollution as they produce the largest amount of methane out of all animals`termites
-What can smell a drop of blood a quarter of a mile away`sharks
 What country generates the most hydroelectric power`canada
-What did God change Abram's name to`abraham
-What does Hosannah mean in Hebrew`save us
-What does NYD mean to an ER doctor`not yet diagnosed
 What is the Answer to Life, the Universe, and Everything`forty two
-What is the first Sunday after the first full moon after March 21`easter
 What is the most famous and often quoted Psalm`twenty third psalm*23rd psalm
 What is the name of the mountain where Moses received the ten commandments`mount sinai*mt sinai
 What is the product of mass & velocity`momentum
-What is the world's most syndicated comic strip`peanuts
-What Israelite slave interpreted dreams for Pharoah and eventually became his second in command`joseph
 What lose their color if they are kept in dim light or are placed in a body of running water, such as a stream`goldfish
-What makes a doughnut a doughnut`the hole
-What nation is the world's largest producer of tobacco`china
-What organization fought ecological battles from its flagship, Rainbow Warrior`greenpeace
-What relation was Genghis Khan to Kublai Khan`grandfather
-What relative of Genghis Khan let Marco Polo ride elephants on hunting trips`kublai khan
 What religious leader did Apple yank from its "Think Different" ad campagn in Hong Kong so as not to offend China, in 1998`the dalai lama*dalai lama
-What sultry 1940's blonde dumped the names Constance Ockelman and Connie Keane`veronica lake
 What three types of weapons are known in Pentagon-speak as ABC`atomic, biological and chemical*atomic biological chemical*atomic, biological, chemical
 What was the first thing Noah did upon setting foot on dry land`built an altar*he built an altar
-What was the Russian equivalent of Skylab`salyut
-Where did the Rainbow Bridge replace the Honeymoon Bridge`niagra falls
-Where was Daniel thrown into the lion's den`babylon
-Which angel did God send to visit the young girl Mary`gabriel
-Which company launched the first clone of an IBM personal computer in 1982`compaq
 Which milk has more fat than cow milk`reindeer
 Which two birds assisted Noah in finding dry land`dove and raven*raven and dove
-Who coined the phrase "natural selection" to describe the evolutionary process`charles darwin
 Who did God ask that he sacrifice his only son`abraham
-Who held out his hand and miraculously parted the waters of the Red sea so that the Israelites could pass to safety`moses
-Who is the great-grandmother of King David`ruth
-Who looks like a big bottle of glue and uses his glue guns to fight enemies`dr. mucilage
-Who told her mother-in-law "whither thou goest, I will go"`ruth
-Who travelled over a thousand miles to see with her own eyes, if the stories of Solomon's wealth and wisdom were indeed true`queen of Sheba
 Who was pictured on a 1997 Time magazine cover that sold a record 1,183,758 copies`princess diana
 Who was the first person to make People magazine's Most Beautiful People list five times`john f kennedy jr*john f. kennedy jr
-Who was the son of Elizabeth and Zechariah`john the baptist
-Who, when problems arise, jumps into his cannon and says "Fire me, boy"`the human bullet
-1992 - what woman won the most medals at the summer olympics`shannon miller
-A more common name for an anthropophagist is`cannibal
 Americans say "oatmeal or mush", but Canadians say`porridge
 At which university did Spike Lee teach`harvard
 Authors: Who wrote "Funerals Are Fatal"`agatha christie
-Borsch is based on what vegetable`beetroot
-Comics: Magneto's real name`erik magnus lensherr
 Complete the line: "step on a crack"`break your back
-From which fruit is the liqueur obtained`cherry
 How many picture cards are there in a standard pack of playing cards`twelve
-How many red blood cells does an average human have`20 trillion
 How many years of marriage is the crystal anniversary`fifteen
 In an average lifetime, the average aAerican drives 55,372 miles on `shopping trips
 In common: King Tonkin, Duchess of Oldenburg, Simpson Starking and Rambo`apples
 In what city does a certain church forbid burping or sneezing`omaha, nebraska
 In which century was margarine invented`19th
-In which city would you find the "Peace Tower"`ottawa
-In which of Coleridge's poems does an albatross appear`rime of the ancient mariner
-In which trials were former Nazi leaders tried as war criminals`nuremburg trials
 Lightest inflammable gas known`hydrogen
 Much of the current we use today is in ac/dc form, its popularity and practicality was attributed to this person`tesla
 Spell out: quasar`quasi stellar object
 Spell the name of the largest city in New Mexico`albuquerque
-The 1982 football strike lasted how many days`fifty seven
 The Inca civilization was located mainly in which modern country`peru
 These are like fingerprints on cows (no two are identical)`spots
 Vermont became the 14th state of the U S  in 1791, 1792 or 1793`1791
-What are tiny cracks in the glaze of pottery`crackle
 What Brazilian region caught gold fever in 1980`amazon region
-What can stop the Duke of Earl`nothing
-What city is also known as beantown`boston
-What comprises than 54% of humpback whale's milk`fat
-What country is the world's biggest producer of wool`australia
-What did Dr Godfrey invent in 1762`fire extenguisher
 What do gorillas do when they get nervous`beat their chests
-What do strikers call those that refuse to strike`scabs
 What do you call the playing pieces in dominoes`bones
-What does pbx stand for`private branch exchange
 What expression does Charlie Brown use when he has been victimized`good grief
-What facial feature contains the sperm whale's spermactei`snout
-What falls out with phalacrosis`hair
-What has a rectangular pupil`goat
-What imperial dynasty in Russia ended with the abdication of Nicholas II`romanov
-What is a group of hounds`cry
-What is constructed using the Isherwood system`ships
 What is France's national flower`fleur de lys
-What is made from the bark of the cinchona tree`quinine
-What is now known as the Belgium Congo`zaire
-What is the bundestag`german parliament
-What is the capital of Papua New Guinea`port moresby
-What is the capital of Pennsylvania`harrisburg
 What is the instrument used in geometry to measure angles`protractor
 What is the name of the membrane surrounding the brain`meninges
 What is the name of the river that runs on the border of California and Arizona`colorado
-What is the smallest australian state`tasmania
-What is the term for a moon greater than half but less than full`gibbous
-What Japanese video game system arrived in the western world in 1985`nintendo
-What kind of animal is a catamount`cougar
-What kind of animal is a gaur`wild ox
 What shadow team driver was killed testing, prior to the 1974 South African grand prix`peter revson
-What theory describes the beginning of our universe`big bang
 What two countries contain the Sierra Nevada mountains`spain & usa
-What type of flower is cransbill`geranium
-What type of meat usually goes into frankfurters`pork
 What was the full name of the eminent physicist who dipped a piece of o-ring into a glass of water in a demonstration, and proved that low temperatures at the launchpad were responsible for the challenger disaster`richard phillips feynman
-What was the name of Dr Doolittle's pet duck`dab-dab
 What was the nickname of New York financier James Buchanan Brady`diamond jim
-What were V1s and V2s supposed to do upon landing`explode
 What year did Pascal invent the adding machine`1642
-What's a goober`peanut
-What's an angle subtended by the diameter of an object called`angular diameter
-What's the particle reponsible for gravitational forces`graviton
 When was the Miss World competition founded`1951
-Where in the body would you find the left ventricle`heart
-Where is the New Hampshire International Speedway located`loudon
 Which British prime minister introduced the 3 day week`edward heath
-Which Charles Dickens character said "please sir, i want some more`oliver twist
 Which is the longest snake in the western hemisphere`anaconda
-Which is the world's largest monolith`mount augustus
-Which new engine regulation replaced the 2.5 litre rule at the start of the 1961 season`1.5 litre
-Which Steinbeck novel tells of a family migrating to California`the grapes of wrath
-Who according to Greek mythology was the first woman`pandora
-Who always had 56 curls in her hair`shirley temple
-Who did Perseus kill`medusa
 Who said men seldom make passes at girls who wear glasses`dorothy parker
 Who was Daniel Boone's indian companion`mingo
 Who was the beautiful youth Aphrodite loved`adonis
 Who was the first elected president of the Philippines`ferdinand marcos
-Who was the first woman doctor`elizabeth blackwell
 Who was the Greek god of physicians and thieves`hermes
 Who wrote "The City Of God"`saint augustine
-Who wrote 'The Time Machine'`h g wells
-Category: Books: Sequel to Steinbeck's Sweet Thursday.`cannery row
 Category: Books: This book by Richard Rhodes won the Pulitzer Prize`making of the atomic bomb
 Category: Books: This author wrote "If", one of the worlds most popular poems.`kipling
 Category: Books: The Little Prince was the work of this author.`antoine de saint-exupery
@@ -1223,13 +616,11 @@ Category: Alcohol: London engraver famous for his etchings of drunkards`william 
 Category: Alcohol: The Greek god of wine, dance, and ecstacy`dionysus
 Category: Alcohol: The most popular alcoholic beverage in America before beer`cider
 Category: Alcohol: The traditional Sweedish drink`aquavit
-Category: Alcohol: An illegal 1920s saloon`speakeasy
 Category: One Liners: What do ghosts have for dessert`i scream
 Category: One Liners: What do you call 500 lawyers at the bottom of the ocean`a pretty good start
 Category: One Liners: Did you hear that the Polish Hockey Team died`drowned in spring training
 Category: One Liners: Did you hear the one about the two feminists`thats not funny!
 Category: One Liners: Waiter! What's this fly doing in my soup`the backstroke
-Category: Original Titles: Great White by Peter Benchley`jaws
 Category: Original Titles: Ernest Pontifex by Samuel Butler`the way of all flesh
 Category: Original Titles: Beauty and Ashes by Somerset Maugham`of human bondage
 Category: Original Titles: A Daughter of the D'Ubervilles by Thomas Hardy`tess of the dubervilles
@@ -1248,11 +639,9 @@ Category: Generation X Toys: Manufacturer of the 2600 and 5200 video game system
 Category: Generation X Toys: This wacky and "cheap" magazine had its own crazy board game.`mad
 Category: Generation X Toys: Company that made Atari games like Kaboom and Megamania.`activision
 Category: Generation X Toys: These popular block sets included a castle and a fire boat.`lego
-Category: Generation X Toys: Large plastic animals gobbled marbles in this game.`hungry hungry hippos
 Category: Be Prepared: derge's Boy Scout Troop number. Also the US President's house number.`1600
 Category: Be Prepared: Honorary service organization typically referred to simply as "OA"`order of the arrow
 Category: Be Prepared: A Cub Scout Pack is divided up into several ----, of about 8 boys each.`dens
-Category: Be Prepared: Points 7-9 of the Scout Law.`obedient cheerful thrifty
 Category: Be Prepared: How many total merit badges are required for Eagle (as of 1995)`21
 Category: Name Their Job: Jane Pauley`news
 Category: Name Their Job: Claude Pepper`senator
@@ -1268,12 +657,8 @@ Category: Hobbies and Leisure: Which exercises are designed to increase O2 consu
 Category: Hobbies and Leisure: Jokers apart, how many red cards are there in a standard pack`26
 Category: Author: Me`katharine hepburn
 Category: Author: The Rise and Fall of the Third Reich`william shirer
-Category: Author: Arrowsmith`sinclair lewis
 Category: Author: Presumed Innocent`scott turow
 Category: Author: This Perfect Day`ira levin
-Category: Snow Crash: Who is the head of the mafia`uncle enzo
-Category: Snow Crash: What is your image or icon called in the metaverse`avatar
-Category: Snow Crash: What security company arrests Y.T. at the beginning of the book`metacops
 Category: Snow Crash: Name the mafia henchman who wields REASON:`fisheye
 Category: Snow Crash: Who removes dead avatars from The Black Sun`graveyard daemons
 Category: Ads: We earn our wings every day.`eastern airlines
@@ -1284,16 +669,12 @@ Category: Ads: Get a piece of the Rock.`prudential
 Category: Famous Gills: Advertising: "The best a man can get."`gillette
 Category: Famous Gills: A gill is this many fluid ounces in the US measuring system.`four
 Category: Books: In 'Pilgrim's Progress' this is Christian's ultimate destination`celestial city
-Category: Books: Author of One Police Plaza, 1984 best-seller.`caunitz
 Category: Books: Last name of the Jacob and Wilhelm brothers.`grimm
 Category: Books: Pen name of Charles Lutwidge Dodgson.`lewis carroll
-Category: Books: Sequel to Steinbeck's Sweet Thursday.`cannery row
-Category: Name Their Job: Garry Trudeau`cartoonist
 Category: Name Their Job: Sandra Day O'Conner`supreme court
 Category: Name Their Job: Jane Addams`social worker
 Category: Name Their Job: Martha Graham`dancer
 Category: Name Their Job: Marvin Mitchelson`divorce lawyer
-Category: Tea: Better teabags contain these small particles sifted out of better teas`fannings
 Category: Tea: This is the name of the Japanese tea ceremony`chanoyu
 Category: Tea: Japanese and many Chinese people prefer this type of tea, which is unfermented`green
 Category: Tea: Tea plants belong to this genus`camellia
@@ -1322,16 +703,13 @@ Category: Biblical Character: When mentioned together with her husband, she is g
 Category: Biblical Character: King of Judah who was wicked before he repented`manasseh
 Category: Biblical Character: Pleaded for Jesus to heal his dying daughter`jairus
 Category: Biblical Character: First martyr after the resurrection of Jesus`stephen
-Category: Biblical Character: High priest of Israel when Samuel was born`eli
 Category: Barbie: Manufacturer of Barbie dolls`mattel
 Category: Barbie: Doll copied from London's top teen model`twiggy
-Category: Barbie: Model of car Barbie drives`corvette
 Category: Barbie: What Ken wears when he visits Germany`lederhosen
 Category: Barbie: Barbie's black friend`christie
 Category: Be Prepared: Give the colors of the 3 ribbons on the Webelos thing (alphabetical, no commas)`green red yellow
 Category: Be Prepared: What is the only Cub Scout/Webelos award that may be kept as a Boy Scout`arrow of light
 Category: Be Prepared: Founder of the Boy Scouts`lord robert baden-powell
-Category: Be Prepared: Points 7-9 of the Scout Law.`obedient cheerful thrifty
 Category: Be Prepared: Scout slogan`do a good turn daily
 Category: Author: Time Enough For Love`robert a. heinlein
 Category: Author: The Drifters, Tales Of The South Pacific, Toko-ri`james michener
@@ -1347,8 +725,6 @@ Category: Books for the Bored: Which country was Stephen King born in`usa
 Category: Name Their Job: Helen Gurley Brown`publisher
 Category: Name Their Job: Chuck Yeager`pilot
 Category: Name Their Job: Jean-Pierre Rampal`flautist
-Category: Name Their Job: Garry Trudeau`cartoonist
-Category: Name Their Job: Gorgeous George`wrestler
 Category: Sidekicks: Astrological twins: Castor`pollux
 Category: People: In 1570 his army destroyed Novgorod and he had thousands executed.`ivan the terrible
 Category: People: His dog Snert says voof instead of woof.`hagar the horrible
@@ -1356,14 +732,8 @@ Category: People: Weak English king, ruled 978-1016.`ethelred the unready
 Category: People: Last of the Hebrew prophets.`john the baptist
 Category: People: Red Skelton's hobo character.`freddy the freeloader
 Category: Kids in the Hall: This character visits people standing in long lines`flying pig
-Category: Kids in the Hall: A Mark McKinney character says "I'm _ your head!"`crushing
-Category: Snow Crash: Who is the head of the mafia`uncle enzo
-Category: Snow Crash: What is your image or icon called in the metaverse`avatar
-Category: Snow Crash: What is the language spoken by taxi drivers`taxilinga
 Category: Snow Crash: What is the largest religious franchulate (whole name)`reverend waynes pearly gates
 Category: Snow Crash: Who gives Y.T. his dogtags`uncle enzo
-Category: The Bible: God said, "Be strong and of a good courage" to him`david
-Category: The Bible: The Nebuchadnezzar king was of this nation.`babylon
 Category: The Bible: The slave who became ruler of Babylon because he told a King's dream`daniel
 Category: The Bible: The first five books of the Old testament are together called as`pentateuch
 Category: The Bible: The gutsy Razis tossed this at the 500 soldiers send to kill him`intestine
@@ -1385,14 +755,12 @@ Category: Potpourri: Peter the Great was leader of this country`russia
 Category: Authors of 1992: Attack of the Deranged Mutant Killer Monster Snow Goons`bill watterson
 Category: Authors of 1992: Dolores Claiborne`stephen king
 Category: Authors of 1992: You Just Don't Understand`deborah tannen
-Category: Authors of 1992: More Wealth Without Risk`charles givens
 Category: Authors of 1992: The Pelican Brief`john grisham
 Category: Food: The Queensland nut or bush nut is more commonly known as this.`macadamia
 Category: Food: This breakfast cereal has a leprechaun mascot.`lucky charms
 Category: Food: The flop 1960's diet drink Minivitine was a spinoff of this drink mix.`ovaltine
 Category: Food: This film inspired the snack food Screaming Yellow Zonkers.`yellow submarine
 Category: Food: The beer introduced in 1961 to take the head off sales of imported beers.`michelob
-Category: Gals Named Mary: Won 1977 French Open mixed doubles with John McEnroe, now works for CBS & ESPN`mary carillo
 Category: Gals Named Mary: Her 1818 novel of terror is more widely remembered than her husband's poetry`mary shelley
 Category: Alternative Art: This comic by Mark Schultz briefly appeared as a network TV show.`cadillacs and dinosaurs
 Category: Alternative Art: Age at which Patrick Nagel died.`38
@@ -1406,7 +774,6 @@ Category: Famous People: Which Royal Prince's name was linked with photographer 
 Category: Famous People: What is the profession of Claudia Shiffer's ex, David Copperfield`magician
 Category: Easy People: In which revolution was Emiliano Zapata an important figure`mexican revolution
 Category: Easy People: For what was Dr. Crippen hanged`murdering his wife
-Category: Easy People: Which British saint is famous for slaying a dragon`st. george
 Category: Easy People: Against which Iraqi dictator was the Gulf War fought`saddam hussein
 Category: Easy People: Name the British King who supposedly lost his jewels in The Wash.`king john
 Category: Second City: Seattle (state)`spokane
@@ -1416,10 +783,7 @@ Category: French Food AKA: Beef stew with Burgundy wine`boeuf bourguignonne
 Category: The Bible: The name of Moses' wife.`zipporah
 Category: The Bible: The brother of Moses, he became the first Jewish high priest.`aaron
 Category: Pizza Stuff: A topping that makes your breath all stinky :)`garlic
-Category: Pizza Stuff: A topping from what I would call a really big chicken.`turkey
 Category: Pizza Stuff: Smallish lunchtime pizzas from Pizza Hut are called`personal pan
-Category: Pizza Stuff: Thanks to a dead cow. This topping is called 'minced meat' by some.`ground beef
-Category: Pizza Stuff: Very salty nautical creature.`anchovy
 Category: Books: Sallust, Livy, Tacitus are of this nationality.`roman
 Category: Books: P.L. Travers's most famous literary creation (first and last name).`mary poppins
 Category: Books: What little Marcella found in her grandmothers attic (by Johnny Gruelle).`raggedy ann
@@ -1435,11 +799,8 @@ Category: Cliches: Cross that ------ when you come to it.`bridge
 Category: Cliches: Not all it's ------- up to be.`cracked
 Category: Cliches: The greatest thing since ------ bread.`sliced
 Category: Cliches: Variety is the ----- of life.`spice
-Category: Barbie: Barbie's tiny twinned brother`todd
 Category: Barbie: What year did Barbie make her debut`1959
 Category: Barbie: Complete the Barbie outfit name : Senior ----`prom
-Category: Barbie: What Barbie wears when she visits Japan`kimono
-Category: Barbie: Type of house Barbie lives in`dream
 Category: The 50s: This European principality gained a princess in 1956.`monaco
 Category: The 50s: William Goldings 1955 novel about boys stranded on an island`lord of the flies
 Category: The 50s: This pact was signed by the Soviet Union and its eastern allies.`warsaw
@@ -1466,7 +827,6 @@ Category: The Bible: This was Abraham's name before God changed it.`abram
 Category: The Bible: He battled King Og at Edrei`moses
 Category: The Bible: Name of the Angel who told Mary she was to carry God's son`gabriel
 Category: The Bible: David spoke his last words to this person.`solomon
-Category: The Bible: God said, "Be strong and of a good courage" to him`david
 Category: First Names: ______ Zappa -- daughter of Frank; named after celestial object`moon
 Category: First Names: ______ Anthony -- prolific sci-fi and fantasy author`piers
 Category: First Names: ______ Johnson -- Lincoln's successor; only impeached president`andrew
@@ -1474,18 +834,14 @@ Category: First Names: ______ Tse Tung -- Chinese communist leader`mao
 Category: First Names: ______ Agnew -- disgraced vice president under Nixon`spiro
 Category: Holidays: His controversial day falls on October 12.`columbus
 Category: Holidays: March 26 in Spain is known as this.`fiesta del arbol
-Category: Holidays: Mithraism's (Sun God worship) big day falls on the same day as this holiday.`christmas
 Category: Holidays: Father's Day falls in this month.`june
 Category: Holidays: June 22 is this day in Finland; it's June 24 in Great Britain`midsummer
 Category: 1980s GrabBag: The youngest leader of the Soviet Union before Gorbachev`joseph stalin
 Category: 1980s GrabBag: "Britain's only luxury car that can be had for $26,000" (make name)`sterling
 Category: 1980s GrabBag: Seaboard state home to a nation-leading 96 hazardous waste sites in 1987.`new jersey
 Category: 1980s GrabBag: Crime family that lost its head when "Big Paul" Castellano got "whacked"`gambino
-Category: Barbie: Type of house Barbie lives in`dream
 Category: Barbie: The first airline Barbie was a stewardess for`american
 Category: Barbie: Barbie's English friend`stacey
-Category: Barbie: Barbie's tiny twinned brother`todd
-Category: Barbie: Model of car Barbie drives`corvette
 Category: Entertainment: The novels Black Heart and Sirens were written by him.`eric van lustbader
 Category: Childrens Literature: A classic childrens' novel filled with wordplay. (also a cartoon movie)`phantom tollbooth
 Category: Childrens Literature: Author of "Ramona the Pest"`beverley cleary
@@ -1498,13 +854,11 @@ Category: Scents: Good smells for better health`aromatherapy
 Category: Scents: They uncovered a Tresor`lancome
 Category: Scents: Aromatic Indian grass with fragrant roots`vetiver
 Category: Chips: Because of this phenomenon, one shouldn't touch a chip's pin I/O:`electrostatic discharge
-Category: Chips: Polarity of photoresist which permits an iverted image of a photomask:`negative
 Category: Chips: The area in between chips on a wafer, where test and defect monitors lie:`kerf
 Category: Chips: A commonly used process for oxide and nitride deposition, CVD, stands for:`chemical vepor deposition
 Category: Chips: Manufacturer of the Pentium microprocessor and where Mach is working`intel
 Category: Authors of 1992: The Firm`john grisham
 Category: Authors of 1992: I Can't Believe I Said That`kathie lee gifford
-Category: Authors of 1992: More Wealth Without Risk`charles givens
 Category: Authors of 1992: A Return to Love`marianne williamson
 Category: Authors of 1992: Sam Walton`sam walton
 Category: Esoterica Abounds: The book "Snow Crash" was written by whom`neal stephenson
@@ -1519,25 +873,19 @@ Category: Potluck: The muslim calendar reckons time from this event (one word)`h
 Category: Potluck: "What the big boys eat"`wheaties
 Category: Potluck: Fashion designer that owns Paris's Maxim's restaurant`pierre cardin
 Category: Potluck: Part of the deer that Weineraner dogs are trained to attack`genitals
-Category: Pizza Stuff: Thanks to a dead cow. This topping is called 'minced meat' by some.`ground beef
 Category: Pizza Stuff: Pizza Hut tells us to eat what part first`crust
 Category: Pizza Stuff: People often like to break the bones of these and make a wish.`chicken
-Category: Pizza Stuff: A topping from what I would call a really big chicken.`turkey
-Category: Pizza Stuff: Very salty nautical creature.`anchovy
 Category: DC Comics: Hometown of Green Lantern`coast city
 Category: DC Comics: Replaced Bruce Wayne as Batman`jean paul valley
 Category: DC Comics: Number of new Supermen after his "death"`four
 Category: DC Comics: Also known as Demon`etrigan
 Category: DC Comics: Broke Batman`bane
 Category: Easy People: Which American inventor produced the Kodak camera`george eastman
-Category: Easy People: Which British saint is famous for slaying a dragon`st. george
 Category: Easy People: Name an Egyptian queen who was the lover of Mark Antony.`cleopatra
 Category: Easy People: What sport is played by Steffi Graf`tennis
 Category: Easy People: Which king supposedly ordered the waves to turn back`canute
-Category: Cyberpunk: In this predecessor of Cyberpunk novels, the hero was Guy Montag:`fahrenheit 451
 Category: Cyberpunk: Name of Max Headroom's alter ego:`edison carter
 Category: Cyberpunk: Light, reflective armor used to protect wearer from laser fire:`reflec
-Category: Cyberpunk: Dynamix' cyberpunk adventure game, starring "Blade" Hunter:`rise of the dragon
 Category: Cyberpunk: Name of the actor who played Murphy/RoboCop in "RoboCop"`peter weller
 Category: Wizard Of Oz: In the book, the inhabitants of the land of the west.`winkies
 Category: Wizard Of Oz: According to the Scarecrow, this is the only thing he is afraid of.`lighted match
@@ -1564,14 +912,12 @@ Category: Advertising: He hit the big time after commercials for McDonalds and S
 Category: Advertising: They advertised their cola as "Taste that beats the others cold"`pepsi
 Category: Advertising: Does she or doesn't she Only her hairdresser knows for sure.`clairol
 Category: Advertising: This company thinks the capital of Ohio is "Mario".`nintendo
-Category: 70s Authors: Rabbit Redux`john updike
 Category: Ads: Whatever it is I think I see / Becomes a ------- ---- to me.`tootsie roll
 Category: Ads: What does L.S./M.F.T. stand for`lucky strike means fine tobacco
 Category: Ads: Why ask why`bud dry
 Category: Ads: Thank you for your support.`bartles and james
 Category: Ads: We love to fly, and it shows.`delta
 Category: Entertainment Grabbag: Royal personage about whom Joan Rivers said "that woman is a horse!!!"`princess anne
-Category: Name Their Job: Gorgeous George`wrestler
 Category: Name Their Job: Billy Sunday`evangelist
 Category: Name Their Job: Jane Goodall`naturalist
 Category: 1980s GrabBag: Infamous subway rider only convicted of illegal weapons possession`bernhard goetz
@@ -1580,79 +926,37 @@ Category: 1980s GrabBag: Who's 1000th day as a hostage was Dec. 10, 1987`terry a
 Category: 1980s GrabBag: The name of the first space shuttle`columbia
 Category: Potluck: A recipe for this soup might begin: "First you take a leek..."`vichyssoise
 Which country borders Italy, Switzerland, West Germany, Czechoslovakia, Hungary, Yugoslavia, &  Liechtenstein`austria
-Which country cancelled national beauty contests 1992, claiming they were degrading`canada
-Which country developed "tae kwan do"`korea
-Which country has a map on it's flag`cyprus
 Which country has a national flag whose design symbolises the country's geographical position on the globe`nauru
-Which country has a single cedar tree on its flag`lebanon
-Which country has Ankara as its capital`turkey
 Which country has Budapest as its capital`hungary
 Which country has over 40% of its land below sea level`netherlands
 Which country has the longest land border`china
-Which country is associated with the "pampas"`argentina
 Which country is credited with the discovery of the paper making process `china
-Which country is known as the roof of the world`tibet
-Which country is the biggest consumer of wine`france
-Which country is the Dalai Lama's palace in`tibet
-Which country is the largest producer of cheese`america
 Which country occupies the Jutland Peninsula`denmark
 Which country occupies the Yucatan Peninsula`mexico
-Which country owns Macdonald Island`australia
-Which country's alps surround Lake Lucerne`switzerland
-Which country's name means the savior`el salvador
-Which culinary term means to be cooked with onion`lyonnaise
 Which Czech wrote the peasant comedy opera 'The Bartered Bride'`bedrich smetana
-Which deadly disease seems to strike through commercial airconditioners`legionnaires disease
-Which dinosaur is the longest ever recorded`diplodocus
-Which disease is also known as "Hansen's Disease"`leprosy
 Which do you usually become aware of first   thunder or lightning`lightning
 Which drink is known as "the uncola"`7 up
-Which early state was founded as a haven for Catholics`maryland
-Which emperor is credited with standardizing dec. 25 as christmas day`constantine
 Which emperor made his horse a senator `caligula
 Which emu sits on the eggs   the male or the female`the male
-Which end of a 1.5 volt household battery is the negative terminal`bottom end
-Which end of its body does a horse raise first when it gets up from lying down`front
 Which English house had the red rose as its symbol`house of lancaster
-Which English magician &  occultist described himself as the 'beast of the apocalypse'`alister crowley
-Which European country (excluding the USSR) produces the most crude petroleum`united kingdom
 Which European country has the highest population density`monaco
 Which European peak was first conquered in 1865 by english mountaineer Edward Whymper`the matterhorn
 Which famed English site is found on Salisbury Plain `stonehenge
-Which famous artist lost an ear`vincent van gogh
 Which famous author wrote "The Hunt For Red October"`tom clancy
-Which famous detective lives in 221b Baker Street`sherlock holmes
 Which famous opera house in Milan, Italy rose to its greatest heights under Toscanini`la scala
 Which famous Soviet dissident was a nuclear physicist who developed the nuclear bomb for the Soviet Union`andrei sakharov
 Which famous thinker's name was the latinized version of venerable master kong`confucious
 Which famous university is in Paris`sorbonne
-Which fossil fuel is dug up by miners`coal
 Which four herbs were the title of an album by Simon &  Garfunkel`parsley sage rosemary &  thyme
 Which freezes faster   hot or cold water`hot
 Which frontiersman died at the Alamo`davey crockett
-Which fruit has edible seeds`papaya
-Which fruit has its seeds on the outside`strawberry
-Which game uses the largest ball`earthball
-Which game usually begins with, "is it animal, vegetable, or mineral"`20 questions
 Which games company produced alpha centauri, the sequel to civilisation`firaxis games
-Which general was in charge of the us occupation of Japan after WWII`macarthur
-Which German city is famous for a scent it produces`cologne
-Which great lake is the second largest, after Lake Superior`lake huron
 Which green pigment absorbs light to make plants look green`chlorophyll
-Which hand is used for the scout handshake`left
 Which has more bones   the little finger or the thumb`little finger
-Which have teeth: toads or frogs`frogs
-Which herb seed can be either black or white, &  yields an oil that resists turning rancid`sesame
-Which heroic group did D'Artagnan lead`three musketeers
-Which human organ stores bile`gall bladder
-Which ice or snow sport was the first to gain olympic status`figure skating
-Which insect has ears just below its knees on its front legs`cricket
-Which invention is credited Thomas Savery &  Thomas Newcomen`steam engine
 Which Irish city is famous for its crystal`waterford
 Which is considered the most powerful piece on the chess board`the queen*queen
 Which is found in an ocean   the North Pole or the South Pole`the north pole
 Which is furthest north   Perth, Adelaide or Sydney`perth
-Which is Hamilton, Ontario, Canada closer to: North Pole, Tokyo, Egypt or the equator`equator
 Which is harder   quartz or steel `quartz
 Which is larger   a microcomputer or a minicomputer`minicomputer
 Which is longer   a baseball bat or a cricket bat`baseball bat
@@ -1660,248 +964,78 @@ Which is longer in humans   the small intestine or the large intestine`small int
 Which is more   one tablespoon or two teaspoons`one tablespoon
 Which is more fattening   a baked potato or a hamburger patty`hamburger patty
 Which is most valuable   an ounce of gold, platinum or silver`platinum
-Which is oldest  spring lamb, hoggett or mutton`mutton
-Which is Romania's greates harbour`constanta
 Which is the larger of the rhinocerous, white or black`white
-Which is the largest landlocked country`mongolia
-Which is the largest ocean`pacific
 Which is the largest primate`gorilla
-Which is the longest river in the western hemisphere`amazon
 Which is the longest word that can be made from one row on a keyboard`typewriter
-Which is the most ancient walled city`jericho
-Which is the most photographed &  climbed mountain`mount fuji
 Which is the oldest of the major college football bowl games`rose bowl
-Which is the only sea below sea level`dead sea
 Which is the principal river of Romania`danube
 Which is the 'quiet' ocean`pacific ocean
 Which is the second largest city in England`birmingham
 Which is the slowest land animal`sloth
-Which is the smallest independent country`vatican city
-Which is the smallest US state`rhode island
-Which is the windy city`chicago
 Which is your sternum   your breastbone or tailbone`breastbone
 Which island has over 1000 stone statues scattered around`easter island
-Which jello is the only jello flavor that comes from real fruit, not artificial flavoring`cranberry
-Which jewish feast remembers the salvation in Egypt`passover
-Which king of Great Britain won world wide recognition as a stamp collector`george v
-Which Lancashire city is home to the Old Trafford cricket ground`manchester
-Which land animal can reach the highest`giraffe
 Which law did Sir Isaac Newton discover when he was only twenty three years old`law of universal gravitation
-Which Lewis Carroll animal faded away until nothing was left but a grin`cheshire cat
 Which London station handles trains directly to the continent, through the channel tunnel`waterloo
 Which London street is famous for its hotels `park lane
-Which London tube line is usually red on maps`central
 Which mainland Latin American country is in neither South America nor Central America`mexico
 Which major river flows through Gloucester`severn
-Which major US city hosts an annual grand prix auto race on its streets`detroit
 Which mammal boasts the most nipples   the cat, horse or pig`pig
-Which man has the most monuments erected in his honour`buddha
 Which man who invented the microphone in 1876 died on august 2, 1922`alexander graham bell
 Which month has a diamond as a birthstone`april
-Which musical includes the song "if i were a rich man"`fiddler on the roof
-Which name is the "dukes of stratosphere" better known under`xtc
-Which nation was led by Genghis Khan`the mongols
 Which nation won the most medals in the 1994 winter olympics`norway
 Which Norse goddess kept the apples of youth`idun
 Which north western Italian city is known in that country as Torino `turin
-Which number, when doubled, exceeds its half by nine`six
-Which ocean are the West Indies on`atlantic
-Which ocean does the Zambezi river empty into`indian ocean
 Which ocean is deeper   the Atlantic or the Pacific`pacific
-Which of Mars, Mercury &  Neptune cannot be seen with the naked eye`neptune
-Which of Mary's arms supports Jesus in Michelangelo's 'Pieta'`right
-Which of the four seasons should a tulip bulb be planted in`autumn
-Which of the senses does the olfactory nerve serve`smell
 Which of the seven dwarfs plays the organ`grumpy
-Which of these nuts is not actually a nut - peanut, cashew nut, macademia nut`peanut
 Which one does most of the hunting   the male or the female lion`female
 Which one is Frankenstein   the monster or the man who made him`man who makes him
 Which one is smallest   boulder, pebble or stone`pebble
 Which one seldom goes in the water   a frog or a toad`toad
 Which one wears a small moustache   Laurel or Hardy`hardy
-Which organs do the renal arteries carry blood too`kidneys
-Which part of your body has rods &  cones`eye
 Which peninsula do Spain &  Portugal occupy`iberian peninsula*iberian
 Which peninsula is occupied by Norway &  Sweden`scandinavian peninsula*scandinavian
-Which planet has the greatest gravity, Mars or Uranus`uranus
-Which planet has the hottest surface`venus
-Which planet has the shortest day because it rotates the fastest`jupiter
-Which planet orbits the sun the fastest`mercury
-Which planet takes the longest to revolve around the sun`pluto
 Which plant does the farmer grow for sugar`sugar beet*sugar cane
 Which president of Singapore suffers from cancer`ong teng cheong
 Which race built a cube spacecraft`the borg
-What is Kimberley, South Africa well known for`diamonds
-Who found himself flying on the island of Laputa`gulliver
-What type of steel did Harry Brearley invent`stainless
-Where's the 19th hole on a golf course`club house
-What ship did Sir Francis Drake circle the world in`the golden hind
-The positive electrode of a battery is called what`anode
-What was the name of Captain Blighs famous ship`the bounty
-What women wear yashmaks`moslem women
-What British city did Adolph Hitler study art in`liverpool
-Who was the Jackal's intended victim`charles de gaulle
-What type of tree do conkers come from`horse chestnut
-Whats the singular of dice`die
-What London street is famous for mens tailoring`savile row
-Whats towns problem with rats was solved by the Pied Piper`hamlin
-What Greek artist painted View of Toledo`el greco
-What colour is demerara sugar`brown
-Whats the official animal of Canada`beaver
-At what airport did Israeli commandos free 103 hostages in 1976`entebbe
-What does a phobophobe fear`fear
-What tool gave a puzzle its name`jigsaw
-What building are British monarchs crowned in`westminster abbey
-Who wrote sons and lovers`d.h. lawrence
-What river was India named after`indus
 What does a ship flying the yellow Jack Flag have on board`disease
-Where was the first test match played`melbourne, australia
-What part of David Livingstone is buried in Africa`his heart
 Where did Phileas Fogg begin and end his trip around the world`london
-Who lit the eternal flame on the grave of John F kennedy`jaqueline kennedy
-Who wrote Brideshead Revisited`evelyn waugh
 What happened at Sears Crossing, England in 1963`the great train robbery
 Who was Goldfingers bodyguard`oddjob
-What modern day country did the Romans call Gaul`france
-How is Supergirl related to Superman`first cousins
 What is guano`bird and bat droppings
 What colour bottles do good Rhine wines come in`brown
-What Shakespeare play opens with a storm at sea`the tempest
-What was the worlds first city with more than one tv station`new york
 What card game shares its name with that of a floating bridge`pontoon
-Who was Helen of Troys Trojan lover`paris
-What does a stallion have that a gelding used to`testicles
-What are animals that chew the cud called`ruminants
-What french engineer built a tower for the 1889 Paris Exhibition`alexandre eiffel
-Who received seven perfect scores for gymnastics at the Montreal Olympics`nadia comaneci
-What is the symbol of the sign of the zodiac Aries`ram
-What is the smallest bird in the world`hummingbird
-Which of the Hawaiian islands have active volcanoes`hawaii
-Who was the wife of Robert Browning`elizabeth barrett browning
-What did Otto Titzling invent`the brassiere
-What country did the Mau Mau Uprising take place in`kenya
-Whats the first day of lent`ash wednesday
 Where are the most expensive seats at a bullfight`in the shade
-Who gained fame as a mind over matter spoon bender`uri geller
 In what country would you see Ayers Rock`australia
-How many of the Tolpuddle Martyrs were executed`zero
-What delicacy is also known as pickled roe`caviar
-Whats the termfor pleasure seeking as a way of life`hedonism
 Who was assassinated at Sarajevo to start WW1`archduke ferdinand
-What does a lepidopterist collect`butterflies and moths
-What Iceni Queen battled the Romans`boadicea
-Whats the only US state name that ends in three vowels`hawaii
-What figure sits on guard over the Great Pyramid`sphinx
-Who singed the King of Spains beard`francis drake
-What was the fairytale world created by C.S. Lewis`narnia
-Whats the name of curry soup`mulligatawny
-What Jules Verne novel is about scientists held captive in a submarine`20,000 leagues under the sea
-What direction does the Nile river flow`north
 Who is the Greek god of archery`apollo
-What French painter is famous for his pictures of ballet dancers`edgar degas
 What did Archimedes say after discovering the principle of buoyancy`eureka
 How many official languages does Switzerland have`four
-What shepherd god invented the flute`pan
-What two flavours make mocha`coffee and chocolate
-Who wrote Rob Roy`sir walter scott
-What is added to clay to make bone china`powdered bone
-What is the first commandment`thou shalt have no other god but me
-What does the french word brut mean on a wine bottle`dry
-Who wears The Fisherman's Ring`the pope
-What Irish born playwright was sentenced to 2 years hard labour for homosexuality`oscar wilde
 Where would you find the Matterhorn`switzerland
 How many nights are there in the Arabian Nights`1,001
-What ability has the silkworm moth lost through domestication`flight
 What card game is also known as Vingt-et-Un`pontoon*blackjack
-What canal does Port Said stand on`suez canal
 Who was the master of disguise Sir Peter Blakney`scarlet pimpernel
-What does a notaphile collect`bank notes
-Who wrote the play Look Back in Anger`john osborne
-What mythical creature carries an hourglass and a scythe`father time
-How many times thicker than water is blood`six
 Who was the first man to appear on the cover of Playboy`peter sellers
-In which city will you find the Spanish riding school`vienna
-Which sea is linked to the Ionian Sea by the Corinth Canal`aegean
-What is the Basques national game`pelota
 What is the more common name for a quasi autonomous non governmental organisation`quango
-In 1907 what did the British government say it would never give up`india
-Which element has the lowest boiling point`helium
-What colour does copper give to a firework`green
-Which famous Hollywood landmark is famous for the handprints and signatures in its forecourt`graumans chinese theatre
-What disease did bark beetles introduce to The Netherlands in 1919`dutch elm disease
-In what material did Rene Lalique most famously work`glass
-Which Nepalese mountain was first climbed by Maurice Herzog`annapurna
 What drug can be obtained from the foxglove`digitalis
-Which lump of rock is the worlds largest monolith`ayers rock
-What is the effect of a beta blocker`lower the blood pressure
-Which organisation is the subject of Stephen Knights book The Brotherhood`freemasons
-What native language did the USA use as a code  in WWII`navajo
-What was the name of Ernest Shakletons ship that was crushed by ice in 1915`endurance
-Of what did Sir Francis Drake die`dysentry
-Which element has the highest melting point`carbon
-Which EC country takes up part of the Balkan Peninsula`greece
-What kind of stone was sulphur once known as`brimstone
-To which country are chrysanthemums native`japan
-Which Townsend Thoreson ferry capsized off Zeebruge in 1987`the herald of free enterprise
-Who was Hornungs famous jewel thief`raffles
-What is surrounded by amniotic fluid`unborn baby
-Which two countries boundaries were decided by the Asburton Treaty`usa and canada
-Which country were Nubia and Kush a part of until they gained their independence in 1085 bc`egypt
-Who was the commander of the first shuttle flight`john young
 Who are the 2 main characters in Miltons Paradise Lost`adam and eve
-What was landscape gardener Lancelot Brown's nickname`capability
-What do dendrochronologists count`tree rings
-Which entertainer was known as the armed forces sweetheart`vera lynn
 Which is the galaxy closest to the Milky Way`andromeda
 Which region of Germany has Munich as its capital`bavaria
-Which is the longest river in France`loire
-What was the first thing off the ark when it stopped raining`raven
 What was the name of the Swedish Prime Minister who was assassinated in 1986`olof palme
 Whats the common name for the Australian parakeet`budgerigar
-In what Australian state would you find Kalgoolie`westerna australia
 In what Australian state would you find Broome`wetsern australia
-In what Australian state would you find Perth`western australia
-In what Australian state would you find Toowoomba`queensland
 In what Australian state would you find Townsville`queensland
 In what Australian state would you find Port Lincoln`south australia
-In what Australian state would you find Port Augusta`south australia
 In what Australian state would you find Alice Springs`northern territory
-In what Australian state would you find Darwin`northern territory
 How many miles of passenger railway track has Kuwait`none
 Which part of the body is technically known as the Thorax`chest
-Which popular perfume was originally thought to offer protection against the plague`eau de cologne
 Which painters name means "little barrel'`botticelli
-What is the smelliest member of the lily family`garlic
-Which flowering plant family includes the cherry, plum and apple`rose
 On which day of the week are US elections always held`tuesday
-In which US state was Davy Crockett born`tennessee
 Which canal links the Baltic to the North Sea`kiel
-What fluid lubricates the joints`synovial
 How many neck bones has a giraffe`seven
-In which country did the wartime Anzio Landings take place`italy
 Which year saw America's final withdrawal from Vietnam`1973
-What is a better known name for a polygraph`lie detector
-Who was the leader of Cubas rebel 26th July movement`fidel castro
-What language do most Pakistanis speak`punjabi
-What is the official language of Pakistan`urdu
-What style of architecture is the Empire State Building`art deco
-Which family of animals include the Dik Dik, Bongo and Kudu`antelope
-Which state was proclaimed by David Ben-Gurion`israel
 What family of animals do chipmunks belong to`squirrel
-What is the four word US national motto`in god we trust
-Who wrote 1984`george orwell
-What spice is Zanzibar famous for`cloves
-What name is given to a hill in the centre of any Greek city`acropolis
-What is the English meaning of the constellation's name Canis Major`big dog
-What do herpetologists study`reptiles
-Who was the first person to beat Muhammad Ali in a professional fight`joe frazier
 To which artist was Rubens chief assistant`van dyck
-Which world famous sporting track is demolished and rebuilt every year`cresta run
-Which mountain shares its name with one of the three musketeers`athos
 What was the pre-Christian definition of a gentile`non-jewish
-Which artist went mad after being sent to work as a priest in Belgium`vincent van gogh
-Which animal has the smallest babies in relation to the size of the adult`kangaroo
-Whats the name of the New Zealand Rugby teams pre-match war dance`the haka
 What non-human company did Thoe Heyerdahl have on the Kon_Tiki`parrot
 Whats the Russian word for east which was given to early space capsules`vostok
 In 1934 Philippine legislature accepts US proposal for`independence
@@ -1917,13 +1051,11 @@ In 1961 ---------- granted full internal self-government by Britain.`tanganyika
 In 1963 Indonesia takes control of ---------- (west New Guinea) from Netherlands.`irian jaya
 In 1964 1st ---------- program run on a computer (Dartmouth).`basic
 In 1967 ---------- & Elvis Presley wed.`priscilla
-In 1979 Elton John becomes 1st pop star to perform in`israel
 In 1979 Home rule introduced to Kalaallit ---------- (Greenland).`nunaat
 In 1979 ---------- Islands (in the Pacific) become self-governing.`marshall
 In 1989 135 acre Disney's ---------- studio officially opens to the public.`mgm
 In 1519 Leonardo ---------- artist/scientist, dies at 67.`da vinci
 In 1660 Alessandro---------- , Palermo Italy, composer (Tigrane), born.`scarlatti
-In 1668 Treaty of Aix-la-Chapelle, ends`war of devolution
 In 1729 Catherine II (the Great) empress of ---------- (1762-96), born.`russia
 In 1776 ---------- agree to donate arms to American rebels.`france & spain
 In 1780 William ---------- discovers 1st binary star, Xi Ursae Majoris.`herschel
@@ -1935,7 +1067,6 @@ In 1892 ---------- Freiherr von Richthofen [the Red Baron], German WW I ace, bor
 In 1903 Benjamin---------- , pediatrician/author (Common Sense Book of Baby Care), born.`spock
 In 1904 ---------- (claimed this to be his Birthdate: True Date May 3 1903), crooner/actor (Going My Way), born. `bing crosby
 In 1935---------- , King of Iraq, born.`faisal ii
-In 1945 Russia takes`berlin
 In 1946 Prisoners revolt at---------- , 5 die.`alcatraz
 In 1952 1st commercial jet plane, ---------- Comet.`boac
 In 1956 US Lab detects high-temperature microwave radiation from ----------`venus
@@ -1985,159 +1116,43 @@ In 1990 Paul Hogan & ---------- wed in Byron Bay, Eastern Australia.`linda koslo
 In 2000 conjunction of Sun, Mercury, ---------- , Mars, Jupiter, Saturn & Moon.`venus
 In 1527 Sack of ---------- - End of the Renaissance.`rome
 In 1851 Patent granted to Dr. John ---------- for a "refrigeration machine".`farrie
-In 1856 Sigmund---------- , cigar smoker, psychiatrist, born`freud
 In 1895 Rudolph---------- , silent film star, sheik`valentino
-In 1915---------- , actor (Citizen Kane), director, genius, born`orson welles
 In 1937 The dirigible ---------- explodes in flames at Lakehurst, NJ.`hindenburg
-Which island was the centre of US immigration`ellis
 'Jambalaya' is a traditional dish in which American state`louisiana
-What shape is the pasta 'fettuccini'`ribbons
 The ancient town of Luxor stood on which river`nile
-The name of which musical instrument is the italian word for soft`piano
 By what name is 'albumen' more commonly known`egg white
 In ancient Rome what was a denarius`coin
-What is the name for the bone structure of a person or animal`skeleton
-What kind of transport were dreadnoughts`ships
-Which is the name for classical music played by a small group of instruments`chamber music
-Which civil war was fought in the 1930's`spanish
-What is the plural of 'magus'`magi
-Which food crop has the latin name 'Saccharum officinarum'`sugar cane
-Which American criminal was known as Scarface`al capone
 Who was the first woman to fly the Atlantic`amelia earhart
-The Topkapi Palace was home to which emperors`ottoman
-Who wrote the book "The Female Eunuch"`germaine greer
-In mythology the labyrinth was built for which monster`minotaur
-Sherlock Holmes and Moriarty fought at which famous falls`reichenbach
-Auguste Rodin was famous in which field of the arts`sculpture
 Who was the last viceroy of India`lord mountbatten
-'Send in the Clowns' is a song from which Sondheim musical`a little night music
-What is a missive`letter
-What name is given to an alloy of mercury and another metal`amalgam
-What does a barber do with his strop`sharpen a razor
 The Karakoram mountain range is on which continent`asia
 What was the name of Michael Jackson's 1995 album`history
-If something is galvanised with which metal is it coated`zinc
-Which British tennis player was the husband of Chris Evert`john lloyd
-The river Volga flows into which sea`caspian
 TV /Movies:Which hitchcock film is based on a novel by Daphne du Maurier`the birds
-Which word refers to farm land where no crops have been sown`fallow
 A Bajan is an inhabitiant of which island`barbados
-Where in the body are the adenoids`throat
 What name is given to the officials at a race meeting`stewards
-What is the triangular muscle of the shoulder called`deltoid
-Where is the 'Laughing Cavalier" on display`wallace collection
 Which novel was the subject of a famous 1960's trial`lady chatterley's lover
-The football club Galatasaray is based in which country`turkey
 What is the technical name for the voice box`larynx
 TV /Movies:Nathan Brittles is the hero of which classic western`she wore a yellow ribbon
-In which sea do eels spawn`sargasso
-What name was given to the period when Charles II regained the throne`restoration
-The island of South Georgia belongs to which country`britain
-In area, which is the second largest country of South America`argentina
 Which tropical fruit has black seeds in the centre`papaya
-Which London street is associated with bespoke tailors`savile row
 Which country singer wrote the song 'Your Cheatin' Heart`hank williams
-Palermo is the capital of which island`sicily
 Nicosia is the capital of which island `cyprus
-The musician Stephane Grappelli was famous for playing which instrument`violin
-Of which country was Anwar Sadat the president`egypt
-Ferdinand Marcos was the president of which country`philippines
-The Dead Sea lies on the border of Israel and which other country`jordan
-Which character was played by Roger Mooore in 'The Saint'`simon templar
-The Golden Temple at Amritsar is sacred to which religion`sikhism
-In which field were the Boulting Brothers famous`cinema
-A yarmulka is a skullcap worn by followers of which religion`judaism
 What is a yarmulka`a skullcap
 TV /Movies:Hugo Drax was the villian of which James Bond book and film`moonraker
 TV /Movies:The song 'Evergreen' features in which Barbra Streisand film`a star is born
-The Ural mountains are mainly in which country`russia
-In which country are the Southern Alps`new zealand
-The Santa Maria was the ship of which explorer`christopher columbus
-What kind of bird is a macaw`parrot
-Typically, which type of literary form is an elegy`poem
 What is the modern name for Petrograd`st. petersburg
-What are seraphim and cherubim`ranks of angels
-A popular climbing plant with sweet smelling flowers`sweet pea
-On which continent is the Limpopo River`africa
-What is a bantam`chicken
-Where in the world is El Salvador`central america
-Complete the title of the Charles Dickens novel 'Martin`chuzzlewit
 TV /Movies:Who was the male star in the film The Beach`leonardo dicaprio
-What term is applied to the widow of a king`queen dowager
-Which car manufaturer produces a model called the 'Laguna'`renault
-What type of creature is a pollack`fish
 TV /Movies:What type of dog is Lady in the cartoon 'Lady and the Tramp'`cocker spaniel
-Which US state has the postal abbreviation IN`indiana
-Which Shakespeare play features the line 'Something is rotten in the state of Denmark`hamlet
-What is dermatophobia the fear of`skin
-In which century was the first skyscraper built`19th
-What nationality is the novelist Norman Mailer`american
-What is the maximum number of consecutive terms that a US president can now serve`two
 TV /Movies:Who played the title roll in the 1938 film 'The Adventures of Robin Hood'`errol flynn
 TV /Movies:Who played the suave thief,Sir Charles Lytton, in the film The Pink Panther`david niven
-What nationality is the artist Jackson Pollock`american
-Andalusia is a region located in the south of which country`spain
-What is the technical name for the collarbone`clavicle
-Jupiter is the Roman name for which god of Greek mythology`zeus
 Which planet in our solar system was discovered most recently`pluto
-Which musical term means a mass for the dead`requiem
-The Greek warrior Odysseus played a major role in which war`trojan
-What type of creature is a basilisk`lizard
-In which European country do one hundred grochen equal one schilling`austria
 TV /Movies:Which film actor began his climb to stardom in the TV cowboy series 'Rawhide'`clint eastwood
-Charcoal is made by heating what`wood
-Instruments made from tea chests and washboards were a feature of which specific type of music`skiffle
-Sephardim are followers of which religion`judaism
-Which ballet company is based at the Maryinsky Theatre`kirov ballet
-In German towns, what is the S-bahn`railway
-A 'schipperke' is a breed of which animal`dog
 TV /Movies:Who is the star of the 2000 film 'The Patriot'`mel gibson
-In yoga how is the lotus position performed`sitting cross-legged
-What does the word 'maudlin' mean`self-pitying
-The cap and bells formed the insignia of which group of people`jesters
 TV /Movies:The song 'A Whole New World' comes from which Disney film`aladdin
-In the abbreviation P & O, what does the O stand for`oriental
-What type of book is a 'cahier'`note book
-Who wrote the novel the Valley of the Dolls`jaqueline susann
-Which American footballer won four Super Bowls with the San Francisco 49ers`joe montana
-Which country was once ruled by a Mikado`japan
 In literature who has a servant called Sanch Panza`don quixote
-The book "Cry the Beloved Country' was set in which country`south africa
-Who adopted the title 'Il Caudillo'`franco
-Tristan da Cunha is an island group in which ocean`atlantic
-What is the name of the hammer used by doctors to test a patient's reflexes`plexor
-Which canal was nationalised in 1956`suez
-What is the name for a line of longitude on a map`meridian
-Which term connects a type of match and a nickname for the Devil`lucifer
 Which fish is pickled to make rollmops`herring
-A rune is a letter of what ancient alphabet`germanic
-What is the back of a ship called`stern
-The name Felicity means what`happiness
-What is a 'shillelagh'`cudgel
-Which dog name is a slang term for a detective`bloodhound
-Who would be described as a 'sophomore'`student
-What name is given to young herrings`whitebait
-Pitcairn Island was settled by crew members of which ship`bounty
-What was the favourite colour of the novelist Barbra Cartland`pink
-What type of drug would be used to treat hay fever`antihistamine
-What name is given to an army chaplain`padre
-Which compny makes the perfume 'Coco'`chanel
-Geographically, what is an eddy`whirlpool
 TV /Movies:Paul Newman married which actress`joanne woodward
-Fianna Fail is a political party in which country`ireland
 What nationality is the singer/actress Bjork`icelandic
-The Rialto Bridge is associated with which canal`grand
 Complete the title of this Travis song 'Why Does it Always....`rain on me
-What is the name for the load line on a ship`plimsoll line
-What is the smallest independent country in South America`surinam
 TV /Movies:Who married the actor Liam Neeson`natasha richardson
-The word 'bus' is shortened from which other word`omnibus
-What was the last name of Isadora, the famous dancer`duncan
-Which 20th century king reigned for less than a year`edward viii
-Nantucket Island is part of which American state`massachusetts
-Sepia is obtained from which sea creature`cuttlefish
-What is the name given to a type of fossil resin`amber
-What was the first name of Baden-Powell the founder of the Scout movement`Robert
 What is the flower that stands for: perfect excellence`strawberry
 What is the flower that stands for: unpretending excellence`camellia japonica
 What is the flower that stands for: beware of excess`saffron
@@ -2146,13 +1161,11 @@ What is the flower that stands for: expected meeting`nutmeg
 What is the flower that stands for: expected meeting`geraniums
 What is the flower that stands for: extent`gourd 
 What is the flower that stands for: extinguished hopes`major convolvulus
-What is the flower that stands for: fantastic extravagance`scarlet poppy
 What is the flower that stands for: beautiful eyes`variegated tulip
 What is the flower that stands for: faithfulness`blue violetheliotrope
 What is the flower that stands for: faithfulness`heliotrope
 What is the flower that stands for: falsehood`yellow lily
 What is the flower that stands for: fame`tulip
-What is the flower that stands for: fantastic extravagance`scarlet poppy
 What is the flower that stands for: farewell`michaelmas daisy
 What is the flower that stands for: fascination`carnation
 What is the flower that stands for: fascination`honesty
@@ -2183,7 +1196,6 @@ What is the flower that stands for: forgetfulness`moonwort
 What is the flower that stands for: forget me not`forget-me-not
 What is the flower that stands for: forsaken`laburnum
 What is the flower that stands for: forsaken`garden anemone
-What is the flower that stands for: forsaken love`creeping willow
 What is the flower that stands for: fraternal love`woodbine
 What is the flower that stands for: freedom`water willow
 What is the flower that stands for: freshness`damask rose
@@ -2287,7 +1299,6 @@ What is the flower that stands for: keep your promises`plum tree
 What is the flower that stands for: useful knowledge`parsley
 What is the flower that stands for: lamentation`aspen tree
 What is the flower that stands for: lasting beauty`stock
-What is the flower that stands for: lasting pleasure`everlasting pea
 What is the flower that stands for: levity, lightness`larkspur
 What is the flower that stands for: life`lucerne
 What is the flower that stands for: lightheartedness`shamrock
@@ -2307,14 +1318,8 @@ What is the flower that stands for: chaste love`acacia
 What is the flower that stands for: confession of love`moss rosebud
 What is the flower that stands for: declaration of love`red tulip
 What is the flower that stands for: estranged love`lotus flower
-What is the flower that stands for: forsaken love`creeping willow
-What is the flower that stands for: only deserve my love`campion rose
-What is the flower that stands for: platonic love`rose acacia
-What is the flower that stands for: pure and ardent love`double red pink
 What is the flower that stands for: secret love`toothwort
 What is the flower that stands for: secret love`yellow acacia
-What is the flower that stands for: slighted love`yellow chrysanthemum
-What is the flower that stands for: sweet and secret love`honey flower
 What is the flower that stands for: the first emotions of love`purple lilac
 What is the flower that stands for: thou art all that is lovely`austrian rose
 What is the flower that stands for: true love`forget-me-not
@@ -2336,10 +1341,8 @@ What is the flower that stands for: an expected meeting`nutmeg
 What is the flower that stands for: melancholy`cypress
 What is the flower that stands for: melancholy`marigold
 What is the flower that stands for: melancholy`dark geranium
-What is the flower that stands for: pleasures of memory`white periwinkle
 What is the flower that stands for: mental beauty`clematis
 What is the flower that stands for: concealed merit`coriander
-What is the flower that stands for: reward of merit`bay wreath
 What is the flower that stands for: message`iris 
 What is the flower that stands for: modesty`white violet
 What is the flower that stands for: modesty`white lilac
@@ -2360,7 +1363,6 @@ What is the flower that stands for: neglected beauty`throatwort
 What is the flower that stands for: never ceasing remembrance`everlasting
 What is the flower that stands for: night`minor convolvulus
 What is the flower that stands for: old age`tree of life
-What is the flower that stands for: only deserve my love`campion rose
 What is the flower that stands for: ornament`hornbeam tree
 What is the flower that stands for: painting`auricula
 What is the flower that stands for: parental affection`sorrell
@@ -2378,14 +1380,11 @@ What is the flower that stands for: perplexity`love-in-a-mist
 What is the flower that stands for: persecution`chequered fritillary
 What is the flower that stands for: perseverance`swamp magnolia
 What is the flower that stands for: perseverance`canary grass
-What is the flower that stands for: steadfast piety`wild geranium
 What is the flower that stands for: pity`pine
-What is the flower that stands for: platonic love`rose acacia
 What is the flower that stands for: play`hyacinth
 What is the flower that stands for: pleasant recollections`white periwinkle
 What is the flower that stands for: pleasure and pain`dog rose
 What is the flower that stands for: pleasure`poppy
-What is the flower that stands for: lasting pleasure`everlasting pea
 Baby Names Beginning With "A":  Meaning: A Rock`art
 Baby Names Beginning With "C":  Meaning: A Rock`carrick
 Baby Names Beginning With "P":  Meaning: A Rock`peers

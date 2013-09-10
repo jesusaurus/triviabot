@@ -76,7 +76,6 @@ In 1932 Jim---------- , actor (Gomer Pyle, USMC; Mayberry RFD), singer, born. `n
 In 1937 USSR executes ------- army leaders as Stalin's purge continued`eight
 In 1964 ---------- begins a long jail term in South Africa. `nelson mandela
 In 1986 P. W. ---------- declares South African national emergency. `botha
-In 323 B.C. ---------- the Great dies of fever at Babylon`alexander
 In 323 B.C. Alexander the Great dies of ---------- at Babylon`fever
 In 323 B.C. Alexander the Great dies of fever at ---------- `babylon
 In 1991 Chicago ---------- win their first NBA championship in a 4-1 series against the Los Angeles Lakers. `bulls
@@ -178,7 +177,6 @@ In 1991 Boris ---------- elected president of Russian SSR. `yeltsin
 In 1579 Sir Francis ---------- lands on the coast of California.`drake
 In 1579 Sir Francis Drake lands on the coast of---------- .`california
 In 1870 George---------- , the inventor of "Wheaties" cereal`cormack
-In 1882 Igor---------- , composer (Firebird Suite, The Rite of Spring)`stravinsky
 In 1885 Statue of Liberty arrived in NYC aboard the French ship `---------- '.`isere
 In 1917 Dean---------- , singer, actor born`martin
 In 1946 Barry---------- , singer, jingle writer (Like a Good Neighbor...)`manilow
@@ -193,7 +191,6 @@ In 1985 Eighteenth Space Shuttle Mission - ---------- is launched.`discovery 5
 In 1812 War of 1812 begins as US declares war against---------- .`britain
 In 1815 Battle of ---------- -- British and Prussians defeat Napoleon.`waterloo
 In 1873 Susan B. ---------- fined $100 for attempting to vote for President.`anthony
-In 1877 James Montgomery---------- , illustrator, best known for his "I want you" Uncle Sam recruiting poster`flagg
 In 1953 ---------- proclaimed a republic.`egypt
 In 1977 Space Shuttle test model the "Enterprise" carries a crew aloft for the first time. It was fixed to a modified---------- .`boeing 747
 In 1981 Supreme Court Justice Potter Stewart retires. (replaced by ---------- first woman on the high court).`sandra day o'connor
@@ -267,17 +264,12 @@ In 1978 James Christy's discovery of Pluto's moon ---------- announced.`charon
 In 1987 Fred ---------- actor/dancer, dies at Century City Hospital in LA at 88.`astaire
 In 1987 Fred Astaire actor/dancer, dies at Century City Hospital in LA at`eighty eight
 In 1846 George ---------- inventor (the saxophone), born.`sax
-In 1868 Christopher Latham ---------- patents "Type-writer"`sholes
 In 1894 Alfred ---------- entomologist/sexologist (Kinsey Report), born.`kinsey
 In 1894 Duke of ---------- [King Edward VIII of England] (briefly in 1936), born.`windsor
 In 1902 Dr Howard T ---------- Boston, a designer of Univac computer, born.`engstrom
 In 1912 Alan ---------- mathematician pioneer in computer theory (Turing Machine), born.`turing
-In 1970 Rocker Chubby ---------- arrest for marijuana pocession`checker
 In 1972 Nixon & ---------- agree to use CIA to cover up Watergate`haldeman
 In 1975 Rocker Alice ---------- falls of stage in Vancouver, breaks 6 ribs`cooper
-In 1989 The movie "---------- " premiers`batman
-In 1895 Jack---------- , boxer (The Manassa Mauler) born`dempsey
-In 1942 Mick---------- , musician born`fleetwood
 In 1314---------- , under King Robert I, defeats England.`scotland
 In 1509 Henry ---------- becomes King of England.`viii
 In 1947 First reported sighting of Flying Saucers, near Mt. Rainier, ---------- by Kenneth Arnold of Boise, Idaho. `washington
@@ -341,7 +333,6 @@ In 1975 David Bowie releases "---------- ".`fame
 1958 ---------- beats Sweden 5-2 in soccer's 6th World Cup at Stockholm.`brazil
 1964 1st draft of Star Trek's pilot "---------- " released.`the cage
 1967 Jayne Mansfield actress, dies in a car crash at `thirty four
-1978 Bob Crane actor (Hogan's Heroes), murdered at`fifty nine
 1893 ---------- diamond (blue-white 995 carats) discovered.`excelsior
 1894 Korea declares independence from---------- , asks for Japanese aid.`china
 1908 Giant fireball impacts in Central ---------- (Tunguska Event).`siberia
@@ -664,10 +655,8 @@ In 1543 England's King ---------- weds Catherine Parr (6th and last wife). `henr
 In 1543 England's King Henry VIII weds Catherine ---------- (6th and last wife). `parr
 In 1689 Orangeman's Day -- Battle of the---------- , Protestant victory in Ireland. `boyne
 In 1689 Orangeman's Day -- Battle of the Boyne, ---------- victory in Ireland. `protestant
-In 1730 Josiah---------- , English pottery designer, manufacturer born`wedgewood
 In 1895 Oscar---------- , lyricist, born  who worked with Richard Rodgers `hammerstein ii
 In 1928 First televised ---------- match. `tennis
-In 1937 Dr. William---------- , comedian, actor born`cosby
 In 1960---------- , first passive satellite launched. `echo i
 In 1960 USSR's ---------- launched with 2 dogs. `sputnik 5
 In 1962 Cosmonaut ---------- in space first time 2, manned craft in space. `popovich
@@ -734,12 +723,10 @@ In 1869 Margarine is patented in---------- , for use in the French Navy. `paris
 In 1902 Jean---------- , of Belgium, president of European Commission (1967-70) `rey
 In 1902 Jean Rey, of---------- , president of European Commission (1967-70) `belgium
 In 1918 St. ---------- 's Day. `vladimir
-In 1946 Linda ---------- (in Tucson, Arizona), singer born`ronstadt
 In 1943 ---------- quintuplets born in Buenos Aires, Argentina. `diligenti
 In 1944 ---------- Observatory is damaged by World War II flying bomb. `greenwich
 In 1952 First helicopter ---------- flight began. `transatlantic
 In 1958 US troops occupy---------- , stay 3 months. `lebanon
-In 1960 Kim ---------- (in Lockport, NY), Sports Illustrated swimsuit covergirl born`alexis
 In 1975 Soyuz 19 and ---------- launched; rendezvous 2 days later. `apollo 18
 In 1212 Battle of---------- ; end of Moslem power in Spain. `las navas de tolosa
 In 1212 Battle of Las Navas de Tolosa; end of ---------- power in Spain. `moslem
@@ -749,17 +736,11 @@ In 1548 La Paz, ---------- is founded. `bolivia
 In 1746 Giuseppe---------- , discovered first asteroid, Ceres `piazzi
 In 1746 Giuseppe Piazzi, discovered first asteroid, ---------- `ceres
 In 1872 ---------- Amundsen, Norwegian explorer, discoverer of South Pole born `roald
-In 1872 Roald---------- , Norwegian explorer, discoverer of South Pole born`amundsen
-In 1872 Roald Amundsen, Norwegian explorer, discoverer of ---------- born`south pole
 In 1888 ---------- Zernike, inventor of phase-contrast microscope (Nobel 1953) `frits
 In 1888 Frits---------- , inventor of phase-contrast microscope (Nobel 1953) `zernike
 In 1888 Frits Zernike, inventor of phase-----------  microscope (Nobel 1953) `contrast
 In 1888 Frits Zernike, inventor of phase-contrast ---------- (Nobel 1953) `microscope
 In 1896 ---------- Lie, first Secretary-General of UN (1946-52) `trygve
-In 1907 Barbara---------- , actor born`stanwyck
-In 1907 Orville---------- , popcorn king born`redenbacher
-In 1911 Virginia ---------- (a.k.a. Ginger Rogers), dancer, actor born`mcmath
-In 1915 ---------- Andrews (in Minneapolis, MN), singer (Andrew Sisters) born`laverne
 In 1945 First atomic blast, ---------- Site, Alamogordo, New Mexico. `trinity
 In 1969---------- , first manned ship to land on the moon, is launched. `apollo 1
 In 1674 Isaac ---------- (in England), writer and preacher, born. `watts
@@ -797,7 +778,6 @@ In 1848 William Gilbert---------- , Victorian England's greatest cricketer `grac
 In 1853 Hendrik Antoon---------- , Dutch physicist (Nobel 1902) `lorentz
 In 1872 Britain introduced the concept of voting by ---------- ballot. `secret
 In 1936 Spanish Civil War began as Gen. Francisco ---------- led uprising. `franco
-In 1949 Hunter S. Thompson, ---------- journalist born`gonzo
 In 1955 First electric power generated from ---------- sold commercially. `atomic energy
 In 1968 ---------- Corporation is incorporated. `intel
 In 1980---------- , first Indian satellite, is launched. `rohini
@@ -1059,9 +1039,6 @@ In 1991 ---------- Indurain of Spain wins the Tour de France bicycle race. `migu
 In 1991 Miguel ---------- of Spain wins the Tour de France bicycle race. `indurain
 In 1991 Miguel Indurain of ---------- wins the Tour de France bicycle race. `spain
 In 2061 ---------- recorded perihelion passage of Halley's Comet. `31st
-In 1871 ---------- Rasputin, Russian monk born`grigori
-In 1871 Grigori---------- , Russian monk born`rasputin
-In 1871 Grigori Rasputin, ---------- monk born`russian
 In 1883 ---------- Mussolini (Il Duce), Italian facist dictator born`benito
 In 1883 Benito ---------- (Il Duce), Italian facist dictator born`mussolini
 In 1899 First ---------- race, Manhattan Beach, N.Y. `motorcycle
@@ -1358,15 +1335,10 @@ In 1864 ---------- Anniversary. `red cross
 In 1879 ---------- Zapata, Mexican revolutionary, peasant leader `emiliano
 In 1879 Emiliano---------- , Mexican revolutionary, peasant leader `zapata
 In 1884 ---------- Teasdale, poet born`sara
-In 1884 Sara---------- , poet born`teasdale
 In 1900 First Davis Cup ---------- matches, held in Boston. The U.S. defeats Britain. `tennis
 In 1900 First Davis Cup tennis matches, held in---------- . The U.S. defeats Britain. `boston
 In 1900 First Davis Cup tennis matches, held in Boston. The ---------- defeats Britain. `u.s
 In 1900 First Davis Cup tennis matches, held in Boston. The U.S. defeats---------- . `britain
-In 1930 ---------- Warhol, artist, movie producer born`andy
-In 1930 Andy---------- , artist, movie producer born`warhol
-In 1938 ---------- Stevens (in Brooklyn, NY), singer born`connie
-In 1938 Connie ---------- (in Brooklyn, NY), singer born`stevens
 In 1978 U.S. launches Pioneer ---------- probe. `venus
 In 480 B.C. ---------- defeats Spartan king Leonidas at Thermopylae. `persia
 In 480 B.C. Persia defeats ---------- king Leonidas at Thermopylae. `spartan
@@ -1558,7 +1530,6 @@ In 1385 ---------- defeat Castilians at Aljubarrota, retain independence. `portu
 In 1385 Portuguese defeat ---------- at Aljubarrota, retain independence. `castilians
 In 1385 Portuguese defeat Castilians at---------- , retain independence. `aljubarrota
 In 1457 Oldest exactly dated ---------- (c. 3 years after Gutenberg). `printed book
-In 1777 ---------- Christian Oersted, physicist, chemist born`hans
 In 1777 Hans ---------- Oersted, physicist, chemist born `christian
 In 1777 Hans Christian---------- , physicist, chemist born `oersted
 In 1777 Hans Christian Oersted, ---------- , chemist born `physicist
@@ -1568,10 +1539,7 @@ In 1846 Henry ---------- Thoreau jailed for tax resistance. `david
 In 1846 Henry David ---------- jailed for tax resistance. `thoreau
 In 1880 Construction of ---------- Cathedral is completed. `cologne
 In 1893 ---------- issues first driving licenses, including a required test. `france
-In 1903 ---------- Ringling North, circus director born`john
-In 1903 John ---------- North, circus director born`ringling
 In 1903 John Ringling---------- , circus director born`north
-In 1903 John Ringling North, ---------- director born`circus
 In 1912 ---------- US marines invade Nicaragua; US remains until 1925. `2,500
 In 1912 2,500 US marines invade---------- ; US remains until 1925. `nicaragua
 In 1917 ---------- declares war on Germany and Austria at start of WW I. `china
@@ -1581,7 +1549,6 @@ In 1941 Franklin D. ---------- and Winston S. Churchill signed the Atlantic Char
 In 1941 Franklin D. Roosevelt and Winston S. ---------- signed the Atlantic Charter. `churchill
 In 1947 ---------- gains independence from Britain rule. `pakistan
 In 1947 Pakistan gains independence from ---------- rule. `britain
-In 1958 ---------- "Magic" Johnson, NBA star (LA Lakers) born`earvin
 In 1958 Earvin "---------- " Johnson, NBA star (LA Lakers) born `magic
 In 1958 Earvin "Magic"---------- , NBA star (LA Lakers) born `johnson
 In 1966 First US ---------- orbiter. `lunar
@@ -2008,8 +1975,6 @@ In 1791 John ---------- granted a US patent for his working steamboat `fitch
 In 1847 ---------- was proclaimed an independent republic. `liberia
 In 1883 ---------- began erupting with increasingly large explosions. `krakatoa
 In 1901 Gen. ---------- D. Taylor, former US Army chief of staff born`maxwell
-In 1901 Gen. Maxwell D.---------- , former US Army chief of staff born`taylor
-In 1904 ---------- Isherwood, novelist, playwright (I Am a Camera) born`christopher
 In 1907 ---------- escapes chains underwater at Aquatic Park in 57 seconds. `houdini
 In 1914 Germans defeat Russians in Battle of---------- . `tannenberg
 In 1920 ---------- amendment passes -- women's suffrage granted (about time!). `19th
@@ -2052,7 +2017,6 @@ In 1929 Ira---------- , author (Rosemary's Baby, Sleuth, This Perfect Day) `levi
 In 1941 ---------- V. Malyshev, Soviet cosmonaut (Soyuz T-2, T-11) `yuri
 In 1941 Yuri V.---------- , Soviet cosmonaut (Soyuz T-2, T-11) `malyshev
 In 1943 ---------- 'Tuesday' Weld (in New York City), actor born`susan
-In 1943 Susan '---------- ' Weld (in New York City), actor born`tuesday
 In 1943 Susan 'Tuesday' ---------- (in New York City), actor born `weld
 In 1985 ---------- Space Shuttle Mission - Discovery 6 is launched. `20th
 In 1789 Sir ---------- Herschel discovers Saturn's moon Enceladus. `william
@@ -2131,251 +2095,73 @@ In 1964 ---------- Marciano former heavyweight champ, dies in a plane crash. `ro
 In 1964 Rocky ---------- former heavyweight champ, dies in a plane crash. `marciano
 In 1980 Poland's ---------- labor union founded. `solidarity
 In 1988 5-day power blackout of downtown ---------- begins. `seattle
-In which sport could you perform a 'cross buttock', a 'flying mare' or an 'Irish whip'`wrestling
-What is the capital of Kosovo`pristina
-Which company has a logo officially called 'The Swoosh'`nike
-Which American city is known colloquially as 'Foggy Bottom'`washington d c
-Who played Gregory in the film Gregory's Girl`john gordon sinclair
 In the Mel Brooks film Silent Movie , who was the only person with a speaking part`marcel marceau
-In this country he is called 'Action Man', but what is he called in America`g i joe
-In which city was the White Star liner 'Titanic' built`belfast
 Liverpool M.P. William Huskisson, who died in 1839, was the first person in the world to die by what method`he was hit by a train
-Which type of aircraft was the most successful during the Battle of Britain`hurricane
 What was the name of the character, played by Bruce Willis, in the Die Hard films`john mclaine
-What was the title of the follow-up to the television series Please Sir`the fenn street gang
-In comic literature, what was the name of Billy Bunter's sister`bessie
-Which country other than Scandinavia, American coastline, Iceland and Greenland has fjords`new zealand
 In which English town is the Headquarters of the S.A.S.`hereford
 In which town is the British Army's main prison, known to all soldiers, past and present, as The Glasshouse`colchester
 If Harry Enfield is Wayne Slob, who is Waynetta Slob`kathy burke
-What was the highest man-made structure at the start of the 20th Century`eiffel tower
-Which part of the body is affected by phlebitis`veins
-Whose face has Madonna got tattooed on her bottom`marilyn monroe
-Which creature did Oliver Reed have tattooed on his genitals`eagle
-What is advertised on television as being 'reassuringly expensive'`stella artois
-Which film featured the characters called Fast Eddie Felson and Minnesota Fats`the hustler
 Which was the only film actor who was one of The Magnificent Seven and also one of The Dirty Dozen`charles bronson
-Which animal has varieties called 'Cornish Rex', 'Rag Doll' and 'Scottish Fold'`domestic cat
-Which company is the shirt sponsor for Leicester football club`walker's crisps
-Which Royal Navy ship featured in the B.B.C. television documentary Sailing`ark royal
-In which city, other than New York, would you find the Statue of Liberty`paris
-Which famous fictional creature lived in the 'Great Grimpen Mire`hound of the baskervilles
 What do American golfers call a hole in one`ace*
-Which British motor manufacturer produced a model called the 'Elf'`riley
-What was Cilla Black's real surname before she was married`white
-From which language does the word 'alibi' come`latin
 Funchal is the capital of which holiday island`madeira
 Which terrorist group killed 11 Israeli athletes at the 1972 Munich Olympics`black september
 After whom is the U S state of Virginia named`elizabeth i
 In which North-West town or city is the Ashton Memorial`lancaster
-The Guggenheim Museum in New York is the work of which architect`frank lloyd wright
-In which region of France is the wine Chablis produced`burgundy
 Who composed the opera 'Boris Godunov' `modeste mussorgsky
-What name is given to the staff or crook of a bishop`crozier
 How many tricks must be won to make game in 'No trumps' in Contract Bridge`nine
-Which fast food chain did Chris Waddle, Stuart Pearce and Gareth Southgate promote in TV adverts`pizza hut
-In which North-West town or city is Rylands Library`manchester
-Who composed the opera 'Eugene Onegin'`tchaikovsky
 Who was the Egyptian god of the dead`anubis
-What type of clothing is a filibeg`kilt
 In which region of Italy is the wine Chianti produced`tuscany
-Which is the lowest ranking suit in Contract Bridge`clubs
-Which Athletics world record was held by cricketer C B Fry`long jump
 Who was known as 'The Railway King'`george hudson
-Who was reputedly the father of Cleopatra's first child`julius caesar
-In Egyptian Mythology which goddess was the mother of Horus`isis
-In which TV soap would you find Reverend Ashley Thomas`emmerdale
-What was the nationality of the composer Arnold Schoenberg`austrian
-Mold is in which now restored Welsh county`flint shire
-Whose most recent book is called 'The White House Connection'`jack higgins
 Who was known as 'America's Sweetheart'`mary pickford
 Which Roman emperor was reputedly poisoned by his wife Agrippina`claudius
-Ruthin is in which now restored Welsh county`denbighshire
 In Coronation Street, who has been revealed as the father of Ashley Peacock`fred elliott
-What was the nationality of the composer Cesar Franck`belgian
 In Mathematics what name is given to a pair of angles whose sum is 90 degrees`complementary
-What is the common name of the plant Impatiens`busy lizzie
-What colour is the star on the flag of Vietnam`yellow
 In the Book of Judges who delivered Israel from the Midianites`gideon
-Which astronomical unit is equal to 3.26 light years`parsec
-Whose most recent book is called 'The Brethren'`john grisham
 In the Bible, who was Sarah's Egyptian servant, the mother of Ishmael`hagar
-Which unit is defined as the power necessary to lift 33,000 pounds a distance of 1 foot in 1 minute`one horsepower
-On a music score what name is given to the key and meter (or time) signs at the beginning of a composition`signature
-What colour is the circle on the flag of Bangladesh`red
-Which school of architecture was founded in Weimar in 1919`bauhaus
-In which 1999 film was Anna Scott the world's most famous film star in London when she met bookseller William Thacker`notting hill
 Where on TV would you find guests Major Gowen and Miss Tibbs`fawlty towers
 From which language does the word 'alcohol' come, originally`arabic
-Santa Cruz is the capital of which holiday island`tenerife
 Freddie Marsden was the drummer in which group that had three number one hits in the UK in 1963`gerry and the pacemakers
-In golf the Americans call it a double eagle. What do we call it`albatross
 Which British motor manufacturer produced a model called the 'Hunter'`hillman
-In 1974 which heiress was kidnapped by the Simbionese Liberation Army`patty hearst
-Which psychologist and psychiatrist introduced the term 'inferiority complex'`alfred adler
 Who established the Presbyterian form of Protestantism in Switzerland`john calvin
 In which county were Charles Dickens and Jane Austen born`hampshire
-Carthusians are old boys of which school`charterhouse
 What was the name of Ian Fleming's Caribbean retreat`goldeneye
-In which unusual place did Sarah Bernhardt take to sleeping`coffin
-Who played Dennis Potter's "Singing Detective" on TV in 1986`michael gambon
 Which Briton won the gold medal in the 100 metres in Moscow in 1980`allan wells
-As what was the 19th century Prime Minister Arthur Wellesley better known`duke of wellington
-In which Shakespeare play do Katherine and her sister Bianca appear`taming of the shrew
 Which major river flooded York in November 2000`the ouse
-Sir Robert Watson-Watt was a pioneer in which field during WW2`radar
-What does the prefix mega mean when it's used precisely in science`one million
-The town of Montelimar in France is famous for producing what`nougat
 Which large marsh, once thought bottomless, lies between Liverpool and Manchester`chat moss
-What was the Oregon Pine renamed to honour its discoverer, a Scottish botanist`douglas fir
-Whose book "Hannibal" became a paperback best-seller in 2000`thomas harris
-Which duo did well with "Bye Bye Love" in 1957`everly brothers
-In which British comedy film did Kevin Kline win the Oscar for Best Supporting Actor in 1988`a fish called wanda
-What useful device was invented and marketed by Charles Moncky`the monkey wrench
-Which former Marine published the first volume of his diaries in 2000`paddy ashdown
-Which British film, set in the north of England during the miners' strike, had a massive release in the U.S.A. in November 2000`billy elliot
-Which genus of redwood conifers was named to commemorate a great Cherokee Indian`sequoia
-Edward III did well between 1346 and 1356. But what catastrophe cast a terrible blight over that decade`the black death
 Which country's highest mountain is named after a Polish patriot who never went there`australia
 Which country improbably beat England in the 1950 World Cup - at Belo Horizonte in Brazil`u s a
-How many wooden objects are normally in full view on a cricket field during play`twelve
-Which Cuban heavyweight won his third consecutive gold medal in Moscow in 1980`teofilo stevenson
 Which composer originally dedicated his third symphony to Napoleon, but changed his mind when his hero declared himself Emperor`beethoven
-Which continent's highest mountain is made up of three extinct volcanoes, Mawensi, Shira, and Kibo, the youngest and highest`africa
-Sir Archibald MacIndoe was a pioneer in which field during WW2`plastic surgery
 How does Tracy Emin make her living`artist
-How does Darcy Bussell make her living`ballet dancer
-Who was Paul Bradley's biography "The Stately Homo", published in 2000, about`quentin crisp
-Which major river flooded and cut all rail links to Derby in November 2000`the derwent
 With which British film did Brenda FrIcker break out of "Casualty" and win the Best Supporting Actress Oscar in 1989`my left foot
 "The tumult and the shouting dies" is a line from the poem "Recessional". Who wrote it`kipling
-Which extravagant and insensitive Austrian widow was guillotined in 1793`marie antoinette
-By what name was the 19th century sporting eccentric John Sholto Douglas better known He won a famous libel case in 1895`the marquess of queensberry
-Who, as at November 28th 2000, is still the manager of Middlesbrough Football Club`bryan robson
-Which outlaw is the favourite subject of the artist Sidney Nolan`ned kelly
-Which composer dedicated his first symphony to Harriet Smithson and later married her`berlioz
-Which song from the 1942 film "Holiday Inn" has achieved the greatest sales of any record ever`white christmas
 In which Shakespeare play do Toby Belch and Andrew Aguecheek appear`twelfth night
-Which large marsh, once a haunt of smugglers, lies between Hythe and Rye on the south coast`romney marsh
 Which new M.P. for Oldham entered Parliament in 1900, the year his first novel was published`winston churchill
-Who played Jack Ford in "When The Boat Comes In" on TV in 1975`james bolam
-What improbable instrument does Finland's current pop star Kimmo Pohjanen play`the accordion
 Which detective-story/thriller writer's no. 1 best-seller "The Testament" came out in paperback in 2000`john grisham
-What were the favourite subjects of Victorian artist Edwin Landseer`animals
-Which kitchen device contains a magnetron`microwave oven
 Who appeared regularly on "Just a Minute" on Radio 4 until he died, usually coming last`peter jones
-Which tatty TV series which started in 1977 has been filmed with Cameron Diaz, Drew Barrymore and Lucy Liu playing the title roles`charlie's angels
-The murderer Dr. Crippen was medically qualified, but what was he in London`a dentist
 "What passing bells for these who die as cattle`" is the first line of the poem "anthem for doomed youth". who wrote it*wilfred owen
 Gladys Knight and the Pips sold a million copies of "I heard it through the grapevine" in the US in 1967, whose version got to no. 1 in 1969`marvin gaye
-Who is no longer the manager of Chelsea, having been sacked in 2000`gianluca vialli
-Which sea-green incorruptible was guillotined in 1794`robespierre
-The town of Grasse in France is famous for producing what`perfume
-Which lachrymose character teaches Alice to sing "The Lobster Quadrille"`the mock turtle
 In "Pilgrims Progress", who imprisoned Christian and Hopeful in Doubting Castle`giant despair
-What was the name of the character played by David Jason in the T. V comedy series 'Open all hours'`granville
-Who, in 1977, was the first woman to ride in the Grand National`charlotte brew
-Which astronomer and military band conductor discovered Uranus in 1781`w f herschel
 What is the alternative name for the coastal plant the sea pink, which featured on the reverse of the old threepenny bit`thrift
-Which birds are the only ones to fly backwards`hummingbirds
 Which physicist and former surveyor discovered the law which bears his name explaining the tension of a spring`robert hooke
 Which grammatical term is used to describe deliberate understatement`litotes
-Which bird has nostrils at the end of its beak`kiwi
-'Herb of Grace', is the name given to which strong smelling herb`rue
-Which grammatical term is used to describe unnecessary repetition`tautology
-In which country is the Banff National Park`canada
-Which 'Sidney' made his film debut at the age of 61 in 'The Maltese Falcon'`sidney greenstreet
-Hits from which decade were on the soundtrack of the film 'Good Morning Vietnam'`60's
-In which country is the Fiordland National Park`new zealand
-On TV which pub is Del Boy's local`nag's head
-Which film about Arnhem in WW2 was criticized as 'A Film Too Long'`a bridge too far
-Which 'Sidney' won a best actor Oscar for, 'Lilies of the Field'`sidney poitier
-On TV which character runs the Woolpack pub in 'Emmerdale'`bernice blackstock
-Under what pseudonym does Harry Paterson also write`jack higgins
-On which circuit is Motor racing's Grand Prix D'Endurance run`le mans
-Who wrote the fairy story Hansel and Gretel`brothers grimm
-Under what other name does Stephen King write`richard bachman
-What nationality was fairy tale author Hans Christian Andersen`danish
 Which famous motor race is run every year at the Brickyard`indianapolis 500
-Which wine has the varieties Malmsey and Sercial`madeira
-Which British Prime Minister brought in a 10.30 pm TV curfew in 1973`edward heath
-How many pieces are on the board at the start of a game of backgammon`thirty
-In which country was the first modern motorway created`italy
 Which British Prime Minister wrote the novels Coningsby and Sybil`benjamin disraeli
 In Blue Grass music who is Flatt's partner`scruggs
-In Britain what is the background colour on road signs on Motorways`blue
-In the game of Cluedo what is the name of the Reverend`green
-Who is credited with inventing scat singing`louis armstrong
-What is the name of Mary Quant's London Fashion shop in the 60's`bazaar
-Where was the Royal Mint situated until 1810`tower of london
-Where is a fish's caudal fin`the tail
 What is the name of the store founded by Barbara Hulanicki in the 60's`biba
 Who came to the English throne on the death of Henry I`stephen
-What is a dogfish called when it is bought for food`rock salmon
 Which hospital once stood on the site of the Imperial War Museum`bedlam
-Who came to the throne on the death of Edward IV`edward v
-The 1948 musical 'Where's Charley' was based on which English farce`charley's aunt
-What is the capital city of Azerbaijan`baku
-Which golfing term signifies as many holes in front of an opponent as there are holes left to play`dormie
-Which 1950 musical is based on the characters of Damon Runyon`guys and dolls
-In Holst's Planet Suite, which planet is the bringer of Peace`venus
 The Royal Liverpool Golf Course is not in Liverpool, where is it`hoylake
-On which island is the capital of Hawaii`oahu
-In Holst's Planet Suite, which planet is the bringer of Jollity`jupiter
-Reporters of which newspaper uncovered the Watergate scandal`washington post
-What on a cat are its vibrissae`whiskers
 A vest in America is which garment`waistcoat
-Which film character owned a newspaper called 'The Enquirer'`citizen kane
-Jean Valjean is the central character in which novel`les miserables
-The American word 'suspenders' is used for which accessory in Britain`braces
-Which is the only mammal capable of true flight`bat
-Who was the fictional inhabitant of Skull Island`king kong
-Which girl's name links Stephen King novel, Cliff Richard single and Princess Leia in 'Star Wars'`carrie
 Which number results if you add the number of Apostles to the number of sides in a decagon`twenty two
-Which Agatha Christie title comes from a nursery rhyme involving a mouse`hickory dickory dock
 Which day of the week links an Easybeats single, a killer called Jason and Robinson Crusoe`friday
-What is the name of Morticia's husband in TV's 'Addams Family'`gomez
-Which Agatha Christie title comes from a nursery rhyme involving birds`pocket full of rye
 What number results if you add the number of Commandments to the faces of a regular icosahedron`thirty
-What is the name of Morticia's son in TV's 'Addams Family'`puggsley
-Which is the home state of former US President Jimmy Carter`georgia
-Which country do the pop group Black Box come from`italy
-Who wrote the novel 'The Van'`roddy doyle
-In fiction Michael Henchard was Mayor of which town`casterbridge
 Which writer left a fortune in his will to develop a new phonetic alphabet`g b shaw
 Who won best actress Oscar in 2000 for 'Boys don't Cry'`hilary swank
-What is a pretzel`salted biscuit
 What is prosciutto`italian smoked ham
 Who won best supporting actress Oscar in 2000 for 'Girl Interrupted'`angelina jolie
 On Children's TV who has friends called Wendy, Muck and Scoop`bob the builder
-In the Bible, in which village did Lazarus live`bethany
 Luke Vandervelde is the new head of which retail business`marks & spencer
-Which miracle did Jesus perform at Cana`water into wine
 Vanessa Bell was the artist sister of which writer`virginia woolf
-Who did the Walrus and the Carpenter take for a walk`the oysters
-Who was forced to resign as head of the Dome in early 2000, and is now with Railtrack`jenny page
-Who famously faked Samuel Palmer's paintings`tom keating
-Who had a 1965 hit with 'Windmill in old Amsterdam'`ronnie hilton
-What is the 4th in the Harry Potter series of books`harry potter and the goblet of fire
-Which European city is served by Barajas airport`madrid
-Who had a 1961 hit with '(Home in) Pasadena'`temperance seven
-Which West End musical stars Lucy Arnaz and Ian McShane`witches of eastwick
-Which European city is served by Findel airport`luxembourg
-For what does the K stand in the name of the author J.K. Rowling`kathleen
-Which West End musical stars Elaine Paige and Jason Scott Lee`the king & i
-Who won the Women's 400m race in the Sydney 2000 Olympics`kathy freeman
 How many railway stations are there on a Monopoly board`four
-Trappist monks belong to which order`cistercians
-Who won the first Women's Modern Pentathlon to feature in the Olympics in Sydney 2000`stephanie cook
 Who is King of Jordan`abdullah ii
-Capuchin monks belong to which order`franciscans
-On a Monopoly Board, what colour is Regent Street`green
-Who is Emperor of Japan`akihito
-Which is the World's 3rd highest mountain`kangchenjunga
-Which 15 a side stick and ballgame was once outlawed by the Statute of Kilkenny`hurling
-Which American's first successful play was 'All My Sons'`arthur miller
 Which is the 3rd nearest star to the solar system`barnard's star
-Which French city stands at the confluence of the Rhone & Saone rivers`lyon
-Whose last play was 'What the Butler Saw'`joe orton
-Which 12 a side stick and ball game is played principally in Scotland`shinty
-Which German city stands at the confluence of the Elbe and Alster rivers`hamburg

@@ -79,7 +79,6 @@ Name The Artist: The Humpty Dance`digital underground
 Name The Artist: I Didn't Want To Need You`heart
 Name The Artist: I Don't Have The Heart`james ingram
 Name The Artist: I Go To Extremes`billy joel
-Name The Artist: I Remember You`skid row
 Name The Artist: I Wanna Be Rich`calloway
 Name The Artist: I Want You`shana
 Name The Artist: I Wish It Would Rain Down`phil collins
@@ -92,11 +91,9 @@ Name The Artist: If U Were Mine`the u-krew
 Name The Artist: If Wishes Came True`sweet sensation
 Name The Artist: Impulsive`wilson phillips
 Name The Artist: It Must Have Been Love`roxette
-Name The Artist: Janie's Got A Gun`aerosmith
 Name The Artist: Jerk Out`the time
 Name The Artist: Joey`concrete blonde
 Name The Artist: Just A Friend`biz markie
-Name The Artist: Just Between You And Me`lou gramm
 Name The Artist: Keep It Together`madonna
 Name The Artist: Kickstart My Heart`motley crue
 Name The Artist: King Of Wishful Thinking`go west
@@ -108,7 +105,6 @@ Name The Artist: Love & Emotion`stevie b
 Name The Artist: Love Child`sweet sensation
 Name The Artist: Love Is`alannah myles
 Name The Artist: Love Me For Life`stevie b
-Name The Artist: Love Song`tesla
 Name The Artist: Love Takes Time`mariah carey
 Name The Artist: Love Will Lead You Back`taylor dayne
 Name The Artist: Lyin' To Myself`david cassidy
@@ -638,7 +634,6 @@ How is Samuel Clemens better known`Mark Twain
 How is german measles also known`Rubella
 How is the 15th March also known`Ides of March
 How is the chess term 'shah mat' better known`Checkmate
-How is the mathematically related structure of beads strung on parallel wires in a rectangular frame better known`abacus
 How is the stockmarket collapse of the 24th October 1929 better known`Black Thursday
 How many bits are in a nibble`4four
 How many countries have a population over 130 million`Seven(Pakistan, Russia, Brazil, Indonesia, United States, India and China)
@@ -650,7 +645,6 @@ How many muscles are in a human`639*six hundred and thirty nine
 How many pieces are found in a chess set`32*thirty two
 How many seconds are in a day`86400*eighty six thousand and four hundred
 How many stab wounds did Julius Caesar have when he died`23*twenty three
-How many years were between the creation of the Mangna Carta and the American Declaration of Independence`561
 How old was Alexander the Great when he died`32*thirty two
 How was 'Abu Yusuf Ya'qub ibn Is-haq ubn as-Sabbah ibn 'omran ibn Ismail al-Kindi' better known`The philospher of the Arabs
 How was William Pitt the Elder's son known`William Pitt the Younger
@@ -665,24 +659,18 @@ In the 17th century which country started taxing beards`Russia
 In the 1855 Russian War, what were used to transport Torpedos`Kites
 In the 9th century which city had several thousand bookstores`Baghdad
 In the Gregorian calendar after 10,000 years by how many days will the calendar be wrong by`Three
-In the kama-sutra the art of which game is recommened for women to study`chess
 In the period 978-1016 England was ruled by which 'Unready' king`Ethelred
 In the year 2000 which companies CEO was the worlds second richest man`Oracle
 In what type of building did Plato and Aristotle teach`Gymnasium
-In what year did China become a communist state`1949
 In which book is Scheherazade a story teller`arabian Nights
 In which city is the Sistine Chapel`Rome
 In which country was natural gas first discovered`Greece
 In which country was the first Zoo`China
-In which country would you find Ayers Rock`australia
 In which country would you find Dunkirk`France
 In which field of science is the history of the universe studied`Cosmology
 In which month is the Earth nearest the Sun`January
 In which organ is Bile produced`Liver
 In which state are the Everglades`Florida
-In which year did London Underground open`1863
-In which year was John F. Kennedy elected`1960
-In which year was the First Crusade`1095
 In which year was the Rosetta stone written`196 BC
 Nutagak, perksertok and pokaktok are Eskimo words for what`Snow
 On a chemical what does a skull and cross-bone mean`Toxic
@@ -738,14 +726,12 @@ What does NATO stand for`North Atlantic Treaty Organization
 What does UNESCO stand for`United Nation Educational, Scientific and Cultural Organization
 What does ietf stand for`Internet Engineering Task Force
 What does the 'touch of Midas' turn everything into`Gold
-What does the Latin RIP stand for`requiescat in pace
 What does the ancient Greek word 'electron' mean`amber
 What does the latin 'luna' mean`Moon
 What does the latin 'carpe diem' mean`Seize the day
 What does the word khaki mean`Dusty
 What element has the periodic table name Au`Gold
 What element has the periodic table name Na`Sodium
-What element has the periodic table name Sb`antimony
 What element has the periodic table name Sn`Tin
 What famous stone structure is located near Salisbury`Stonehenge
 What happened at 2:56 on the 21st July 1969`Manned moon landing
@@ -755,12 +741,10 @@ What is Interpol short for`International Criminal Police Commision
 What is LCD an abbreviation of`Liquid Crystal Display
 What is MUD an abbreviation for`Multiple User Dungeon
 What is PLO an abbreviation for`Palestine Liberation Organization
-What is a Salamander`amphibian
 What is another name for iron oxide`Rust
 What is brine`Salt water
 What is e.g. an abbreviation of`Exempli gratia
 What is it that walks on four feet in the morning, two feet at noon, and three feet in the evening`Man
-What is known as the Lost Continent`atlantis
 What is known as the graveyard of the Atlantic`Sable Island
 What is the 30th longest river in the world`The Thames
 What is the British equivalent of the US Navy rank Rear Admiral (lower half)`Commodore
@@ -777,7 +761,6 @@ What is the lead in pencils made from`Graphite
 What is the luminous intensity of light measured in`Candela
 What is the most common animal`Sea worm
 What is the name for 0.1 Newtons`Dyne
-What is the name for the deepest part of the ocean`abyss
 What is the name of the belief that many gods exist, but only one should be worshipped`Monolatry
 What is the name of the board that Baduk is player on`Goban
 What is the name of the layer between the Earth's crust and the Earth's core`Mantle
@@ -805,7 +788,6 @@ What name is given to animals which eat both plants and meat`Omnivore
 What name is given to animals which have pouches`Marsupials
 What name is given to animals which only eat meat`Carnivore
 What name is given to animals which only eat plants`Herbivore
-What name is given to farms which specialise in growing crops`arable
 What name is given to farms which specialise in rearing animals`Patoral
 What name is given to the abominable snowman`Yeti
 What name is given to the point where a river starts`Source
@@ -988,13 +970,5 @@ Name that film: 2001 Fantasy/Adventure, Elijah Wood, Ian McKellen, Viggo Mortens
 Name that film: 2001 Fantasy/Adventure, Richard Harris, Maggie Smith, Daniel Radcliffe, Robbie Coltrane, Alan Rickman`Harry Potter and the Sorceror's Stone
 Name that film: 1983 Drama/Comedy, Tom Berenger, Glenn Close, Jeff Goldblum, Kevin Kline, Meg Tilly, Mary Kay Place`The Big Chill
 Name that film: 1986 Adventure/Drama, Wil Wheaton, River Phoenix, Corey Feldman, Jerry O'Connell`Stand by Me
-Earth's outer layer of surface soil or crust is called the _____________.`lithosphere
-This county has the lowest point in South America.`argentina
-What US City is known as The River capital of the world`Akron
-Who created Maudie Frickett`Jonathan Winters
-Who sought to create The Great Society`Lyndon Johnson
-Who wrote the Father Brown crime stories`GK Chesterton
 What does the C stand for in the equation E=mc2 `Speed of light
-What's a funambulist`tightrope walker
-What's the worlds widest river`Amazon
 What weapon is tattooed on Glen Campell's arm`dagger

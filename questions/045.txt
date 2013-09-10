@@ -19,7 +19,6 @@ How many calories are there in a glass of water`0
 How many cards are there in each suit of a standard deck`thirteen
 How many cells die in the human body every minute`300,000,000
 How many chambers does the human heart have`four
-How many championship divisions are there in boxing`eight
 How many children did Adam & Eve have`three
 How many children did Noah have`three
 How many cigars did Sir Winston Churchill ration himself to a day`fifteen
@@ -32,20 +31,15 @@ How many cylinders does a V-8 engine have`eight
 How many days and nights did the Lord flood the earth while Noah and his family were safely aboard the ark`forty*40*fourty
 How many days are there in a fortnight`fourteen
 How many days are there in a leap year`three hundred & sixty six
-What is a group of geese called`gaggle
 What is a group of gulls called`colony
 What is a group of hens called`brood
 What is a group of larks called`exaltation
 What is a group of leopards called`leap
-What is a group of locusts`plague
 What is a group of monkeys called`troop
 What is a group of peacocks called`muster
-What is a group of squirrels called`dray
-What is a group of squirrels called`dray
 What is a horse's foot called`hoof
 What is a husky most likely to be pulling`sled
 What is a jockey's uniform called`silks
-What is a 'kartoffel' in germany`potato
 What is a lipid`fat
 What is a male swan called`cob
 What is a male swine called (no ex boyfriends names...)`boar
@@ -60,7 +54,6 @@ What is a portuguese man o' war`jellyfish
 What is a pugilist`boxer
 What is a pyrotechnic display`fireworks
 What is a rhinocerous horn made of`hair
-What is a six sided polygon called`hexagon
 What is a skin specialist called`dermatologist
 What is a small fertile area in a desert called`oasis
 What is a sound called when it bounces back to the person who made it`echo
@@ -129,11 +122,9 @@ What is keranothenatophobia`fear of artificial satellites falling on one's head
 What is located at 350 fifth avenue in New York City`empire state building
 What is Madame Tussaud's`wax museum
 What is made up of England, Scotland, Wales & Ireland`united kingdom
-What is measured by a geiger counter`radioactivity
 What is measured in fathoms`depth of water
 What is missing from the 'Venus de Milo'`arms
 What is mixed with tin to produce bronze`copper
-What is 'mpd'`multiple personality disorder
 What is Mr. Roger's first name`fred
 What is name of the tubes that connect the ear & throat`eustachian
 What is New Brunswicks highest point at 820 m`mount carleton
@@ -141,7 +132,6 @@ What is New York City's 'street of forgotten men'`bowery
 What is normal body temperature for an adult human`98.6
 What is one of the flavors that make up neopolitan ice cream`strawberry
 What is one of the items that the wood of the sycamore tree is used for`boxes
-What is 'pollo' on a menu in rome`chicken
 What is produced by putting a whole "maris piper" in an oven until it goes soft inside`baked potato
 What is quicksilver better known as`mercury
 What is removed with an orchidectomy`testicle
@@ -175,10 +165,8 @@ Name the carnivorous mammal related to the hyena`aardwolf
 Name the European hit, now an animated series about underwater people`the snorks
 Name the fastest land animal over a prolonged distance (1,000 yd. Plus)`antelope
 Name the heaviest breed of domestic dog`st bernard
-Name the heaviest flying bird of prey`condor
 Name the largest island in the world`australia
 Name the minister who was hanged at Salem, Massachusetts for witchcraft`george burroughs
-Name the only country with a national dog`holland
 Name the porceilan chair you sit on at least once a day`toilet
 Name the smallest breed of dog`chihuahua
 Name the US state with the smallest population`alaska
@@ -194,7 +182,6 @@ Ncaa: who were the finalists in the men's basketball championship in 1947`holy c
 Nervous as a long tailed cat in a room full of ______`rocking chairs
 Non dairy creamer is _________`flammable
 Nuclear membrane, cytoplasm, &  nucleus are parts of a ______`cell
-Of sin, cos or tan, which graph is not differentiable at all points`tan
 Of which fruit is "pearmain" a variety`apple
 Of who was Oedipus king`thebes
 Often eaten for breakfast, the egg comes from what barnyard animal`chicken
@@ -244,11 +231,8 @@ What 2 countries share the Khyber pass`afghanistan and pakistan
 What dead african leader was originally known as Ras Taffari`haile selassie
 What nursery rhyme character was arachnaphobic`little miss muffet
 What king dissolved the English monastries`henry viii
-What makes plants green`chlorophyll
-Where do pilgrims go to march around the Kaaba and kiss The Black Stone`mecca
 How was Australias most infamous bush ranger`ned kelly
 Who was the Lady of the Lamp`florence nightingale
-What inert gas is used in fluorescent lights`argon
 Where is the Longchamps race track`paris
 What is the shortest and bloodiest of Shapespeare's plays`macbeth
 How many locks are there on the Suez Canal`none
@@ -266,16 +250,13 @@ What is the worlds warmest sea`dead sea
 Of what country is Tripoli capital`libya
 What does barley become when prepared for brewing`malt
 What does the painting The Battle of Gettysburg claim to be`worlds largest
-What is the only country in the world that starts with the letter O in English`oman
 What is the fruit of the hawthorn called`haw
 What novel did Daphne du Mauruer write about Cornish Shipwreckers`jamaica inn
 What are lust, pride, anger, envy, sloth, averice and gluttony`seven deadly sins
 What London landmark has an 11 foot long hand`big ben
 What fictional detective was created by Lesley Charteris`simon templar*the saint
-What berries give gin its flavour`juniper berries
 What river was Francisco de Orellano the first to travel the length of`amazon
 What was the name of Mary Pickford's and Douglas Fairbanks mansion`pickfair
-What does a dipsomaniac crave`alcohol
 What can be measured in angstroms`wavelengths
 Which mountains are between the Caspian Sea and the Black Sea`caucasus
 Who was accused of smuggling $225 million out of the Philippines`imelda marcos
@@ -539,15 +520,12 @@ Who initiated the works of the Bible`king solomon
 Who invented analytic geometry`descartes
 Who invented Coca Cola`dr john pemberton
 Who invented Cornflakes`john harvey kellog
-Who invented dynamite`alfred nobel
 Who invented mass car production`henry ford
 Who invented popsicles`george orwell
 Who invented the air brake`george westinghouse
 Who invented the assembly line`henry ford
 Who invented the bunsen burner`robert bunsen
 Who invented the chair`egyptians
-Who invented the cotton gin`eli whitney
-Who invented the difference engine`charles babbage
 Who invented the electric cooking range`thomas ahearn
 Who invented the electrical bass`leo fender
 Name that car:`aston martin
@@ -920,8 +898,6 @@ Music : Category: Sgt Peppers Beatles Tunes: "You should hear what they say abou
 Music : Category: Shades Of Red: Chris DeBurgh admired this woman.`the lady in red
 Music : Category: Shades Of Red: Early 20th century tune had Casey waltzing with this woman...`strawberry blond
 Music : Category: Shades Of Red: Fairy tale character sung about by Sam the Sham and the Pharoahs.`little red riding hood
-Music : Category: Shades Of Red: Follow-up release to Warrant's "Cherry Pie"`i saw red
-Music : Category: Shades Of Red: Follow-up release to Warrant's "Cherry Pie"`i saw red
 Music : Category: Shades Of Red: Johnny Hurricanes' rock version of "Red River Valley"`red river rock
 Music : Category: Shades Of Red: Kate Bush album title mentions this type of apparel`the red shoes
 Music : Category: Shades Of Red: Ray Charles, Dion, and Kenny Rogers all sang about this woman.`ruby

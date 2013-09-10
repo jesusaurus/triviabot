@@ -45,7 +45,6 @@ Who in 1988 became the first elected female prime minister in an Islamic country
 Who invented James Bond`ian fleming
 Who invented Penicillin`alexander fleming
 Who invented Tetris`alexi pazhitnov
-Who invented dynamite`alfred nobel
 Who invented logarithms`john napier
 Who invented the Hoovercraft`cristopher cockrell
 Who invented the Telephone`alexander graham bell
@@ -202,7 +201,6 @@ In "Star Trek", what colour was Mr Spock's blood`green
 What style of music was pioneered by jazzmen Charlie Parker and Dizzy Gillespie`be bop
 Which silent film actor was known as "The Great Stone Face"`buster keaton
 In golf, what is the woman's equivalent of the Ryder Cup`the solheim cup
-Who was the first unseeded man to win Wimbledon`boris becker
 At which Grand Prix circuit did Ayrton Senna lose his life`san marino
 Which capital is the largest city in Africa`cairo
 Where was the decimal system developed`india
@@ -269,7 +267,6 @@ Organic chemistry is the study of materials that must contain what`carbon
 Which ocean is the worlds deepest on average`pacific
 In what year were neon lights invented`1911
 Who is the English aristocrat that forms part of the Thunderbirds team`lady penelope
-Which group was formed in 1972 by Don Henley and Glen Fry`the eagles
 Where is the home of golf`st andrews, scotland
 What sport is governed by the rules drafted by the Marquis of Queensbury`boxing
 What fraction of a metre is a micron`a millionth
@@ -396,17 +393,7 @@ Odontophobia is the fear of`teeth*dental surgery
 Odynephobia is the fear of`pain
 Oenophobia is the fear of`wines
 Oikophobia is the fear of`home surroundings*house
-Olfactophobia is the fear of`smells
-Ombrophobia is the fear of`rain
-Ommetaphobia is the fear of`eyes
-Oneirogmophobia is the fear of`wet dreams
-Oneirophobia is the fear of`dreams
 Oikophobia is the fear of`home surroundings*house
-Olfactophobia is the fear of`smells
-Ombrophobia is the fear of`rain
-Ommetaphobia is the fear of`eyes
-Oneirogmophobia is the fear of`wet dreams
-Oneirophobia is the fear of`dreams
 Onomatophobia is the fear of`hearing a certain word
 Ophidiophobia is the fear of`snakes
 Ophthalmophobia is the fear of`being stared at
@@ -417,112 +404,20 @@ Osmophobia is the fear of`smells*odors
 Ostraconophobia is the fear of`shellfish
 Ouranophobia is the fear of`heaven
 Pagophobia is the fear of`ice*frost
-Panophobia is the fear of`everything
-Panthophobia is the fear of`suffering and disease
-Pantophobia is the fear of`fears
-Papaphobia is the fear of`the pope
-Papyrophobia is the fear of`paper
-Paralipophobia is the fear of`neglecting duty
-Paraphobia is the fear of`sexual perversion
-Parasitophobia is the fear of`parasites
-Paraskavedekatriaphobia is the fear of`friday the 13th
 Parthenophobia is the fear of`virgins*young girls
-Parturiphobia is the fear of`childbirth
-Pathophobia is the fear of`disease
-Patroiophobia is the fear of`heredity
-Peccatophobia is the fear of`sinning
-Pediculophobia is the fear of`lice
-Pediophobia is the fear of`dolls
-Pedophobia is the fear of`children
-Peladophobia is the fear of`bald people
-Pellagrophobia is the fear of`pellagra
-Peniaphobia is the fear of`poverty
-Pentheraphobia is the fear of`mother-in-law
-Phagophobia is the fear of`swallowing
-Phalacrophobia is the fear of`becoming bald
-Phallophobia is the fear of`penis
-Pharmacophobia is the fear of`taking medicine
-Pharmacophobia is the fear of`drugs
-Phasmophobia is the fear of`ghosts
 Phengophobia is the fear of`daylight*sunshine
-Philemaphobia is the fear of`kissing
-Philophobia is the fear of`falling in love
-Philosophobia is the fear of`philosophy
-Phobophobia is the fear of`one's own fears
 Phonophobia is the fear of`noises*voices
-Photoaugliaphobia is the fear of`glaring lights
-Photophobia is the fear of`light
-Phronemophobia is the fear of`thinking
-Phthiriophobia is the fear of`lice
-Phthisiophobia is the fear of`tuberculosis
-Pinigerophobia is the fear of`smothering
-Placophobia is the fear of`tombstones
-Plutophobia is the fear of`wealth
-Pluviophobia is the fear of`rain
-Pneumatiphobia is the fear of`spirits
 Pnigophobia is the fear of`choking*being smothered
-Pocrescophobia is the fear of`gaining weight
-Pogonophobia is the fear of`beards
-Poinephobia is the fear of`punishment
-Poliosophobia is the fear of`contracting poliomyelitis
-Politicophobia is the fear of`politicians
-Polyphobia is the fear of`many things
 Ponophobia is the fear of`overworking*of pain
-Porphyrophobia is the fear of`the color purple
 Potamophobia is the fear of`rivers*running water
-Potophobia is the fear of`alcohol
-Proctophobia is the fear of`rectum
-Prosophobia is the fear of`progress
-Psellismophobia is the fear of`stuttering
-Psychophobia is the fear of`mind
-Psychrophobia is the fear of`cold
-Pteromerhanophobia is the fear of`flying
-Pteronophobia is the fear of`being tickled by feathers
-Pupaphobia is the fear of`puppets pyrexiophobia
-Pyrophobia is the fear of`fire
-Radiophobia is the fear of`radiation, x-rays
-Ranidaphobia is the fear of`frogs
 Rhabdophobia is the fear of`being severely punished*beaten by a rod
-Rhypophobia is the fear of`dirt
-Rhytiphobia is the fear of`getting wrinkles
-Russophobia is the fear of`russians
-Samhainophobia is the fear of`halloween
-Satanophobia is the fear of`satan
 Scelerophibia is the fear of`bad men*burglars
-Schlionophobia is the fear of`school
-Sciophobia is the fear of`shadows
-Scoleciphobia is the fear of`worms
-Scolionophobia is the fear of`school
-Scopophobia is the fear of`being stared at
-Scotomaphobia is the fear of`blindness in visual field
-Scotophobia is the fear of`darkness
-Scriptophobia is the fear of`writing in public
-Selaphobia is the fear of`light flashes
-Selenophobia is the fear of`the moon
-Seplophobia is the fear of`decaying matter
-Sesquipedalophobia is the fear of`long words
-Sexophobia is the fear of`the opposite sex
-Siderodromophobia is the fear of`trains
-Siderophobia is the fear of`stars
 Sinistrophobia is the fear of`things to the left*left-handed
-Sinophobia is the fear of`chinese, chinese culture
 Sitophobia is the fear of`food*eating
-Snakephobia is the fear of`snakes
-Soceraphobia is the fear of`parents-in-law
-Social phobia is the fear of`being evaluated negatively
-Sociophobia is the fear of`society
-Somniphobia is the fear of`sleep
-Sophophobia is the fear of`learning
-Soteriophobia is the fear of`dependence on others
-Spacephobia is the fear of`outer space
 Spectrophobia is the fear of`spectres*ghosts
-Spermophobia is the fear of`germs
-Spheksophobia is the fear of`wasps
 Stasibasiphobia is the fear of`standing*walking
 Staurophobia is the fear of`crosses*the crucifix
 Stenophobia is the fear of`narrow things*narrow places
-Stygiophobia is the fear of`hell
-Suriphobia is the fear of`mice
 Buffy the Vampire Slayer: Which actress plays Buffy the Vampire Slayer`sarah michelle gellar
 Buffy the Vampire Slayer: Which actor plays Spike`james marsters
 Buffy the Vampire Slayer: Which actor plays Xander Harris`nicholas brendon
@@ -868,7 +763,6 @@ Music: What singer has albums such as 'Out of Range' and 'To the Teeth'`Ani DiFr
 Music: Syd Barrett is a former member of what band`Pink Floyd
 Music: Andy Warhol created an album cover for what band`The Velvet Underground
 Music: Which Tori Amos album contains the songs 'Icicle', 'Cornflake Girl', and 'Space Dog'`Under the Pink
-Who is the patron saint of Wales`st david
 Who is the Roman goddess of peace`pax
 Who is the silhouette on the major league baseball logo`harmon killebrew
 Who is the smallest member of the European union`luxembourg
@@ -923,7 +817,6 @@ Who received seven perfect scores in gymnastics at the 76 montreal olympics`nadi
 Who refused to leave the table when gambling &  invented a new meal`earl of sandwich
 Who refused to shake Jessie Owens' hand at the 1936 summer olympics`adolf hitler
 Who reigns over Japan   an emperor, a king or a queen`emperorWho replaced moses as the prophet of the Israelites*joshua
-Who rode naked through the streets of Coventry`lady godiva
 Who ruled the seas in Greek mythology`poseidon
 Who runs Andy Capp's favorite pub`jackie
 Who said "let them eat cake"`marie antoinette
@@ -940,7 +833,6 @@ Who shot Abraham Lincoln`john wilkes booth
 Who shot Lee Harvey Oswald`jack ruby
 Who sleeps in a matchbox at Geppetto's house, in pinocchio`jiminy cricket
 Who sought to create the great society`lyndon johnson
-Who spells his name T I double grr`tigger
 Who spoiled Muhammand Ali's 1980 comeback`larry holmes
 Who started the Dragonlance series`margaret weiss &  tracy hickman
 Who stopped Bjorn Borg's wimbledon winning streak`john mcenroe

@@ -225,7 +225,6 @@ What is the only Scandinavian country the Arctic Circle doesnt cut through`denma
 Which Australian coast is Perth on`west
 Where in Europe would you visit the village of Y`france
 Where is the International Court of Justice`hague
-What country's currency is the bolivar`venezuela
 What is the capital city of Tennessee`nashville
 What coast of Australia is Sydney on`east
 Which is farthest south, Athens, Madrid or Rome`athens
@@ -257,7 +256,6 @@ What country has the highest per capita consumption of cheese`france
 What is the only European country that uses schillings`austria
 What German city is famed for a scent it produces`cologne
 What part of highland dress is a filiberg`kilt
-What is the capital of Afghanistan`kabul
 What sea sparkles between Asia Minor and Greece`aegean
 What language does obrigado mean 'thank you' in`portuguese
 What country administers Greenland`denmark
@@ -315,7 +313,6 @@ What South American country uses the same vowel three times in first five letter
 What is the nearest communist country to Key West`cuba
 What mountain range marks the border of France and Spain`pyrenees
 What letter is on the hot water tap in France`c
-Where are the everglades`florida
 What are the seven things Sheffield and Rome have in common`hills
 What is a resident of Moscow called`muscovite
 Where do you go to row on the Po`italy
@@ -343,7 +340,6 @@ What is the former name of Istanbul`constantinople
 What does the River Kennet join at Reading`thames
 What American state's capital is Indianapolis`indiana
 What is the familiar name of the fair city also known as Baile Atha Cliath`dublin
-What is the world's largest sea`mediterranean
 What country has 100 mongo to the tugrik`mongolia
 What country contains the easternmost point in South America`brazil
 What is the nearest republic to England`france
@@ -355,7 +351,6 @@ What airline is Queensland and Northern Territory Aerial Services`qantas
 What country's flag flies over the Canary Islands`spain
 How many national parks does Scotland have`none
 What country's national folk hero is called Holger Danske`denmark
-Where are three quarters of the world's pineapples grown`hawaii
 What is the northernmost country in continental South Africa`colombia
 How many continents are there`seven
 What East Anglian town is at Britain's most extreme eastern point`lowestoft
@@ -391,7 +386,6 @@ What country does the tourist mecca of Bali belong to`indonesia
 What do you catch at a stazione ferroviaria in Italy`train
 What country is called Bharat in Hindi`india
 What colour are Venetian gondolas, except those of high public officials`black
-What is the second largest continent`africa
 What is the largest city in Alaska`anchorage
 Where are the Nazca Lines`peru
 What country sprang from the union of Tanganyika and Zanzibar`tanzania
@@ -404,7 +398,6 @@ Where is the Cordon Bleu School of Cooking`paris
 What is Greece's largest island`crete
 What did the Romans call Scotland`caledonia
 What is the capital of Syria`damascus
-What is the capital of Afghanistan`kabul
 What river is known as China's Sorrow because of its flooding`yellow
 What is the most popular drink in Greece`ouzo
 What river begins in Syria and passes through Lake Tiberias into the Dead Sea`jordan
@@ -419,7 +412,6 @@ What is the capital of columbia`bogota
 What is the most common Spanish surname`garcia
 What country's capital is Tirana`albania
 What is the capital of Majorca`palma
-Where are the everglades`florida
 What sea seperates Naples and Algiers`mediterranean
 What country's largest city is Sao Paulo`brazil
 What do the Spaniards call Spain`espana
@@ -793,7 +785,6 @@ What is a goat's offspring called`kid
 What is a Mexican hairless`dog
 What molecule did James Watson and Francis Crick unravel in 1944`dna
 What is a grosbeak`bird
-What inside corn makes it pop`water
 What element's chemical symbol is Pb`lead
 What, translated literally is the 10th month`december
 What is June's birthstone`agate
@@ -852,7 +843,6 @@ What does ECG stand for`electrocardiogram
 What does a dipsomaniac crave`alcohol
 What colour are a scallop's 35 eyes`blue
 What is the most widely used seasoning in the world`salt
-What sense is most closely linked to memory`smell
 What does the horned toad squirt from it's eyes when it's angry`blood
 What is a monkey puzzle`tree
 What inert gas is used in fluorescent lights`argon
@@ -886,7 +876,6 @@ What is Japanese sake made from`rice
 What animal lives in a lodge`beaver
 What mark indicates British Standards Institute approval`kite
 What is a crowfoot with yellow flowers`buttercup
-What do you call a female calf`heifer
 What is the international radio code word for the letter Q`quebec
 What do goldfish lose if kept in running or dimly lit water`colour
 What does the Binet test measure`intelligence
@@ -911,7 +900,6 @@ What does the typical man have 13,000 of`whiskers
 What satellite series name was Russian for 'fellow traveller'`sputnik
 How many humps does a Dromedary have`one
 What is the main ingredient in Coca Cola after water`sugar
-What creatures call an apiary home`bees
 What celestial body has a diameter of 864,000 miles`sun
 What does a phobophobe fear`fear
 What are iron pyrites often mistaken for`gold
@@ -957,7 +945,6 @@ How many times is the capacity of a pipe increased if the diameter is doubled`fo
 What colour is the inside of a pistachio nut`green
 What is a shark's skeleton made of`cartilage
 How many feet are there in a fathom`six
-What ability has the silkworm moth lost through domestication`flight
 What bird can swim but cant fly`penguin
 What does a nihilist believe in`nothing
 What is the world's most common compound`water
@@ -979,7 +966,6 @@ What bird is famed for nesting on chimneys`stork
 What is the anatomical term for the voice box`larynx
 What does a horologist measure`time
 What move about in gaggles`geese
-What season begins with the vernal equinox`spring
 What is the largest satellite orbiting Earth`moon
 What kind of fruit were the golden apples of Greek mythology`apricots
 What is the international radio code word for the letter T`tango
@@ -995,6 +981,5 @@ How many eyes does a bat have`two
 What kind of wood was the Kon Tiki raft made of`balsa
 What is the common name of the vegetable Beta Vularis`beetroot
 What part of the body is inflamed in hepatitus`liver
-Where would you find the medulla oblongata`brain
 Who was the Greek father of medicine`hippocrates
 Do mosquitoes have teeth`yes

@@ -37,7 +37,6 @@ What was the name of King Arthur's sword`excalibur
 What was the name of king arthur's sword`excalibur
 What was the name of long john silver's parrot`captain flint
 What was the name of richard dawson's character on 'hogan's heroes'`peter
-What was the name of the Addams family's giant man-eating plant`Cleopatra
 What was the name of the alligator on Miami Vice`elvis
 What was the name of the ant people created by zeus`myrmidons
 What was the name of the aunt in the western How the West Was Won`molly
@@ -45,9 +44,7 @@ What was the name of the bartender in the tv series 'cheers'`sam malone
 What was the name of the beatles' corporation after it was known as 'the beatles and company'`apple
 What was the name of the beatles' corporation before it was renamed 'apple'`beatles and company
 What was the name of the dog owned by nick and nora charles in the thin man`asta
-What was the name of the Duke of Wellington, who defeated Napoleon at the battle of Waterloo`Arthur Wellesley
 What was the name of the exclusive dress store that the clampetts bought`the
-What was the name of the exclusive dress store that the clampetts bought`the house of renee
 What was the name of the family featured in `Father Knows Best'`andrews
 What was the name of the first film where george burns played god`oh, god
 What was the name of the first space shuttle ever built`enterprise
@@ -63,7 +60,6 @@ What was the name of the ranch in the tv series 'bonanza'`ponderosa
 What was the name of the sad faced clown portrayed by Emmett Kelly`Weary
 What was the name of the scandal that resulted in the resignation of president nixon`watergate
 What was the name of the seasick sea serpent`cecil
-What was the name of the Titanic's sister ship`Olympic
 What was the name of the train on the tv series petticoat junction`cannonball
 What was the name of the union jack that was used to capture blackbeard off ocracoke island in 1718`ranger
 What was the name of the white gang in "west side story"`jets
@@ -81,7 +77,6 @@ What was the Oscar-winning theme song for "Breakfast at Tiffany's"`moon
 What was the penalty (in britain) in 1810 for stealing a pocket handkerchief`hanging
 What was the pharon`lighthouse
 What was the profession of our man higgins`butler
-What was the profession of Ted Bundy`attorney
 What was the real name of the gangster known as pretty boy`charles floyd
 What was the royal name 'mountbatten' originally`battenberg
 What was the royal residence after st james court`buckingham palace
@@ -105,13 +100,9 @@ What was tokyo originally known as`edo
 What was Tom Clancy's blockbuster first novel, published in 1984`The Hunt
 What was u2's first album released in the u.s`boy
 What was used for blood in the film 'psycho'`chocolate syrup
-What was William H. Bonney's nickname`Billy the kid
 What was willie mosconi famed for shooting`pool
-What was Wilma Flintstone's maiden name`Wilma Slaghoopal
 What was winston churchill's wife's name`clementine
 What was Yosser's catchword`gizzajob
-What weapon is tattooed on Glen Campell's arm`dagger
-What weapon is tattooed on Glen Campell's arm`dagger
 What weighs less than a penny`hummingbird
 What were comfrey baths were believed to restore`virginity
 What were king arthur's knights called`knights of the round table
@@ -135,13 +126,11 @@ What winged hindu god of love carries a bow and arrow`kama
 What woman is the wife of prince phillip, the mother of anne, andrew, charles and edward, and the daughter of george vi`elizabeth ii
 What woman is thought of as the greatest trick shot artist of all time`annie
 What woman is thought of as the greatest trick shot artist of all time`annie oakley
-What woman won 6 gold medals in the Olympic Summer games`Kristin Otto
 What wonder stood 32m high in rhodes harbour`colossus of rhodes
 What word describes the practice of growing and tending of a forest`silviculture
 What word do we get from shah mat`checkmate
 What word is derived from the arabic word al-kimia`chemistry
 What word is from the anglo-saxon 'dyppan'`dip
-What word is used for a female fox`vixen
 What word may be used to refer to a group of gnats`horde
 What word may be used to refer to a group of peacocks`muster
 What word of greek origin means 'a general pardon'`amnesty
@@ -158,15 +147,12 @@ What year did coca-cola first go on sale`1886
 What year did sir richard whittington die`1423
 What year did was the great stock market crash that lead to the great depression`1929
 What year saw sugar jump from nine cents to fifty-eight cents a pound`1973
-What year saw the launch of Sputnik I`1957
 What year was film introduced to replace glass in making photographic negatives`1891
 What year was the bacall-bogart movie "the guys from milwaukee" released`1946
 What year was the intel pentium processor introduced`1993
 What year was the movie "The Love Bug" released`1969
 What year's Winter Olympics introduced the super giant slalom`1988
 What yellow fossilized resin was used in jewellery by the greeks and romans`amber
-What yellow, fossilized resin did the Greeks and Romans use in jewelry`Amber
-What yummy snack is used in the construction of dynamite`Peanuts
 What's a "cat-o'-nine-tails"`whip
 What's a "group" of toads called`knot
 What's a "semaphore"`arm signals
@@ -174,8 +160,6 @@ What's a 10-20 to a police officer`location
 What's a Coelacanth`fish
 What's a disk of gas orbiting a star of black hole called`accretion disk
 What's a farm that has both cattle and crops called`mixed farm
-What's a funambulist`tightrope walker
-What's a funambulist`tightrope walker
 What's a ginkgo`tree
 What's a microchip made of`silicon
 What's a natatorium`swimming pool
@@ -183,7 +167,6 @@ What's a new yorker trying to bribe a way into when offering "key money"`apartme
 What's a truffle`edible fungus
 What's an angle subtended by the diameter of an object called`angular
 What's another name for a mountain lion`puma
-What's another word for stewardess`air hostess
 What's been the ruin of many a poor boy in New Orleans`house of the rising
 What's belgium's main port`antwerp
 What's bottled in jeroboams`champagne
@@ -211,11 +194,8 @@ What's the ancient greek word for "great city"`megalopolis
 What's the apparent gap between saturn's a and b rings called`cassini
 What's the average annual temperature worldwide (Fahrenheit)`fifty eight
 What's the basic unit for measuring electric energy`joule
-What's the better-known name of the card game Twenty-One`Blackjack
-What's the better-known name of the card game Twenty-One`Blackjack
 What's the capital of Comoros`moroni
 What's the capital of ecuador`quito
-What's the capital of jordan`amman
 What's the capital of kentucky`frankfort
 What's the capital of Malaysia`kuala lumpur
 What's the capital of michigan`lansing
@@ -232,7 +212,6 @@ What's the circulation of winds around a low pressure system called`cyclone
 What's the common name for hydrogen hydroxide`water
 What's the Cray-2 immersed in`subzero flurocarbon fluid
 What's the currency in algeria`dinar
-What's the echidna's favorite food`ants
 What's the fifth largest country in the world`brazil
 What's the first sign of the zodiac`aries
 What's the fourth book of the new testament`john
@@ -251,8 +230,6 @@ What's the largest USA metro area without an NHL franchise`dallas
 What's the last name of the most famous ornithologist`audubon
 What's the locale for the farmer's daughter`washington dc
 What's the location for newhart`vermont
-What's the longest river in Asia`yangtze
-What's the longest river in Asia`yangtze
 What's the longest river in the british isles`shannon
 What's the longest tendon in the body`achilles tendon
 What's the main boulevard of paris`champs elysee
@@ -278,12 +255,8 @@ What's the official state sport of alaska`dog sledding
 What's the oldest fraternity in america`phi beta kappa
 What's the oldest university in rhode island`brown university
 What's the only day named for a planet`Saturday
-What's the only element capable of tarnishing and damaging gold`mercury
 What's the only mammal that can't jump`elephant
-What's the only property an orthodox Hindu woman can own`Jewelry
-What's the opposite of the orient`the occident
 What's the parent company of the "jack-in-the-box" hamburger chain`ralston
-What's the point scored immediately after deuce in tennis`Advantage
 What's the predominant church in greece`greek orthodox church*greek orthodox
 What's the primary function of two-thirds of a shark's brain`detecting
 What's the principal river of ireland`shannon
@@ -305,8 +278,6 @@ What's the unit of measure for a racehorse's height`hand
 What's the USA's largest legal cash crop`corn
 What's the world's largest fresh-water island`manitoulin
 What's the world's most common compound`water
-What's the worlds widest river`Amazon
-What's the worlds widest river`Amazon
 What's ulster`northern ireland
 What's used to make grenadine syrup`pomegranate
 What, made from the dried stamens of cultivated crocus flowers, is the most expensive cooking spice`saffron
@@ -330,7 +301,6 @@ When did William Lyon Mackenzie King retire`1948
 When did women get the right to vote in the US`august 26, 1920
 When do children grow fastest`springtime
 When do parallel lines meet`never
-When does a full moon always rise`Sunset
 When does a full moon rise`sunset
 When does macau revert to china`1999
 When going on stage, actors consider it bad luck to be wished what`good luck
@@ -342,7 +312,6 @@ When is the shortest day in the northern hemisphere`december
 When is the shortest day in the southern hemisphere`june
 When is the top layer of a wedding cake usually eaten`first anniversary
 When is turkey traditionally eaten in america`thanksgiving
-When Saigon fell, the signal for all Americans to evacuate was this Bing Crosby song playing on the radio.`White Christmas
 When the students in 'dead poets' society' stood on their desks and said 'o captain! my captain', who were they quoting`walt whitman
 When was apartheid introduced in south africa`1948
 When was black the most common colour for automobiles`during the depression
@@ -350,8 +319,6 @@ When was buckingham palace built`1703
 When was crystal palace destroyed`1936
 When was d-day`june 6, 1944
 When was george jones inducted into the country music hall of fame`1992
-When was julius caesar murdered`ides of march
-When was julius caesar murdered`ides of march
 When was nelson mandela released from prison`1990
 When was nelson mandela released from robben island`1990
 When was the Alaskan Highway officially opened`november 21, 1942*11/21/42
@@ -361,8 +328,6 @@ When was the earthquake in tulbach`september 29, 1969
 When was the first black mayor of chicago elected`1983
 When was the first daytime bank robbery`february 14, 1866
 When was the first telephone used`march 10, 1876
-When was the greek alphabet first used`800 bc
-When was the greek alphabet first used`800 bc
 When was the miss world competition founded`1951
 When was the newspaper 'pravda' first published`1912
 When was the resurrection`easter
@@ -407,7 +372,6 @@ Where did aristotle believe the seat of intelligence was`heart
 Where did bagpipes originate`middle east
 Where did bill and hilary clinton switch on christmas lights in 1995`belfast, ireland
 Where did churchill, roosevelt and stalin meet in 1945`yalta
-Where did Clark Kent usually change into his Superman Costume in the Daily Planet building`Store Room
 Where did cuneiform originate`sumer
 Where did dorothy's house land in 'the wizard of oz'`on the wicked witch of
 Where did edam cheese originate`holland
@@ -441,12 +405,9 @@ Where do hippopotamuses do 80%of their vocalizations`underwater
 Where do the english monarchs live`buckingham palace
 Where do the italians host the grand prix`monza
 Where does a tortoise have an upturned shell at its neck so it can eat cactus brances`galapagos islands
-Where does Dilbert think of inventions`In the bathtub
 Where does nessie live`loch ness
 Where does queen elizabeth live when she's in london`buckingham palace
 Where does the annual poker world series take place`las vegas
-Where does the famous 'running of the bulls' take place`pamplona
-Where does the famous 'running of the bulls' take place`pamplona
 Where does the u.s government keep it's supply of silver`west point academy
 Where does the univerity of maryland's football team play its home games`byrd stadium
 Where in the south pacific did the u.s do nuclear bomb tests in 1946`bikini
@@ -468,8 +429,6 @@ Where is cape hatteras`north carolina
 Where is capitol hill`washington dc
 Where is charlottetown`prince edward island
 Where is crystal palace`london
-Where is Dam Square`Amsterdam
-Where is Dam Square`Amsterdam
 Where is eurodisney`paris, france
 Where is frostbite falls`minnesota
 Where is fujiyama`japan
@@ -508,7 +467,6 @@ Where is the "winter carnival" held`quebec
 Where is the 'whispering gallery'`st paul's cathedral
 Where is the annual all-american soap box derby held`akron, ohio
 Where is the arch of hadrian`athens
-Where is the best brandy bottled`cognac, france
 Where is the biggest calibre cannon`kremlin
 Where is the black forest`germany
 Where is the blarney stone`blarney castle
@@ -555,14 +513,11 @@ Where is the taj mahal`india
 Where is the wabash river`indiana
 Where is the wailing wall`jerusalem
 Where is the world's biggest prison camp`siberia
-Where is the world's largest computer manufacturing plant`Japan
 Where is the world's largest desert`north africa
 Where is the world's largest library`washington dc
 Where is tobruk`libya
 Where is tongeren`belgium
 Where is tupelo`mississippi
-Where is westminster abbey`london
-Where is westminster abbey`london
 Where was "Conozca Beatles" released`mexico
 Where was 'g.i joe' introduced on february 9, 1964`annual american
 Where was atahualpa king`peru
@@ -599,7 +554,6 @@ Where was the colossus of rhodes`rhodes harbour
 Where was the earthquake on september 29, 1969`tulbach
 Where was the first known lighthouse`alexandria
 Where was the first shopping mall opened`saint louis
-Where was the first skyscraper in the world built`chicago
 Where was the first speed limit regulation of 20 mph set`england
 Where was the greatest snowfall ever recorded in a single storm`mount shasta
 Where was the home of the flintstones`bedrock
@@ -612,7 +566,6 @@ Where was the septuagint written`alexandria
 Where was the setting for 'shogun'`japan
 Where were 'foul lane', 'stinking lane' and 'bladder street'`london
 Where were arabic numerals first used`india
-Where were both donny and marie osmond born`ogden, ut
 Where were fortune cookies invented`united states
 Where were numerous french nuclear tests conducted`muraroa atoll
 Where were the 1960 summer olympics held`rome
@@ -626,7 +579,6 @@ Where will children as young as 15 be jailed for cheating on their finals`bangla
 Where would one eat a taco`mexico
 Where would one have borscht`poland or russia
 Where would you find the medulla oblongata`brain
-Where would you find the yoruba people`nigeria
 Where's america's oldest zoo`philadelphia
 Where's the 19th hole on a golf course`clubhouse
 Where's the famed Arch of Hadrian`athens
@@ -675,9 +627,7 @@ Which comedian created the character of maude frickert`jonathan winters
 Which comic is drawn by sam keith`the maxx
 Which comic strip did sam keith draw`the maxx
 Which company claimed to be "one step ahead of the rest"`panasonic
-Which company is the largest buyer of sugar in the world`Coca-cola
 Which company produced the syndicated mouse factory series`walt disney
-Which cosmetics giant began in 1886 as the California Perfume company`Avon
 Which country always leads the opening olympic procession`greece
 Which country and western singer is known as the 'okie from muskogee'`merle
 Which country blew up a greenpeace ship in new zealand`france
@@ -696,7 +646,6 @@ Which country is the biggest consumer of wine`france
 Which country is the largest producer of cheese`america
 Which country makes panama hats`ecuador
 Which country occupies the horn of africa`somalia
-Which country saw the Mau Mau uprising`Kenya
 Which country was the setting for The Flame Trees of Thika`kenya
 Which country's name means "equator"`ecuador
 Which country, per capita, uses the most umbrellas`england
@@ -717,13 +666,11 @@ Which emperor made his horse a senator`caligula
 Which english house had the red rose as its symbol`house of lancaster
 Which european peak was first conquered in 1865 by english mountaineer edward whymper`the matterhorn
 Which famous artist lost an ear`vincent van goch
-Which famous artist took up painting with his left hand when he lost the use of his right hand at the age of sixty`Leonardo da Vinci
 Which famous museum is in paris, france`louvre
 Which famous museum opened in london in april 1928`madame tussaud
 Which famous mystery writer created a mystery by disappearing in 1926`agatha
 Which famous mystery writer created a mystery by disappearing in 1926`agatha christie
 Which famous opera house in milan, italy rose to its greatest heights under toscanini`la scala
-Which famous scientist's first published work was a monograph on barnacles`Charles Darwin
 Which famous university is in paris`sorbonne
 Which film ends with 'after all, tomorrow is another day'`gone with the wind
 Which film preceded 'magnum force' and 'the enforcer'`dirty harry
@@ -734,7 +681,6 @@ Which film won the oscar for best picture in 1987`the last emperor
 Which films are about the corleone family`the godfather
 Which flag flies over the canary islands`spanish
 Which football team has been nicknamed the "Orange Crush"`denver broncos
-Which fort did Custer depart from on May 17, 1876, with the Seventh Cavalry on his way to the Little Big Horn`Fort Abraham Lincoln
 Which freezes faster - hot or cold water`hot
 Which freezes faster hot or cold water`hot
 Which frontiersman died at the alamo`davey crockett
@@ -753,7 +699,6 @@ Which houses fought the war of the roses`lancaster and york
 Which imaginery line approximately follows the 180 degree meridian through the pacific ocean`international date line
 Which is cape town's major choir`philharmonic choir
 Which is considered the most powerful piece on the chess board`queen
-Which is the best Poker hand`royal flush
 Which is the deepest mine`western deep levels mine
 Which is the larger of the rhinocerous`white
 Which is the largest african bird of prey`lammergeyer
@@ -774,7 +719,6 @@ Which is the only bird that can see the colour blue`owl
 Which is the only body cell with no nucleus`red blood cell
 Which is the only book written by margaret mitchell`gone with the wind
 Which is the only country that has every type of climate`new zealand
-Which is the only English word to both begin and end with the letters U-N-D`Underground
 Which is the only king in a deck of cards without a moustache`king of hearts
 Which is the only musical bird that can fly backwards`hummingbird
 Which is the only planet that rotates clockwise`venus
@@ -790,12 +734,10 @@ Which is the world's warmest sea`red sea
 Which island do the nationalist chinese occupy`taiwan
 Which island lies to the west of australia`mauritius
 Which island's roads are paved with coral`guam
-Which jazz trumpet virtuoso is credited as having invented scat' singing`Louis Armstrong
 Which jethro tull lp cover showed a man leading two horses`heavy horses
 Which kellogg's cereal was advertised by tusk tusk the elephant`coco
 Which kitchen appliance was invented by fred waring`blender
 Which law did sir isaac newton discover when he was only twenty three years old`law of universal gravitation
-Which lawyer broke the law by refusing to be finger-printed in the Transvaal during 1907`Gandhi
 Which list did sarah ferguson make five times in people's magazine`worst
 Which london station handles trains directly to the continent, through the channel tunnel`waterloo
 Which london street is famous for its hotels`park lane
@@ -808,16 +750,13 @@ Which million dollar building cost more than a million dollars`sydney opera hous
 Which month was named after caesar augustus`august
 Which month was named after julius caesar`july
 Which musical includes the Barbara Dickson/Elaine Page song I Know Him So Well`Chess
-Which musical was based on the play The Matchmaker`Hello Dolly
 Which musician wrote the book "twixt twelve and twenty" in 1958`pat boone
 Which nation did moshoeshoe found`basotho
 Which nation was led by genghis khan`mongolia
 Which nation won the most medals in the 1994 Winter Olympics`norway
-Which nation, on average, takes the longest time over its meals`france
 Which nazi leader had his 6 children poisoned prior to his own death`goebbels
 Which new engine regulation replaced the 2.5 litre rule at the start of the 1961 season`1.5 litre
 Which new york city building was finished in 1931`empire state building
-Which new-wave band rocked the Casbah`The Clash
 Which nfl's defensive unit was named 'the purple people eaters'`minnesota
 Which norse god had the valkyries as handmaidens`odin
 Which number, when doubled, exceeds its half by nine`six
@@ -848,7 +787,6 @@ Which river passes through germany, austria, slovakia, hungary, croatia, yugosla
 Which seattle-based band had a hit with 'daughter'`pearl jam
 Which shakespearean character provided the plot for verdi's only comedy`falstaff
 Which ship did charles darwin captain`hms beagle
-Which side did britain support in the us civil war`confederacy
 Which side of a book are the even-numbered pages usually on`left
 Which singer is a former school teacher`sheryl crow
 Which single didn't get banned by the BBC despite the line, "Candy never lost her head even when she was giving head"`Walk on the wild side
@@ -870,7 +808,6 @@ Which traditional japanese sport takes place in a circular ring`sumo
 Which trio was originally known as the 'primettes'`supremes
 Which TV program "returned control" to you at its conclusion`outer limits
 Which TV series starred Leslie Phillips and donald Sinden as clergymen`Our
-Which TV series starred Leslie Phillips and donald Sinden as clergymen`Our Man At Saint Marks
 Which two books in the old testament list the ten commandments`exodus and
 Which two countries form what used to be called patagonia`chile and
 Which two countries formed tanzania`tanganyika and zanzibar
@@ -887,8 +824,6 @@ Which tyre company withdrew from formula 1 at the end of 1986`pirelli
 Which u.s president said 'the buck stops here'`harry truman
 Which u.s state gets the most rainfall`hawaii
 Which u.s state has the smallest population`alaska
-Which U.S. government branch includes the President and Vice President`Executive
-Which U.S. President pardoned Robert E. Lee posthumously of all crimes of treason`Gerald Ford
 Which us city is called the "windy city"`chicago
 Which us state has the fewest gas stations`alaska
 Which US state has the most vehicles and highways per square mile`new jersey
@@ -922,7 +857,6 @@ Who acquired 4 of the 7 dead sea scrolls in 1955`israel
 Who administers martinique`france
 Who advised us to 'break on through to the other side'`doors
 Who advocated planting peanuts and sweet potatoes to replace cotton and tobacco`george washington carver
-Who advocated the planting peanuts and sweet potatoes to replace cotton and tobacco (i.e. crop rotation)`George Washington Carver
 Who allegedly killed officer JD Tippett`lee harvey oswald
 Who allowed the bugging of the democratic committee headquarters.`richard
 Who always ended her PBS cooking shows with "Bon Appetit"`Julia Childs
@@ -937,7 +871,6 @@ Who are the only brothers to win the pga tournament`lionel and jay hebert
 Who argued it out in 'the kitchen debate'`richard nixon and nikita
 Who assassinated john lennon`mark david chapman
 Who assassinated president kennedy`lee harvey oswald
-Who ate chicken little`foxy loxy
 Who ate watercress to dissolve gravel and stones in the bladder`north
 Who authored 'ivanhoe'`sir walter scott
 Who baptised jesus`john the baptist
